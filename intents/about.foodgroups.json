@@ -10,6 +10,7 @@
       "parameters": [
         {
           "id": "31bfcc23-853b-4553-816b-71b6f5bf6935",
+          "required": false,
           "dataType": "@name",
           "name": "name",
           "value": "$name",
@@ -30,7 +31,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522241177,
+  "lastUpdate": 1522275199,
   "fallbackIntent": false,
   "events": []
 }

@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Vitamin C data include both ascorbic and L-dehydroascorbic acids, as both forms are biologically active, the sum of which is expressed as total ascorbic acid content."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522272709,
   "fallbackIntent": false,
   "events": []
 }

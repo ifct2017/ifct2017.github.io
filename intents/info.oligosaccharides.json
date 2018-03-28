@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oligosaccharides are indigestible but the beneficial colonic bacteria break them down in the large intestine. In the recent times there is great interest in the health properties of non-digestible oligosaccharides (NDO) as prebiotic compounds. Data on the oligosaccharide content in foods are very meager, making it difficult to assess oligosaccharide consumption of any population in the world. Therefore, content of raffinose, stachyose, verbascose and ajugoes in key Indian foods is presented."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522271140,
   "fallbackIntent": false,
   "events": []
 }

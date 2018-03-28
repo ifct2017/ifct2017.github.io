@@ -545,5 +545,11 @@
       "each every",
       "all"
     ]
+  },
+  {
+    "value": "greater",
+    "synonyms": [
+      "greater"
+    ]
   }
 ]

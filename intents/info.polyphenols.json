@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Polyphenols exhibit highly diverse structures characterized by the presence in their structure of one or several phenolic groups. The recognition of the antioxidant properties of polyphenols, and their probable role in the prevention of various diseases associated with oxidative stress has generated great interest. Polyphenols are found abundantly in our diet and over 500 different molecules are known to be present in foods. The IFCT presents data on 37 individual and total polyphenols present in key Indian foods."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522271695,
   "fallbackIntent": false,
   "events": []
 }

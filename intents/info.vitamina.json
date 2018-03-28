@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Vitamin A content is expressed as retinol and provitamin A carotenoid. The groups of plant pigments that are precursors of vitamin A are called carotenoids. Individual carotenoids available in the IFCT includes Lutein, zeaxanthin, lycopene, β-cryptoxanthin, α- carotene, β-carotene, γ-carotene and total carotenoids. The body can utilize these inactive forms once they are converted to the active form, retinol. Vitamin A activity values in Retinol Activity Equivalents (RAE) are calculated from the content of individual carotenoids using appropriate factors. Incidentally, there are many conversion factors for carotenoids and no universal factor exists."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522272550,
   "fallbackIntent": false,
   "events": []
 }

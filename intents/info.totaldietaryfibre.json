@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Total dietary fibre (TDF) is made of complex and heterogeneous polymeric materials such as soluble and insoluble polysaccharides and non-digestible oligosaccharides, as well as a range of non-swellable, more or less hydrophobic compounds such as cutins, suberins and lignins. Currently three different AOAC approved methods for measuring TDF values are available. TDF was analyzed using enzymatic gravimetric method (AOAC 991.43)."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522272370,
   "fallbackIntent": false,
   "events": []
 }

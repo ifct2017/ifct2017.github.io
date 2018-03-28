@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Saponins consist of a polycyclic aglycones attached to one or more sugar side chains and are found in most vegetables, beans and herbs. Saponins were not destroyed by processing or cooking and have many health benefits."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522272126,
   "fallbackIntent": false,
   "events": []
 }

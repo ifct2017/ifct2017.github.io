@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Total fat content of foods is determined by gravimetric methods, including acid hydrolysis and extraction methods using a mixed solvent system of chloroform and methanol. Total fat includes the triglyceride and other lipid components such as glycerol, sterols and phospholipids."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522272447,
   "fallbackIntent": false,
   "events": []
 }

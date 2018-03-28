@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thiamin, Riboflavin and Niacin: Thiamin was determined chemically by the thiochrome procedure and riboflavin by microbiological method. Niacin is determined by microbiological method. The values represent only preformed niacin and do not include the niacin contributed by tryptophan, a niacin precursor. Niacin equivalent applies to the sum of the preformed niacin and the amount that could be derived from tryptophan can be calculated as:\n\nNiacin equivalents (mg) \u003d Niacin (mg)+ (Tryptophan, mg / 60)."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522272263,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,640 @@
+[
+  {
+    "id": "0fd79c73-dc39-4768-98a9-01542f965cbc",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "where",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " than ",
+        "userDefined": false
+      },
+      {
+        "text": "fifty grams",
+        "alias": "unit-weight-name",
+        "meta": "@sys.unit-weight-name",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fat",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "less",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " than ",
+        "userDefined": false
+      },
+      {
+        "text": "10 grams",
+        "alias": "unit-weight-name",
+        "meta": "@sys.unit-weight-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "c83e273b-245d-4011-a0b7-e0ccc14096fa",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "where",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "greater",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " than ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "less",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " than ",
+        "userDefined": false
+      },
+      {
+        "text": "ten grams",
+        "alias": "unit-weight-name",
+        "meta": "@sys.unit-weight-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "f8b38880-c6c8-4f77-8108-ddd66da03355",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "where",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "less",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " than ",
+        "userDefined": false
+      },
+      {
+        "text": "ten grams",
+        "alias": "unit-weight-name",
+        "meta": "@sys.unit-weight-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "f3a35def-36f9-4a41-882b-a69b89701fee",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " average of types of ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "7e6d5495-f06a-413f-acfa-687b791c93c5",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " sum of types of ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "03f24759-54fc-4bd6-8db5-ef11910abad4",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " all types of ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "d82da311-0c2d-418d-9abc-1960c92f54d9",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "64dfaf1e-d0be-4df2-af9a-6dab8ae8dcbd",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "204ab593-92fd-41d8-8847-7ece59af6290",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " that is ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "alias": "reserved-binaryoperator",
+        "meta": "@reserved-binaryoperator",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "c9d2904b-419e-4529-a518-c18615f8d877",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "lowest",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "df7ada72-4d67-48ce-b8b3-effebbc18cdc",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "highest",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  },
+  {
+    "id": "ca0ea730-4532-4847-826f-ecf83199e81d",
+    "data": [
+      {
+        "text": "show",
+        "alias": "reserved-keyword",
+        "meta": "@reserved-keyword",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "table-code",
+        "meta": "@table-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522275292
+  }
+]

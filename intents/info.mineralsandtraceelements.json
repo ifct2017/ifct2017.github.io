@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Minerals and trace elements included in the table are Aluminium, Arsenic, Cadmium, Calcium, Chromium, Cobalt, Copper, Iron, Lead, Lithium, Magnesium, Manganese, Mercury, Molybdenum, Nickel, Phospohorus, Potassium, Selenium, Sodium and Zinc. Except phosphorus, levels of all minerals and trace elements are determined by atomic absorption spectroscopy (AAS) or inductively coupled plasma mass spectrophotometry (ICP-MS). Phosphorus was determined by spectrophotometric method."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522271049,
   "fallbackIntent": false,
   "events": []
 }

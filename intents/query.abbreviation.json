@@ -7,8 +7,22 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "76b1adcc-6a4a-4564-a1e2-b6ca49e6df88",
+          "dataType": "@abbreviations-full",
+          "name": "abbreviations-full",
+          "value": "$abbreviations-full",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its full form is $abbreviations-full."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +30,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522273151,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "dbec67bb-7e2d-4309-97ee-329a451bc5f7",
+    "data": [
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      },
+      {
+        "text": " full form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "68bd9a1a-72db-4a48-89c3-230812d1d16b",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "540af82c-0b2f-4aea-8c7d-24e4bc004e0c",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      },
+      {
+        "text": " full form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "4e16b6c0-9f34-4f44-9cdb-6a9159f5bdeb",
+    "data": [
+      {
+        "text": "whats the meaning of ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "ad4d861d-fd81-4b88-bd47-469f19ea31be",
+    "data": [
+      {
+        "text": "tell me full form of ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "c05b8841-eef4-4c0a-9371-e924a8f46fdd",
+    "data": [
+      {
+        "text": "what is full form of ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  },
+  {
+    "id": "992ce467-6050-4e54-a902-53e7cc007a3a",
+    "data": [
+      {
+        "text": "what is the expanded form of ",
+        "userDefined": false
+      },
+      {
+        "text": "AAS",
+        "alias": "abbreviations-full",
+        "meta": "@abbreviations-full",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273151
+  }
+]

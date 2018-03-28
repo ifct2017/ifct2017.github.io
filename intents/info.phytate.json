@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Phytate is commonly known as phytic acid, inositol hexaphosphate and IP-6. It has received considerable attention as anti-nutrient because it binds minerals in the digestive tract, making them less available metabolically to our bodies. However, in the recent years, some novel metabolic effects of phytate or some of its degradation products have been recognized as antioxidant and may help fight some cancers and other diseases."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522271502,
   "fallbackIntent": false,
   "events": []
 }

@@ -7,16 +7,39 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "1ab2dbbd-6316-4e39-ac51-462efefb1ec9",
+          "required": false,
+          "dataType": "@compositions-tags",
+          "name": "compositions-tags",
+          "value": "$compositions-tags",
+          "prompts": [],
+          "isList": true
+        },
+        {
+          "id": "00dad6e8-131c-4ea3-b127-2317c0ec8ad0",
+          "dataType": "@compositions-tags",
+          "name": "compositions-text",
+          "value": "$compositions-tags.original",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Did you mean $compositions-tags?"
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1522274823,
   "fallbackIntent": false,
   "events": []
 }

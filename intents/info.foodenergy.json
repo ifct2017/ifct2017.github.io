@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Food energy is expressed in kilojoules (kJ) calculated based on the Atwater system for determining energy values. The data represent physiologically available energy, which is the energy value remaining after digestive and urinary losses are deducted from gross energy. Food energy in kilojoules (kJ) can be converted using the formula 1 kcal \u003d 4.18 kJ."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522270862,
   "fallbackIntent": false,
   "events": []
 }

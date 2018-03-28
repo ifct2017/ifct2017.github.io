@@ -7,16 +7,63 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "8e8afa8a-0d3e-4fdb-8c95-70a85e48543e",
+          "required": false,
+          "dataType": "@reserved-keyword",
+          "name": "reserved-keyword",
+          "value": "$reserved-keyword",
+          "isList": true
+        },
+        {
+          "id": "fba70bef-1903-4a14-881d-f98fd09030fc",
+          "required": false,
+          "dataType": "@table-code",
+          "name": "table-code",
+          "value": "$table-code",
+          "isList": false
+        },
+        {
+          "id": "c199fc3b-1e91-40dd-b191-75561259eb6e",
+          "required": false,
+          "dataType": "@reserved-binaryoperator",
+          "name": "reserved-binaryoperator",
+          "value": "$reserved-binaryoperator",
+          "isList": true
+        },
+        {
+          "id": "0cac274b-b7f4-4c8f-a7c7-5195f7f8f987",
+          "required": false,
+          "dataType": "@columns-code",
+          "name": "columns-code",
+          "value": "$columns-code",
+          "isList": true
+        },
+        {
+          "id": "f2924154-45eb-4ff4-9eb3-c8d320a3cb2d",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "name": "unit-weight-name",
+          "value": "$unit-weight-name",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Too late!"
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 750000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1522275292,
   "fallbackIntent": false,
   "events": []
 }

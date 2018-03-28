@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22a827e6-b907-408b-86fe-e4042a474982",
+    "data": [
+      {
+        "text": "suggest rice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  },
+  {
+    "id": "fa7de674-3690-4291-8182-6b448f25678f",
+    "data": [
+      {
+        "text": "which type of rice should i eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  },
+  {
+    "id": "dab42521-e430-488c-84c1-87fcd4965143",
+    "data": [
+      {
+        "text": "is any type of rice better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  },
+  {
+    "id": "150e38ad-86b1-4a5b-8eeb-935bbc3f01bd",
+    "data": [
+      {
+        "text": "which rice has higher vitamin b1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  },
+  {
+    "id": "aa0ce860-9689-4765-9c56-db86d0747517",
+    "data": [
+      {
+        "text": "which type of rice is better for health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  },
+  {
+    "id": "05ca708f-4624-4d13-80bf-b41dff2dd843",
+    "data": [
+      {
+        "text": "which type of rice is better, parboiled milled rice or raw milled rice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522273842
+  }
+]

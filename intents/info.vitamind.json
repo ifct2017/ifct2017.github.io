@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Vitamin D have been reported in the IFCT which is lacking in many food composition databases. Ergocalciferol or vitamin D2 content in plant foods measured by LC-MS has been reported for the first time in the world. Cholecalciferol or vitamin D3 in animal source foods including 25 hydroxy-D3 measured by LC-MS/MS has also been reported. The availability of new analytical vitamin D data in foods will permit dietary intake assessment. Vitamin D2 (ergocalciferol) made commercially has been reported to have the similar potency in human. Total vitamin D activity has been taken as the sum of vitamin D3 (cholecalciferol) and five times 25-hydroxy vitamin D3 (25-hydroxy cholecalciferol), where data are available."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522272788,
   "fallbackIntent": false,
   "events": []
 }

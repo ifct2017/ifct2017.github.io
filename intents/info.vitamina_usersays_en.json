@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d0b8352b-161c-4997-b675-53ff9487f5b1",
+    "data": [
+      {
+        "text": "show details about vitamin a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522272550
+  },
+  {
+    "id": "b41b9061-ba1e-48ce-9cd6-9296cc9bee35",
+    "data": [
+      {
+        "text": "what is vitamin a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522272550
+  },
+  {
+    "id": "c97ae410-1dff-4bd3-af93-06ce140e68a9",
+    "data": [
+      {
+        "text": "i want to know about vitamin a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522272550
+  },
+  {
+    "id": "45be8a87-5a3d-4f68-8889-83224bf73693",
+    "data": [
+      {
+        "text": "tell me about vitamin a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522272550
+  }
+]
