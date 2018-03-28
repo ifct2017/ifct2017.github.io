@@ -1,0 +1,43 @@
+{
+  "id": "5603c3e2-bfc0-454a-aeb5-059c286fc8d1",
+  "name": "about.challenges",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dee84e03-bfb1-4f3f-93f3-9684e5fd3341",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "32b570da-4278-43bb-bb10-876633f612bd",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Keeping food composition data up-to-date is a continuous challenge and ‘Indian Food Composition Tables, 2017’ does not contain a exhaustive list of all foods consumed in India. The multi-cultural nature of the Indian population can be observed in the diverse ethnic foods used across the regions for which compositional database is still inconsistent and fragmentary. Food composition tables are never complete due to the constant introduction of new foods into food supply, discovery of food components that are associated with health and disease, and continuous improvements in analytical methods and techniques."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522229050,
+  "fallbackIntent": false,
+  "events": []
+}

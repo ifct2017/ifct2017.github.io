@@ -1,0 +1,22 @@
+{
+  "id": "6b6e7c9e-ae55-4466-9e66-a92c69b4685d",
+  "name": "info.proximatecomponents",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157373,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1209ae8e-743c-483f-baeb-63d21bd62527",
+  "name": "info.oligosaccharides",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157373,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ea875340-fbef-4781-8d02-bd99ed74e947",
+  "name": "info.aminoacidprofile",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157376,
+  "fallbackIntent": false,
+  "events": []
+}

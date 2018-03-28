@@ -1,0 +1,22 @@
+{
+  "id": "2e55582b-dfbb-4409-b12a-620929a4eb73",
+  "name": "about.learnmore",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522243559,
+  "fallbackIntent": false,
+  "events": []
+}

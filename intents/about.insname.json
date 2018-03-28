@@ -1,0 +1,36 @@
+{
+  "id": "e8fb8429-dc57-4884-9973-0b421fcfda3a",
+  "name": "about.insname",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4872b094-2441-4256-becc-880f10d366f0",
+          "dataType": "@ins-name",
+          "name": "ins-name",
+          "value": "$ins-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is $ins-name."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522243224,
+  "fallbackIntent": false,
+  "events": []
+}

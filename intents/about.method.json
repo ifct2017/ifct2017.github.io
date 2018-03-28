@@ -1,0 +1,36 @@
+{
+  "id": "599b9e0c-2015-469a-ba27-fdec89d2acc7",
+  "name": "about.method",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9743cc25-c7a4-4c82-91c2-d2ea0129c0cd",
+          "dataType": "@methods-methodreference",
+          "name": "methods-methodreference",
+          "value": "$methods-methodreference",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The analytical method used to measure was $methods-methodreference."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522262846,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "47a2d182-9c25-41e3-a6a7-9384d8ca5eef",
+  "name": "query.food",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157373,
+  "fallbackIntent": false,
+  "events": []
+}

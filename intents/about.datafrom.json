@@ -1,0 +1,36 @@
+{
+  "id": "3f29e1e3-13c1-483f-bc2b-9169334152e0",
+  "name": "about.datafrom",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23cddff0-86a1-41ac-9305-7e2bb9d6b467",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No data in this book has been borrowed or derived from other data sources and represents accurate nutritional information of foods that are consumed across the country. The data are of reasonable representation of year round nationwide means and fit for assessment of nutrient intakes and their impact on health of the population."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522236581,
+  "fallbackIntent": false,
+  "events": []
+}

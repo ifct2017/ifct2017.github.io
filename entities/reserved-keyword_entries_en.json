@@ -1,0 +1,133 @@
+[
+  {
+    "value": "SELECT",
+    "synonyms": [
+      "display",
+      "disclose",
+      "discover",
+      "reveal",
+      "inform",
+      "search",
+      "found",
+      "find",
+      "shown",
+      "show",
+      "list",
+      "given",
+      "give",
+      "told",
+      "tell",
+      "select"
+    ]
+  },
+  {
+    "value": "FROM",
+    "synonyms": [
+      "from"
+    ]
+  },
+  {
+    "value": "AS",
+    "synonyms": [
+      "as"
+    ]
+  },
+  {
+    "value": "WHERE",
+    "synonyms": [
+      "which",
+      "with",
+      "have",
+      "has",
+      "when",
+      "where"
+    ]
+  },
+  {
+    "value": "ORDER BY",
+    "synonyms": [
+      "arrange",
+      "sort",
+      "order"
+    ]
+  },
+  {
+    "value": "GROUP BY",
+    "synonyms": [
+      "group",
+      "classify"
+    ]
+  },
+  {
+    "value": "DISTINCT",
+    "synonyms": [
+      "on unique",
+      "distinct on",
+      "unique",
+      "distinct"
+    ]
+  },
+  {
+    "value": "ASC",
+    "synonyms": [
+      "least",
+      "ascend",
+      "worst",
+      "lowest",
+      "poorest"
+    ]
+  },
+  {
+    "value": "DESC",
+    "synonyms": [
+      "most",
+      "descend",
+      "best",
+      "highest",
+      "richest"
+    ]
+  },
+  {
+    "value": "LIMIT",
+    "synonyms": [
+      "limit",
+      "top"
+    ]
+  },
+  {
+    "value": "DESC LIMIT",
+    "synonyms": [
+      "bottom"
+    ]
+  },
+  {
+    "value": "FALSE",
+    "synonyms": [
+      "false"
+    ]
+  },
+  {
+    "value": "TRUE",
+    "synonyms": [
+      "true"
+    ]
+  },
+  {
+    "value": "NULL",
+    "synonyms": [
+      "null"
+    ]
+  },
+  {
+    "value": "PER",
+    "synonyms": [
+      "per"
+    ]
+  },
+  {
+    "value": "TYPE",
+    "synonyms": [
+      "type"
+    ]
+  }
+]

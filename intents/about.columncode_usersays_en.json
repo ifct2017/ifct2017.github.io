@@ -1,0 +1,182 @@
+[
+  {
+    "id": "04b2c29c-a034-43f9-b46b-fa201403b6f9",
+    "data": [
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      },
+      {
+        "text": " code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "38c7861e-2d29-42d0-aea9-9ad52644d1ab",
+    "data": [
+      {
+        "text": "show column code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "2846950b-921f-4b99-a226-b0e7279f669b",
+    "data": [
+      {
+        "text": "display the column code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "e71097e4-e279-4e62-8028-4bcfbf5e8e8c",
+    "data": [
+      {
+        "text": "i want to know code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "089db723-c9a8-43bd-8cae-6b91bfe09259",
+    "data": [
+      {
+        "text": "can i know the column code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "ac272f01-7f3d-4699-83f5-35be26f8811d",
+    "data": [
+      {
+        "text": "code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "afcf75c8-894c-41d1-9d7c-ae92144b9b98",
+    "data": [
+      {
+        "text": "column code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "0ad01895-c014-4848-bf97-dce7e7d7d687",
+    "data": [
+      {
+        "text": "give me the code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "e4d7e0a7-3b3b-4853-baac-9ef8e09058b7",
+    "data": [
+      {
+        "text": "whats the field code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  },
+  {
+    "id": "c88f39b8-6c36-434d-b4c3-d75c5abbfbd7",
+    "data": [
+      {
+        "text": "what is the column code of ",
+        "userDefined": false
+      },
+      {
+        "text": "food code",
+        "alias": "columns-code",
+        "meta": "@columns-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260559
+  }
+]

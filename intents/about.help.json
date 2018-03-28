@@ -1,0 +1,22 @@
+{
+  "id": "3608998d-edbf-4f3d-9077-1390ae3d1458",
+  "name": "about.help",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522242340,
+  "fallbackIntent": false,
+  "events": []
+}

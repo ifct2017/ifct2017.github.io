@@ -1,0 +1,22 @@
+{
+  "id": "615c49de-d653-402f-a6f1-aaa806481174",
+  "name": "event.1937",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157373,
+  "fallbackIntent": false,
+  "events": []
+}

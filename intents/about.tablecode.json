@@ -1,0 +1,22 @@
+{
+  "id": "3de0b679-ba07-4a8d-8d85-9dcbdafbefa3",
+  "name": "about.tablecode",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157373,
+  "fallbackIntent": false,
+  "events": []
+}

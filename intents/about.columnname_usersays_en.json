@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0608aebc-1aab-4796-b00a-78326255221b",
+    "data": [
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      },
+      {
+        "text": " name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "7b368118-7b5c-408b-bd9d-5a495e7a6f5d",
+    "data": [
+      {
+        "text": "show column name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "fab9f01f-3a4c-41cb-a606-1c93b60bff1f",
+    "data": [
+      {
+        "text": "display column name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "71d514e3-4d07-442b-9283-0f4ade8e0501",
+    "data": [
+      {
+        "text": "i want to know name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "12281c0f-6d61-439f-91f9-7bf2964f5c69",
+    "data": [
+      {
+        "text": "can i know the column name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "b5fbebf4-c5b7-407f-a2e1-63d06a24317a",
+    "data": [
+      {
+        "text": "name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "5a630376-c706-4964-b232-28901bbf893a",
+    "data": [
+      {
+        "text": "column name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "926af1db-7908-405b-99b9-4226ef15c58d",
+    "data": [
+      {
+        "text": "give me the name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "3388c9f2-f921-4105-b529-8d53052efae7",
+    "data": [
+      {
+        "text": "whats the field name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  },
+  {
+    "id": "dd0641fe-8e30-42b3-8e01-6bbd99780655",
+    "data": [
+      {
+        "text": "what is the column name of ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "alias": "columns-name",
+        "meta": "@columns-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522260609
+  }
+]

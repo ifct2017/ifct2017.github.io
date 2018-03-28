@@ -1,0 +1,36 @@
+{
+  "id": "a592f404-905a-42b8-ad28-a78c115e1fa6",
+  "name": "about.enumbername",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5825e32b-a5f6-4f00-beda-7133e906bb7a",
+          "dataType": "@enumber-name",
+          "name": "enumber-name",
+          "value": "$enumber-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is $enumber-name."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522239823,
+  "fallbackIntent": false,
+  "events": []
+}

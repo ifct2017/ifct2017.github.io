@@ -1,0 +1,36 @@
+{
+  "id": "ab44ec70-9440-476d-8b43-fdc57fc52bdd",
+  "name": "about.interesting",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51cdda2f-431f-493e-a929-d80602b126f3",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Recent studies of the relationship between diet and health have led to increased interest in the range of biologically active constituents present in foods that accompany the nutrients. This book not only provides data of regular nutrients in foods complete in all respect but also on a whole range of bioactive substances. Vitamin D2 content in plant foods is presented here for the first time in the world. The tables contain data on oligosaccharides, phytosterols, organic acids and individual polyphenols. This book also embodies an exhaustive database on amino acid and fatty acid profiles of various foods."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522243534,
+  "fallbackIntent": false,
+  "events": []
+}

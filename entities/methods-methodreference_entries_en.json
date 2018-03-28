@@ -1,0 +1,551 @@
+[
+  {
+    "value": "Gravimetric using vacuum /Hot air oven; AOAC 934.01",
+    "synonyms": [
+      "water",
+      "moisture",
+      "liquid",
+      "steam",
+      "vapour"
+    ]
+  },
+  {
+    "value": "Titrimetry by combustion/Kjeldahl/Mixed catalyst; AOAC 2001.11; Jones (1941)",
+    "synonyms": [
+      "protcnt",
+      "protein"
+    ]
+  },
+  {
+    "value": "Gravimetric using Muffle furnace; AOAC 942.05",
+    "synonyms": [
+      "ash",
+      "metal oxide",
+      "mineral",
+      "inorganic",
+      "element",
+      "residue"
+    ]
+  },
+  {
+    "value": "Gravimetry; Ether extraction using Soxhlet apparatus; AOAC 963.15",
+    "synonyms": [
+      "fatce",
+      "total fat",
+      "total lipid",
+      "fat",
+      "lipid"
+    ]
+  },
+  {
+    "value": "Enzymatic-gravimetric; AOAC 991.43",
+    "synonyms": [
+      "fiber",
+      "roughage",
+      "bulk"
+    ]
+  },
+  {
+    "value": "Calculation by difference; Greenfield \u0026 Southgate (2003) \u0026 Trienzyme extraction and spectrophotometry; AOAC 991.43; AOAC 985.29",
+    "synonyms": [
+      "choavldf",
+      "carbohydrate",
+      "cho",
+      "saccharide",
+      "ose",
+      "glucide",
+      "hydrate",
+      "carbon"
+    ]
+  },
+  {
+    "value": "Atwater conversion factors; Merrill \u0026 Watt (1973); FAO / INFOODS Guidelines (2012)",
+    "synonyms": [
+      "enerc",
+      "energy",
+      "atp",
+      "calorie",
+      "metabolism"
+    ]
+  },
+  {
+    "value": "Fluorometry; AOAC 942.23; Ramasastri (1975)",
+    "synonyms": [
+      "thia",
+      "thiamine",
+      "thiamin",
+      "aneurine",
+      "vitamin b1",
+      "b1"
+    ]
+  },
+  {
+    "value": "Turbidometric-Microbiological assay; AOAC 940.33; AOAC 960.46",
+    "synonyms": [
+      "ribf",
+      "riboflavin",
+      "vactochrome",
+      "lactoflavin",
+      "vitamin b2",
+      "b2"
+    ]
+  },
+  {
+    "value": "Turbidometric-Microbiological assay; AOAC 985.34; 960.46",
+    "synonyms": [
+      "nia",
+      "niacin",
+      "nicotinic acid",
+      "nicotinic",
+      "nicotinamide",
+      "bionic",
+      "vitamin b3",
+      "b3",
+      "vitamin pp",
+      "pp"
+    ]
+  },
+  {
+    "value": "RP-HPLC with UV detector; David \u0026 Harvey (2000)",
+    "synonyms": [
+      "pantac",
+      "pantothenic acid",
+      "pantothenic",
+      "pantothenate",
+      "vitamin b5",
+      "b5"
+    ]
+  },
+  {
+    "value": "HPLC-fluorometric detection; AOAC 985.32; Ollilainen (2008)",
+    "synonyms": [
+      "vitb6c",
+      "total vitamin b6",
+      "vitamin b6",
+      "b6",
+      "pyridoxine",
+      "pn",
+      "pyridoxine 5 phosphate",
+      "p5p",
+      "pyridoxal",
+      "pl",
+      "pyridoxal 5 phosphate",
+      "plp",
+      "pyridoxamine",
+      "pm",
+      "pyridoxamine 5 phosphate",
+      "pmp",
+      "4 pyridoxic acid",
+      "pa",
+      "pyritinol"
+    ]
+  },
+  {
+    "value": "U-HPLC and LC-ESI-IT-MS method; Holler et al. (2006)",
+    "synonyms": [
+      "biot",
+      "biotin",
+      "biopeiderm",
+      "vitamin b7",
+      "b7",
+      "vitamin h",
+      "h",
+      "coenzyme r",
+      "r"
+    ]
+  },
+  {
+    "value": "Trienzyme Extraction and U-HPLC - UV or fluorescence detection; Finglas et al. (1999); Vahteristo et al. (1996); AOAC 2011.06; AOAC 2013.13",
+    "synonyms": [
+      "folsum",
+      "total folates",
+      "folate sum",
+      "pteroyl",
+      "glutamic acid",
+      "glutamate",
+      "folic",
+      "folacin",
+      "vitamin b9",
+      "b9",
+      "vitamin bc",
+      "bc",
+      "vitamin m",
+      "m"
+    ]
+  },
+  {
+    "value": "RP-HPLC; AOAC 985.33; Keating \u0026 Haddad (1982)",
+    "synonyms": [
+      "vitc",
+      "total ascorbic acid",
+      "ascorbic acid",
+      "ascorbate",
+      "vitamin c",
+      "c"
+    ]
+  },
+  {
+    "value": "HPLC; AOAC 992.03; AOAC 2012.10",
+    "synonyms": [
+      "vite",
+      "α tocopherol equivalent",
+      "a tocopherol equivalent",
+      "alpha tocopherol equivalent",
+      "α tcp equivalent",
+      "a tcp equivalent",
+      "alpha tcp equivalent",
+      "α tocph equivalent",
+      "a tocph equivalent",
+      "alpha tocph equivalent",
+      "ate",
+      "te",
+      "vitamin e",
+      "e"
+    ]
+  },
+  {
+    "value": "HPLC; AOAC 974.29; Bieri et al. (1979)",
+    "synonyms": [
+      "retol",
+      "retinol",
+      "vitamin a1",
+      "a1",
+      "vitamin a",
+      "a"
+    ]
+  },
+  {
+    "value": "HPLC; Delia \u0026 Mieko (2004)",
+    "synonyms": [
+      "lutn",
+      "lutein",
+      "zea",
+      "zeaxanthin",
+      "crypxb",
+      "β cryptoxanthin",
+      "b cryptoxanthin",
+      "beta cryptoxanthin",
+      "cryptoxanthol",
+      "caricaxanthin",
+      "kryptoxanthin",
+      "lycpn",
+      "lycopene",
+      "cartg",
+      "γ carotene",
+      "g carotene",
+      "gamma carotene",
+      "carta",
+      "α carotene",
+      "a carotene",
+      "alpha carotene",
+      "cartb",
+      "β carotene",
+      "b carotene",
+      "beta carotene",
+      "cartoid",
+      "total carotenoids",
+      "carotenoid sum",
+      "carotenoids",
+      "orange pigment",
+      "yellow pigment"
+    ]
+  },
+  {
+    "value": "RP- HPLC-APCI-MS.; AOAC 982.29",
+    "synonyms": [
+      "ergcal",
+      "ergocalciferol",
+      "calciferol",
+      "viosterol",
+      "vitamin d2",
+      "d2",
+      "chocal",
+      "cholecalciferol",
+      "activated",
+      "dehydrocholesterol",
+      "colecalciferol",
+      "vitamin d3",
+      "d3",
+      "vitamin d",
+      "d"
+    ]
+  },
+  {
+    "value": "RP- HPLC-APCI-MS; AOAC 992.27",
+    "synonyms": [
+      "vitk1",
+      "phylloquinones",
+      "pk",
+      "phytomenadione",
+      "phytonadione",
+      "quinone",
+      "mephyton",
+      "vitamin k1",
+      "k1",
+      "vitk2",
+      "menaquinones",
+      "mk",
+      "menatetrenone",
+      "quinone",
+      "vitamin k2",
+      "k2",
+      "vitamin k",
+      "k"
+    ]
+  },
+  {
+    "value": "HPLC-RID; AOAC 2013.12",
+    "synonyms": [
+      "fsugar",
+      "free sugar",
+      "added sugar",
+      "natural sugar",
+      "sugar",
+      "monosaccharide",
+      "disaccharide"
+    ]
+  },
+  {
+    "value": "Calculated from the increase in the amount of glucose by using conversion factor; Casterline et al. (1998)",
+    "synonyms": [
+      "starch",
+      "amylum",
+      "polysaccharide",
+      "polymeric"
+    ]
+  },
+  {
+    "value": "HPLC; Frias et al. (1994); Johansen et al. (1996); Sanchez-Mata et al. (1998)",
+    "synonyms": [
+      "rafs",
+      "rafs",
+      "raffinose",
+      "rafinosa",
+      "gossypose",
+      "melitose",
+      "melitriose",
+      "galactosylsucrose",
+      "stas",
+      "stas",
+      "stachyose",
+      "vers",
+      "vers",
+      "verbascose",
+      "ajgs",
+      "ajgs",
+      "ajugose",
+      "olsac",
+      "olsac",
+      "oligosaccharide"
+    ]
+  },
+  {
+    "value": "Atomic Absorption Spectrophotometry (AAS)",
+    "synonyms": [
+      "fe",
+      "iron",
+      "zn",
+      "zinc",
+      "cu",
+      "copper",
+      "mn",
+      "manganese",
+      "k",
+      "potassium",
+      "mg",
+      "magnesium",
+      "na",
+      "sodium",
+      "ca",
+      "calcium",
+      "al",
+      "aluminium"
+    ]
+  },
+  {
+    "value": "Graphite furnace Atomic Absorption Spectrophotometry; AOAC 968.08; AOAC 999.10; AOAC 999.11",
+    "synonyms": [
+      "pb",
+      "lead",
+      "cd",
+      "cadmium",
+      "ni",
+      "nickel",
+      "co",
+      "cobalt",
+      "cr",
+      "chromium",
+      "li",
+      "lithium",
+      "mo",
+      "molybdenum"
+    ]
+  },
+  {
+    "value": "Atomic Absorption Spectrophotometry (Hydride generation)",
+    "synonyms": [
+      "as",
+      "arsenic",
+      "hg",
+      "mercury",
+      "se",
+      "selenium"
+    ]
+  },
+  {
+    "value": "Colorimetry; AOAC 935.45; AOAC 995.11; Fiske \u0026 Subbarow (1925)",
+    "synonyms": [
+      "p",
+      "phophorus"
+    ]
+  },
+  {
+    "value": "Inductively Coupled Plasma Mass Spectrometry (ICP-MS); AOAC 2013.06",
+    "synonyms": [
+      "pb",
+      "lead",
+      "hg",
+      "mercury",
+      "cd",
+      "cadmium",
+      "mo",
+      "molybdenum",
+      "se",
+      "selenium",
+      "as",
+      "arsenic",
+      "co",
+      "cobalt",
+      "ni",
+      "nickel",
+      "cr",
+      "chromium",
+      "al",
+      "aluminium",
+      "li",
+      "lithium"
+    ]
+  },
+  {
+    "value": "HPLC; AOAC 969.30; AOAC 950.35; AOAC 948.14",
+    "synonyms": [
+      "citac",
+      "citric",
+      "hydroxypropane",
+      "tricarboxylic",
+      "malac",
+      "malic",
+      "hydroxybutanedioic",
+      "hydroxysuccinic",
+      "fumac",
+      "fumaric",
+      "butenedioic",
+      "ethylenedicarboxylic",
+      "allomaleic",
+      "boletic",
+      "donitic",
+      "lichenic",
+      "sucac",
+      "succinic",
+      "butandioic",
+      "caconac",
+      "aconitic",
+      "achilleic",
+      "equisetic",
+      "citridinic",
+      "pyrocitric",
+      "tarac",
+      "tartaric",
+      "dihydroxybutanedioic",
+      "dihydroxysuccinic",
+      "threaric",
+      "racemic",
+      "uvic",
+      "paratartaric",
+      "quinac",
+      "quinic",
+      "tetrahydroxycyclohexanecarboxylic",
+      "tetrahydroxy",
+      "cyclohexanecarboxylic",
+      "cyclitol"
+    ]
+  },
+  {
+    "value": "Fast- HPLC; Moreau \u0026 Savage (2009)",
+    "synonyms": [
+      "oxalt",
+      "oxalate",
+      "oxalic",
+      "ox",
+      "ethanedioate",
+      "oxals",
+      "soluble oxalate",
+      "soluble oxalaic",
+      "sodium ethanedioate",
+      "potassium ethanedioate",
+      "oxali",
+      "insoluble oxalate",
+      "insoluble oxalic",
+      "calcium ethanedioate"
+    ]
+  },
+  {
+    "value": "Gas Chromatography with Flame Ionization Detector; AOAC 996.06; AOAC 996.01; AOAC 2012.13",
+    "synonyms": [
+      "fatce",
+      "fat",
+      "lipid"
+    ]
+  },
+  {
+    "value": "Amino acid analyzer (Ion exchange chromatography); AOAC 994.12; AOAC 985.28; Landry \u0026 Delhaye (1992)",
+    "synonyms": [
+      "amiac",
+      "amino"
+    ]
+  },
+  {
+    "value": "Gas Chromatography (GC); AOAC 922.06; Sorenson \u0026 Sullivan (2007)",
+    "synonyms": [
+      "camt",
+      "campesterol",
+      "campestanol",
+      "stgstr",
+      "stigmasterol",
+      "stostrb",
+      "β sitosterol",
+      "b sitosterol",
+      "beta sitosterol"
+    ]
+  },
+  {
+    "value": "HPLC; Sakakibara et al. (2003)",
+    "synonyms": [
+      "polyph",
+      "polyphenol"
+    ]
+  },
+  {
+    "value": "Ion Exchange and Spectrophotometry; AOAC 986.11-1988",
+    "synonyms": [
+      "phytac",
+      "phytate",
+      "ip6",
+      "phytic",
+      "inositol",
+      "hexakisphosphate",
+      "polyphosphate",
+      "hexayl",
+      "hexakis dihydrogen phosphate"
+    ]
+  },
+  {
+    "value": "Colorimetry; Dini et al. (2009)",
+    "synonyms": [
+      "sapon",
+      "saponin",
+      "triterpene",
+      "triterpenoid"
+    ]
+  }
+]

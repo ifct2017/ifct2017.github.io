@@ -1,0 +1,2164 @@
+[
+  {
+    "value": "Food Code",
+    "synonyms": [
+      "code",
+      "food code",
+      "id",
+      "tag",
+      "legend"
+    ]
+  },
+  {
+    "value": "Food Name",
+    "synonyms": [
+      "name",
+      "food name",
+      "title",
+      "label"
+    ]
+  },
+  {
+    "value": "No. of Regions",
+    "synonyms": [
+      "regn",
+      "no. of regions",
+      "number of regions",
+      "regions"
+    ]
+  },
+  {
+    "value": "Moisture",
+    "synonyms": [
+      "water",
+      "moisture",
+      "liquid",
+      "steam",
+      "vapour"
+    ]
+  },
+  {
+    "value": "Protein",
+    "synonyms": [
+      "protcnt",
+      "protein"
+    ]
+  },
+  {
+    "value": "Ash",
+    "synonyms": [
+      "ash",
+      "metal oxide",
+      "mineral",
+      "inorganic",
+      "element",
+      "residue"
+    ]
+  },
+  {
+    "value": "Total Fat",
+    "synonyms": [
+      "fatce",
+      "fat",
+      "lipid"
+    ]
+  },
+  {
+    "value": "Total Dietary Fiber",
+    "synonyms": [
+      "fibtg",
+      "dietary fiber",
+      "dietary roughage",
+      "dietary bulk",
+      "fiber",
+      "roughage",
+      "bulk"
+    ]
+  },
+  {
+    "value": "Insoluble Dietary Fiber",
+    "synonyms": [
+      "fibins",
+      "insoluble dietary fiber",
+      "insoluble dietary roughage",
+      "insoluble dietary bulk",
+      "insoluble fiber",
+      "insoluble roughage",
+      "insoluble bulk"
+    ]
+  },
+  {
+    "value": "Soluble Dietary Fiber",
+    "synonyms": [
+      "fibsol",
+      "soluble dietary fiber",
+      "soluble dietary roughage",
+      "soluble dietary bulk",
+      "soluble fiber",
+      "soluble roughage",
+      "soluble bulk"
+    ]
+  },
+  {
+    "value": "Carbohydrate",
+    "synonyms": [
+      "choavldf",
+      "carbohydrate",
+      "cho",
+      "saccharide",
+      "ose",
+      "glucide",
+      "hydrate",
+      "carbon"
+    ]
+  },
+  {
+    "value": "Energy",
+    "synonyms": [
+      "enerc",
+      "energy",
+      "atp",
+      "calorie",
+      "metabolism"
+    ]
+  },
+  {
+    "value": "Thiamine (B1)",
+    "synonyms": [
+      "thia",
+      "thiamine",
+      "thiamin",
+      "aneurine",
+      "vitamin b1",
+      "b1"
+    ]
+  },
+  {
+    "value": "Riboflavin (B2)",
+    "synonyms": [
+      "ribf",
+      "riboflavin",
+      "vactochrome",
+      "lactoflavin",
+      "vitamin b2",
+      "b2"
+    ]
+  },
+  {
+    "value": "Niacin (B3)",
+    "synonyms": [
+      "nia",
+      "niacin",
+      "nicotinic acid",
+      "nicotinic",
+      "nicotinamide",
+      "bionic",
+      "vitamin b3",
+      "b3",
+      "vitamin pp",
+      "pp"
+    ]
+  },
+  {
+    "value": "Pantothenic acid (B5)",
+    "synonyms": [
+      "pantac",
+      "pantothenic acid",
+      "pantothenic",
+      "pantothenate",
+      "vitamin b5",
+      "b5"
+    ]
+  },
+  {
+    "value": "Total B6",
+    "synonyms": [
+      "vitb6c",
+      "total vitamin b6",
+      "vitamin b6",
+      "b6",
+      "pyridoxine",
+      "pn",
+      "pyridoxine 5 phosphate",
+      "p5p",
+      "pyridoxal",
+      "pl",
+      "pyridoxal 5 phosphate",
+      "plp",
+      "pyridoxamine",
+      "pm",
+      "pyridoxamine 5 phosphate",
+      "pmp",
+      "4 pyridoxic acid",
+      "pa",
+      "pyritinol"
+    ]
+  },
+  {
+    "value": "Biotin (B7)",
+    "synonyms": [
+      "biot",
+      "biotin",
+      "biopeiderm",
+      "vitamin b7",
+      "b7",
+      "vitamin h",
+      "h",
+      "coenzyme r",
+      "r"
+    ]
+  },
+  {
+    "value": "Total Folates (B9)",
+    "synonyms": [
+      "folsum",
+      "total folates",
+      "folate sum",
+      "pteroyl",
+      "glutamic acid",
+      "glutamate",
+      "folic",
+      "folacin",
+      "vitamin b9",
+      "b9",
+      "vitamin bc",
+      "bc",
+      "vitamin m",
+      "m"
+    ]
+  },
+  {
+    "value": "Total Ascorbic acid",
+    "synonyms": [
+      "vitc",
+      "total ascorbic acid",
+      "ascorbic acid",
+      "ascorbate",
+      "vitamin c",
+      "c"
+    ]
+  },
+  {
+    "value": "Retinol",
+    "synonyms": [
+      "retol",
+      "retinol",
+      "vitamin a1",
+      "a1"
+    ]
+  },
+  {
+    "value": "Ergocalciferol (D2)",
+    "synonyms": [
+      "ergcal",
+      "ergocalciferol",
+      "calciferol",
+      "viosterol",
+      "vitamin d2",
+      "d2"
+    ]
+  },
+  {
+    "value": "Cholecalciferol (D3)",
+    "synonyms": [
+      "chocal",
+      "cholecalciferol",
+      "activated",
+      "dehydrocholesterol",
+      "colecalciferol",
+      "vitamin d3",
+      "d3"
+    ]
+  },
+  {
+    "value": "25-OH-D3",
+    "synonyms": [
+      "doh25",
+      "25-OH-D3",
+      "calcifediol",
+      "calcidiol",
+      "hydroxycholecalciferol",
+      "hydroxyvitamin",
+      "prehormone",
+      "vitamin d3",
+      "d3"
+    ]
+  },
+  {
+    "value": "α-Tocopherol",
+    "synonyms": [
+      "tocpha",
+      "α tocopherol",
+      "a tocopherol",
+      "alpha tocopherol",
+      "α tcp",
+      "a tcp",
+      "alpha tcp",
+      "α tocph",
+      "a tocph",
+      "alpha tocph"
+    ]
+  },
+  {
+    "value": "β-Tocopherol",
+    "synonyms": [
+      "tocphb",
+      "β tocopherol",
+      "b tocopherol",
+      "beta tocopherol",
+      "β tcp",
+      "b tcp",
+      "beta tcp",
+      "β tocph",
+      "b tocph",
+      "beta tocph"
+    ]
+  },
+  {
+    "value": "γ-Tocopherol",
+    "synonyms": [
+      "tocphg",
+      "γ tocopherol",
+      "g tocopherol",
+      "gamma tocopherol",
+      "γ tcp",
+      "g tcp",
+      "gamma tcp",
+      "γ tocph",
+      "g tocph",
+      "gamma tocph"
+    ]
+  },
+  {
+    "value": "δ-Tocopherol",
+    "synonyms": [
+      "tocphd",
+      "δ tocopherol",
+      "d tocopherol",
+      "delta tocopherol",
+      "δ tcp",
+      "d tcp",
+      "delta tcp",
+      "δ tocph",
+      "d tocph",
+      "delta tocph"
+    ]
+  },
+  {
+    "value": "α-Tocotrienol",
+    "synonyms": [
+      "toctra",
+      "α tocotrienol",
+      "a tocotrienol",
+      "alpha tocotrienol",
+      "α tct",
+      "a tct",
+      "alpha tct",
+      "α toctr",
+      "a toctr",
+      "alpha toctr"
+    ]
+  },
+  {
+    "value": "β-Tocotrienol",
+    "synonyms": [
+      "toctrb",
+      "β tocotrienol",
+      "b tocotrienol",
+      "beta tocotrienol",
+      "β tct",
+      "b tct",
+      "beta tct",
+      "β toctr",
+      "b toctr",
+      "beta toctr"
+    ]
+  },
+  {
+    "value": "γ-Tocotrienol",
+    "synonyms": [
+      "toctrg",
+      "γ tocotrienol",
+      "g tocotrienol",
+      "gamma tocotrienol",
+      "γ tct",
+      "g tct",
+      "gamma tct",
+      "γ toctr",
+      "g toctr",
+      "gamma toctr"
+    ]
+  },
+  {
+    "value": "δ-Tocotrienol",
+    "synonyms": [
+      "toctrd",
+      "δ tocotrienol",
+      "d tocotrienol",
+      "delta tocotrienol",
+      "δ tct",
+      "d tct",
+      "delta tct",
+      "δ toctr",
+      "d toctr",
+      "delta toctr"
+    ]
+  },
+  {
+    "value": "α-Tocopherol equivalent",
+    "synonyms": [
+      "vite",
+      "α tocopherol equivalent",
+      "a tocopherol equivalent",
+      "alpha tocopherol equivalent",
+      "α tcp equivalent",
+      "a tcp equivalent",
+      "alpha tcp equivalent",
+      "α tocph equivalent",
+      "a tocph equivalent",
+      "alpha tocph equivalent",
+      "ate",
+      "te",
+      "vitamin e",
+      "e"
+    ]
+  },
+  {
+    "value": "Phylloquinones (K1)",
+    "synonyms": [
+      "vitk1",
+      "phylloquinones",
+      "pk",
+      "phytomenadione",
+      "phytonadione",
+      "quinone",
+      "mephyton",
+      "vitamin k1",
+      "k1"
+    ]
+  },
+  {
+    "value": "Menaquinones (K2)",
+    "synonyms": [
+      "vitk2",
+      "menaquinones",
+      "mk",
+      "menatetrenone",
+      "quinone",
+      "vitamin k2",
+      "k2"
+    ]
+  },
+  {
+    "value": "Lutein",
+    "synonyms": [
+      "lutn",
+      "lutein"
+    ]
+  },
+  {
+    "value": "Zeaxanthin",
+    "synonyms": [
+      "zea",
+      "zeaxanthin"
+    ]
+  },
+  {
+    "value": "β-Cryptoxanthin",
+    "synonyms": [
+      "crypxb",
+      "β cryptoxanthin",
+      "b cryptoxanthin",
+      "beta cryptoxanthin",
+      "cryptoxanthol",
+      "caricaxanthin",
+      "kryptoxanthin"
+    ]
+  },
+  {
+    "value": "Lycopene",
+    "synonyms": [
+      "lycpn",
+      "lycopene"
+    ]
+  },
+  {
+    "value": "γ-Carotene",
+    "synonyms": [
+      "cartg",
+      "γ carotene",
+      "g carotene",
+      "gamma carotene"
+    ]
+  },
+  {
+    "value": "α-Carotene",
+    "synonyms": [
+      "carta",
+      "α carotene",
+      "a carotene",
+      "alpha carotene"
+    ]
+  },
+  {
+    "value": "β-Carotene",
+    "synonyms": [
+      "cartb",
+      "β carotene",
+      "b carotene",
+      "beta carotene"
+    ]
+  },
+  {
+    "value": "Total Carotenoids",
+    "synonyms": [
+      "cartoid",
+      "total carotenoids",
+      "carotenoid sum",
+      "carotenoids",
+      "orange pigment",
+      "yellow pigment"
+    ]
+  },
+  {
+    "value": "Aluminium (Al)",
+    "synonyms": [
+      "al",
+      "aluminium"
+    ]
+  },
+  {
+    "value": "Arsenic (As)",
+    "synonyms": [
+      "as",
+      "arsenic"
+    ]
+  },
+  {
+    "value": "Cadmium (Cd)",
+    "synonyms": [
+      "cd",
+      "cadmium"
+    ]
+  },
+  {
+    "value": "Calcium (Ca)",
+    "synonyms": [
+      "ca",
+      "calcium"
+    ]
+  },
+  {
+    "value": "Chromium (Cr)",
+    "synonyms": [
+      "cr",
+      "chromium"
+    ]
+  },
+  {
+    "value": "Cobalt (Co)",
+    "synonyms": [
+      "co",
+      "cobalt"
+    ]
+  },
+  {
+    "value": "Copper (Cu)",
+    "synonyms": [
+      "cu",
+      "copper"
+    ]
+  },
+  {
+    "value": "Iron (Fe)",
+    "synonyms": [
+      "fe",
+      "iron"
+    ]
+  },
+  {
+    "value": "Lead (Pb)",
+    "synonyms": [
+      "pb",
+      "lead"
+    ]
+  },
+  {
+    "value": "Lithium (Li)",
+    "synonyms": [
+      "li",
+      "lithium"
+    ]
+  },
+  {
+    "value": "Magnesium (Mg)",
+    "synonyms": [
+      "mg",
+      "magnesium"
+    ]
+  },
+  {
+    "value": "Manganese (Mn)",
+    "synonyms": [
+      "mn",
+      "manganese"
+    ]
+  },
+  {
+    "value": "Mercury (Hg)",
+    "synonyms": [
+      "hg",
+      "mercury"
+    ]
+  },
+  {
+    "value": "Molybdenum (Mo)",
+    "synonyms": [
+      "mo",
+      "molybdenum"
+    ]
+  },
+  {
+    "value": "Nickel (Ni)",
+    "synonyms": [
+      "ni",
+      "nickel"
+    ]
+  },
+  {
+    "value": "Phophorus (P)",
+    "synonyms": [
+      "p",
+      "phophorus"
+    ]
+  },
+  {
+    "value": "Potassium (K)",
+    "synonyms": [
+      "k",
+      "potassium"
+    ]
+  },
+  {
+    "value": "Selenium (Se)",
+    "synonyms": [
+      "se",
+      "selenium"
+    ]
+  },
+  {
+    "value": "Sodium (Na)",
+    "synonyms": [
+      "na",
+      "sodium"
+    ]
+  },
+  {
+    "value": "Zinc (Zn)",
+    "synonyms": [
+      "zn",
+      "zinc"
+    ]
+  },
+  {
+    "value": "Total Available CHO",
+    "synonyms": [
+      "cho",
+      "available carbohydrate",
+      "available cho",
+      "glucogenic"
+    ]
+  },
+  {
+    "value": "Total Starch",
+    "synonyms": [
+      "starch",
+      "amylum",
+      "polysaccharide",
+      "polymeric"
+    ]
+  },
+  {
+    "value": "Fructose",
+    "synonyms": [
+      "frus",
+      "fructose",
+      "fruit sugar",
+      "levulose",
+      "fructofuranose",
+      "arabino",
+      "hexulose",
+      "ketonic"
+    ]
+  },
+  {
+    "value": "Glucose",
+    "synonyms": [
+      "glus",
+      "glucose",
+      "simple sugar",
+      "blood sugar",
+      "dextrose",
+      "corn sugar",
+      "grape sugar"
+    ]
+  },
+  {
+    "value": "Sucrose",
+    "synonyms": [
+      "sucs",
+      "sucrose",
+      "common sugar",
+      "table sugar",
+      "saccharose"
+    ]
+  },
+  {
+    "value": "Maltose",
+    "synonyms": [
+      "mals",
+      "maltose",
+      "maltobiose",
+      "malt sugar"
+    ]
+  },
+  {
+    "value": "Total Free Sugars",
+    "synonyms": [
+      "fsugar",
+      "free sugar",
+      "added sugar",
+      "natural sugar",
+      "sugar",
+      "monosaccharide",
+      "disaccharide"
+    ]
+  },
+  {
+    "value": "Lactose Content",
+    "synonyms": [
+      "lactose",
+      "milk sugar"
+    ]
+  },
+  {
+    "value": "Butyric acid (C4:0)",
+    "synonyms": [
+      "f4d0",
+      "butyric",
+      "c4 0",
+      "bta",
+      "butanoic",
+      "propanecarboxylic"
+    ]
+  },
+  {
+    "value": "Caproic acid (C6:0)",
+    "synonyms": [
+      "f6d0",
+      "caproic",
+      "c6 0",
+      "hexanoic"
+    ]
+  },
+  {
+    "value": "Caprylic acid (C8:0)",
+    "synonyms": [
+      "f8d0",
+      "caprylic",
+      "c8 0",
+      "octanoic"
+    ]
+  },
+  {
+    "value": "Capric acid (C10:0)",
+    "synonyms": [
+      "f10d0",
+      "capric",
+      "c10 0",
+      "decanoic"
+    ]
+  },
+  {
+    "value": "Undecanoic acid (C11:0)",
+    "synonyms": [
+      "f11d0",
+      "undecanoic",
+      "c11 0",
+      "undecylic"
+    ]
+  },
+  {
+    "value": "Lauric acid (C12:0)",
+    "synonyms": [
+      "f12d0",
+      "lauric",
+      "c12 0",
+      "dodecanoic",
+      "dodecylic",
+      "dodecoic",
+      "laurostearic",
+      "vulvic",
+      "undecanecarboxylic",
+      "duodecylic"
+    ]
+  },
+  {
+    "value": "Myristic acid (C14:0)",
+    "synonyms": [
+      "f14d0",
+      "myristic",
+      "c14 0",
+      "tetradecanoic"
+    ]
+  },
+  {
+    "value": "Pentadecanoic acid (C15:0)",
+    "synonyms": [
+      "f15d0",
+      "pentadecanoic",
+      "c15 0",
+      "pentadecylic"
+    ]
+  },
+  {
+    "value": "Palmitic acid (C16:0)",
+    "synonyms": [
+      "f16d0",
+      "palmitic",
+      "c16 0",
+      "hexadecanoic"
+    ]
+  },
+  {
+    "value": "Stearic acid (C18:0)",
+    "synonyms": [
+      "f18d0",
+      "stearic",
+      "c18 0",
+      "octadecanoic"
+    ]
+  },
+  {
+    "value": "Arachidic acid (C20:0)",
+    "synonyms": [
+      "f20d0",
+      "arachidic",
+      "c20 0",
+      "eicosanoic",
+      "icosanoic",
+      "arachic"
+    ]
+  },
+  {
+    "value": "Behenic acid (C22:0)",
+    "synonyms": [
+      "f22d0",
+      "behenic",
+      "c22 0",
+      "docosanoic",
+      "docosanoate",
+      "hydrofol"
+    ]
+  },
+  {
+    "value": "Lignoceric acid (C24:0)",
+    "synonyms": [
+      "f24d0",
+      "lignoceric",
+      "c24 0",
+      "tetracosanoic"
+    ]
+  },
+  {
+    "value": "Myristoleic acid (C14:1)",
+    "synonyms": [
+      "f14d1cn5",
+      "myristoleic",
+      "c14 1",
+      "tetradecenoic",
+      "myristolenic",
+      "oleomyristic"
+    ]
+  },
+  {
+    "value": "Palmitoleic acid (C16:1)",
+    "synonyms": [
+      "f16d1cn7",
+      "palmitoleic",
+      "c16 1",
+      "hexadecenoic"
+    ]
+  },
+  {
+    "value": "Oleic acid (C18:1n9)",
+    "synonyms": [
+      "f18d1cn9",
+      "oleic",
+      "c18 1n9",
+      "c18 1",
+      "octadecenoic"
+    ]
+  },
+  {
+    "value": "Elaidic acid (C18:1n9t)",
+    "synonyms": [
+      "f18d1tn9",
+      "elaidic",
+      "c18 1n9t",
+      "c18 1t",
+      "octadecenoic"
+    ]
+  },
+  {
+    "value": "Eicosenoic acid (C20:1n9)",
+    "synonyms": [
+      "f20d1cn9",
+      "eicosenoic",
+      "c20 1n9",
+      "c20 1",
+      "gondoic",
+      "icosenoic"
+    ]
+  },
+  {
+    "value": "Erucic acid (C22:1n9)",
+    "synonyms": [
+      "f22d1cn9",
+      "erucic",
+      "c22 1n9",
+      "c22 1",
+      "docosenoic"
+    ]
+  },
+  {
+    "value": "Nervonic acid (C24:1n9)",
+    "synonyms": [
+      "f24d1cn9",
+      "nervonic",
+      "c24 1n9",
+      "c24 1",
+      "tetracosenoic"
+    ]
+  },
+  {
+    "value": "Linoleic acid (C18:2n6)",
+    "synonyms": [
+      "f18d2cn6",
+      "linoleic",
+      "c18 2n6",
+      "c18 2",
+      "octadecadienoic"
+    ]
+  },
+  {
+    "value": "Eicosadienoic acid (C20:2)",
+    "synonyms": [
+      "f20d2n6",
+      "eicosadienoic",
+      "c20 2",
+      "icosadienoic"
+    ]
+  },
+  {
+    "value": "Docosadienoic acid (C22:2)",
+    "synonyms": [
+      "f22d2n6",
+      "docosadienoic",
+      "c22 2"
+    ]
+  },
+  {
+    "value": "α-Linolenic acid (C18:3n3)",
+    "synonyms": [
+      "f18d3n3",
+      "α linolenic",
+      "a linolenic",
+      "alpha linolenic",
+      "c18 3n3",
+      "c18 3",
+      "ala",
+      "lna",
+      "octadecatrienoic"
+    ]
+  },
+  {
+    "value": "Eicosatrienoic acid (C20:3n6)",
+    "synonyms": [
+      "f20d3n6",
+      "eicosatrienoic",
+      "c20 3n6",
+      "c20 3",
+      "icosatrienoic"
+    ]
+  },
+  {
+    "value": "Arachidonic acid (C20:4n6)",
+    "synonyms": [
+      "f20d4n6",
+      "arachidonic",
+      "c20 4n6",
+      "c20 4",
+      "aa",
+      "ara",
+      "eicosatetraenoic",
+      "icosatetraenoic",
+      "arachidonate"
+    ]
+  },
+  {
+    "value": "Eicosapentaenoic acid (C20:5n3)",
+    "synonyms": [
+      "f20d5n3",
+      "eicosapentaenoic",
+      "c20 5n3",
+      "c20 5",
+      "epa",
+      "icosapentaenoic",
+      "timnodonic"
+    ]
+  },
+  {
+    "value": "Docosapentaenoic acid (C22:5n3)",
+    "synonyms": [
+      "f22d5n3",
+      "docosapentaenoic",
+      "c22 5n3",
+      "c22 5",
+      "dpa"
+    ]
+  },
+  {
+    "value": "Docosahexaenoic acid (C22:6n3)",
+    "synonyms": [
+      "f22d6n3",
+      "docosahexaenoic",
+      "c22 6n3",
+      "c22 6",
+      "dha",
+      "cervonic",
+      "doconexent"
+    ]
+  },
+  {
+    "value": "Total Saturated Fatty acids (TSFA)",
+    "synonyms": [
+      "fasat",
+      "tsfa",
+      "saturated fatty",
+      "saturated fat"
+    ]
+  },
+  {
+    "value": "Total Monounsaturated Fatty acids (TMUFA)",
+    "synonyms": [
+      "fams",
+      "tmufa",
+      "monounsaturated fatty",
+      "mono unsaturated fatty",
+      "monounsaturated fat",
+      "mono unsaturated fat"
+    ]
+  },
+  {
+    "value": "Total Polyunsaturated Fatty acids (TPUFA)",
+    "synonyms": [
+      "fapu",
+      "tpufa",
+      "polyunsaturated fatty",
+      "poly unsaturated fatty",
+      "polyunsaturated fat",
+      "poly unsaturated fat"
+    ]
+  },
+  {
+    "value": "Cholesterol",
+    "synonyms": [
+      "cholc",
+      "cholesterol",
+      "cholesterin",
+      "cholesteryl",
+      "zoosterol",
+      "animal sterol"
+    ]
+  },
+  {
+    "value": "Histidine",
+    "synonyms": [
+      "his",
+      "histidine"
+    ]
+  },
+  {
+    "value": "Isoleucine",
+    "synonyms": [
+      "ile",
+      "isoleucine"
+    ]
+  },
+  {
+    "value": "Luecine",
+    "synonyms": [
+      "leu",
+      "luecine"
+    ]
+  },
+  {
+    "value": "Lysine",
+    "synonyms": [
+      "lys",
+      "lysine"
+    ]
+  },
+  {
+    "value": "Methionine",
+    "synonyms": [
+      "met",
+      "methionine"
+    ]
+  },
+  {
+    "value": "Cysteine",
+    "synonyms": [
+      "cys",
+      "cysteine"
+    ]
+  },
+  {
+    "value": "Phenylalanine",
+    "synonyms": [
+      "phe",
+      "phenylalanine"
+    ]
+  },
+  {
+    "value": "Threonine",
+    "synonyms": [
+      "thr",
+      "threonine"
+    ]
+  },
+  {
+    "value": "Tryptophan",
+    "synonyms": [
+      "trp",
+      "tryptophan"
+    ]
+  },
+  {
+    "value": "Valine",
+    "synonyms": [
+      "val",
+      "valine"
+    ]
+  },
+  {
+    "value": "Alanine",
+    "synonyms": [
+      "ala",
+      "alanine"
+    ]
+  },
+  {
+    "value": "Arginine",
+    "synonyms": [
+      "arg",
+      "arginine"
+    ]
+  },
+  {
+    "value": "Aspartic acid",
+    "synonyms": [
+      "asp",
+      "aspartic"
+    ]
+  },
+  {
+    "value": "Glutamic acid",
+    "synonyms": [
+      "glu",
+      "glutamic"
+    ]
+  },
+  {
+    "value": "Glycine",
+    "synonyms": [
+      "gly",
+      "glycine"
+    ]
+  },
+  {
+    "value": "Proline",
+    "synonyms": [
+      "pro",
+      "proline"
+    ]
+  },
+  {
+    "value": "Serine",
+    "synonyms": [
+      "ser",
+      "serine"
+    ]
+  },
+  {
+    "value": "Tyrosine",
+    "synonyms": [
+      "tyr",
+      "tyrosine"
+    ]
+  },
+  {
+    "value": "Total Oxalate",
+    "synonyms": [
+      "oxalt",
+      "oxalate",
+      "oxalic",
+      "ox",
+      "ethanedioate"
+    ]
+  },
+  {
+    "value": "Soluble Oxalate",
+    "synonyms": [
+      "oxals",
+      "soluble oxalate",
+      "soluble oxalaic",
+      "sodium ethanedioate",
+      "potassium ethanedioate"
+    ]
+  },
+  {
+    "value": "Insoluble Oxalate",
+    "synonyms": [
+      "oxali",
+      "insoluble oxalate",
+      "insoluble oxalic",
+      "calcium ethanedioate"
+    ]
+  },
+  {
+    "value": "Cis-Aconitic acid",
+    "synonyms": [
+      "caconac",
+      "aconitic",
+      "achilleic",
+      "equisetic",
+      "citridinic",
+      "pyrocitric"
+    ]
+  },
+  {
+    "value": "Citric acid",
+    "synonyms": [
+      "citac",
+      "citric",
+      "hydroxypropane",
+      "tricarboxylic"
+    ]
+  },
+  {
+    "value": "Fumaric acid",
+    "synonyms": [
+      "fumac",
+      "fumaric",
+      "butenedioic",
+      "ethylenedicarboxylic",
+      "allomaleic",
+      "boletic",
+      "donitic",
+      "lichenic"
+    ]
+  },
+  {
+    "value": "Malic acid",
+    "synonyms": [
+      "malac",
+      "malic",
+      "hydroxybutanedioic",
+      "hydroxysuccinic"
+    ]
+  },
+  {
+    "value": "Quinic acid",
+    "synonyms": [
+      "quinac",
+      "quinic",
+      "tetrahydroxycyclohexanecarboxylic",
+      "tetrahydroxy",
+      "cyclohexanecarboxylic",
+      "cyclitol"
+    ]
+  },
+  {
+    "value": "Succinic acid",
+    "synonyms": [
+      "sucac",
+      "succinic",
+      "butandioic"
+    ]
+  },
+  {
+    "value": "Tartaric acid",
+    "synonyms": [
+      "tarac",
+      "tartaric",
+      "dihydroxybutanedioic",
+      "dihydroxysuccinic",
+      "threaric",
+      "racemic",
+      "uvic",
+      "paratartaric"
+    ]
+  },
+  {
+    "value": "3,4-Dihydroxy Benzoic acid",
+    "synonyms": [
+      "dhbenzac34",
+      "3 4 dihydroxy benzoic",
+      "dihydroxybenzoic"
+    ]
+  },
+  {
+    "value": "3-Hydroxy Benzaldehyde",
+    "synonyms": [
+      "hbenzal3",
+      "3 hydroxy benzaldehyde",
+      "hydroxybenzaldehyde"
+    ]
+  },
+  {
+    "value": "Protocatechuic acid",
+    "synonyms": [
+      "pcathac",
+      "protocatechuic",
+      "pca",
+      "protocatechuate"
+    ]
+  },
+  {
+    "value": "Vanillic acid",
+    "synonyms": [
+      "vanlac",
+      "vanillic",
+      "vanillin",
+      "methoxybenzoic",
+      "anisic",
+      "vanillate"
+    ]
+  },
+  {
+    "value": "Gallic acid",
+    "synonyms": [
+      "gallac",
+      "gallic"
+    ]
+  },
+  {
+    "value": "Cinnamic acid",
+    "synonyms": [
+      "cinmac",
+      "cinnamic",
+      "phenylpropenoic",
+      "phenylacrylic",
+      "cinnamylic",
+      "phenylacrylic",
+      "benzenepropenoic",
+      "benzenepropenoic",
+      "hydroxycinnamic"
+    ]
+  },
+  {
+    "value": "o-Coumaric acid",
+    "synonyms": [
+      "coumaco",
+      "o coumaric",
+      "ortho coumaric"
+    ]
+  },
+  {
+    "value": "p-Coumaric acid",
+    "synonyms": [
+      "coumacp",
+      "p coumaric",
+      "para coumaric"
+    ]
+  },
+  {
+    "value": "Caffeic acid",
+    "synonyms": [
+      "caffac",
+      "caffeic",
+      "caffeate"
+    ]
+  },
+  {
+    "value": "Chlorogenic acid",
+    "synonyms": [
+      "chlrac",
+      "chlorogenic",
+      "cqa",
+      "dihydroxycinnamoyl",
+      "caffeoylquinate",
+      "caffeoylquinic",
+      "chlorogenate",
+      "heriguard"
+    ]
+  },
+  {
+    "value": "Ferulic acid",
+    "synonyms": [
+      "ferac",
+      "ferulic",
+      "methoxycinnamic",
+      "ferulate",
+      "coniferic",
+      "ferulic"
+    ]
+  },
+  {
+    "value": "Apigenin",
+    "synonyms": [
+      "apigen",
+      "apigenin",
+      "trihydroxyflavone",
+      "apigenine",
+      "chamomile",
+      "apigenol",
+      "spigenin",
+      "versulin"
+    ]
+  },
+  {
+    "value": "Apigenin-6-C-gluoside",
+    "synonyms": [
+      "apigen6cgls",
+      "apigenin 6 c gluoside",
+      "isovitexin",
+      "homovitexin",
+      "saponaretin"
+    ]
+  },
+  {
+    "value": "Apigenin-7-O-neohesperidoside",
+    "synonyms": [
+      "apigen7onshps",
+      "Apigenin 7 o neohesperidoside",
+      "flavone",
+      "flavonoid",
+      "polyphenol",
+      "poly",
+      "phenol",
+      "polyhydroxyphenol",
+      "phenolic",
+      "hydroxyl",
+      "phytochemical",
+      "pigment",
+      "rhoifolin"
+    ]
+  },
+  {
+    "value": "Luteolin",
+    "synonyms": [
+      "luteol",
+      "luteolin",
+      "luteolol",
+      "digitoflavone",
+      "flacitran",
+      "luteoline"
+    ]
+  },
+  {
+    "value": "Kaempferol",
+    "synonyms": [
+      "kaemf",
+      "kaempferol",
+      "kaempherol",
+      "robigenin",
+      "pelargidenolon",
+      "rhamnolutein",
+      "rhamnolutin",
+      "populnetin",
+      "trifolitin",
+      "kempferol",
+      "swartziol"
+    ]
+  },
+  {
+    "value": "Quercetin",
+    "synonyms": [
+      "querce",
+      "quercetin",
+      "sophoretin",
+      "meletin",
+      "quercetine",
+      "xanthaurine",
+      "quercetol",
+      "quercitin",
+      "quertine",
+      "flavin",
+      "meletin"
+    ]
+  },
+  {
+    "value": "Quercetin-3-β-D-glucoside",
+    "synonyms": [
+      "querce3bdgls",
+      "quercetin 3 β d glucoside",
+      "quercetin 3 b d glucoside",
+      "quercetin 3 beta d glucoside",
+      "isoquercetin",
+      "isoquercitrin",
+      "isoquercitroside",
+      "isoquercitin",
+      "trifoliin",
+      "isotrifolin",
+      "isohyperoside",
+      "isotrifoliin",
+      "glucopyranoside"
+    ]
+  },
+  {
+    "value": "Quercetin-3-O-rutinoside",
+    "synonyms": [
+      "querce3ortns",
+      "quercetin 3 o rutinoside",
+      "rutin",
+      "rutoside",
+      "sophorin",
+      "phytomelin",
+      "sophorin",
+      "birutan",
+      "eldrin",
+      "globularicitrin",
+      "violaquercitrin",
+      "glycoside"
+    ]
+  },
+  {
+    "value": "Quercetin-3-β-galactoside",
+    "synonyms": [
+      "querce3bgls",
+      "quercetin 3 β galactoside",
+      "quercetin 3 b galactoside",
+      "quercetin 3 beta galactoside",
+      "hyperoside",
+      "hyperozide",
+      "hyperasid",
+      "hyperosid",
+      "hyperin"
+    ]
+  },
+  {
+    "value": "Isorhamnetin",
+    "synonyms": [
+      "isormt",
+      "isorhamnetin",
+      "methylquercetin",
+      "isorhamnetol",
+      "isorhamentin",
+      "isorhamnetine",
+      "rhamnetin",
+      "methoxyquercetin",
+      "methylated"
+    ]
+  },
+  {
+    "value": "Myricetin",
+    "synonyms": [
+      "myrct",
+      "myricetin",
+      "cannabiscetin",
+      "myricetol",
+      "myricitin"
+    ]
+  },
+  {
+    "value": "Resvertrol",
+    "synonyms": [
+      "rsvrtol",
+      "resveratrol",
+      "aglycone",
+      "stilbenoid",
+      "phenylpropanoid",
+      "trihydroxystilbene",
+      "stilbenetriol",
+      "phytoalexin"
+    ]
+  },
+  {
+    "value": "Hesperetin",
+    "synonyms": [
+      "hespt",
+      "hesperetin",
+      "eriodictyol"
+    ]
+  },
+  {
+    "value": "Naringenin",
+    "synonyms": [
+      "narng",
+      "naringenin",
+      "naringetol",
+      "salipurol",
+      "salipurpol",
+      "trihydroxyflavanone"
+    ]
+  },
+  {
+    "value": "Hesperdin",
+    "synonyms": [
+      "hespd",
+      "hesperdin",
+      "hesperetin",
+      "rutinoside",
+      "flavan",
+      "glycoside"
+    ]
+  },
+  {
+    "value": "Daidzein",
+    "synonyms": [
+      "daidzn",
+      "daidzein",
+      "formononetin",
+      "dihydroxyisoflavone",
+      "daidzeol",
+      "isoaurostatin"
+    ]
+  },
+  {
+    "value": "Genistein",
+    "synonyms": [
+      "gnstein",
+      "genistein",
+      "biochanin a",
+      "angiogenesis inhibitor"
+    ]
+  },
+  {
+    "value": "(-)-Epicatechin",
+    "synonyms": [
+      "epicatec",
+      "epicatechin"
+    ]
+  },
+  {
+    "value": "(-)-Epigallo catechin",
+    "synonyms": [
+      "epicategc",
+      "epigallo catechin"
+    ]
+  },
+  {
+    "value": "(-)-Epigallo catechin 3-gallate",
+    "synonyms": [
+      "epicatgc3gal",
+      "epigallo catechin 3 gallate",
+      "egcg"
+    ]
+  },
+  {
+    "value": "(+)-Catechin",
+    "synonyms": [
+      "catec",
+      "catechin",
+      "cianidanol",
+      "cyanidanol",
+      "catechinic",
+      "catechuic",
+      "cianidol",
+      "dexcyanidanol",
+      "flavanpentol"
+    ]
+  },
+  {
+    "value": "(-)-Gallocatechin gallate",
+    "synonyms": [
+      "galcatecgal",
+      "gallocatechin gallate",
+      "gcg"
+    ]
+  },
+  {
+    "value": "(-)-Gallocatechin",
+    "synonyms": [
+      "galcatec",
+      "gallocatechin",
+      "gc",
+      "gallocatechol"
+    ]
+  },
+  {
+    "value": "Syringic acid",
+    "synonyms": [
+      "syrgac",
+      "syringic",
+      "trihydroxybenzoic"
+    ]
+  },
+  {
+    "value": "Sinapinic acid",
+    "synonyms": [
+      "sinpac",
+      "sinapinic",
+      "sinapic",
+      "dimethoxycinnamic"
+    ]
+  },
+  {
+    "value": "Ellagic acid",
+    "synonyms": [
+      "ellgac",
+      "ellagic",
+      "dilactone",
+      "hexahydroxydiphenic"
+    ]
+  },
+  {
+    "value": "Total polyphenols",
+    "synonyms": [
+      "polyph",
+      "polyphenol"
+    ]
+  },
+  {
+    "value": "Raffinose",
+    "synonyms": [
+      "rafs",
+      "raffinose",
+      "rafinosa",
+      "gossypose",
+      "melitose",
+      "melitriose",
+      "galactosylsucrose"
+    ]
+  },
+  {
+    "value": "Stachyose",
+    "synonyms": [
+      "stas",
+      "stachyose"
+    ]
+  },
+  {
+    "value": "Verbascose",
+    "synonyms": [
+      "vers",
+      "verbascose"
+    ]
+  },
+  {
+    "value": "Ajugose",
+    "synonyms": [
+      "ajgs",
+      "ajugose"
+    ]
+  },
+  {
+    "value": "Campesterol",
+    "synonyms": [
+      "camt",
+      "campesterol",
+      "campestanol"
+    ]
+  },
+  {
+    "value": "Stigmasterol",
+    "synonyms": [
+      "stgstr",
+      "stigmasterol"
+    ]
+  },
+  {
+    "value": "β-Sitosterol",
+    "synonyms": [
+      "stostrb",
+      "β sitosterol",
+      "b sitosterol",
+      "beta sitosterol"
+    ]
+  },
+  {
+    "value": "Phytate",
+    "synonyms": [
+      "phytac",
+      "phytate",
+      "ip6",
+      "phytic",
+      "inositol",
+      "hexakisphosphate",
+      "polyphosphate",
+      "hexayl",
+      "hexakis dihydrogen phosphate"
+    ]
+  },
+  {
+    "value": "Total Saponin",
+    "synonyms": [
+      "sapon",
+      "saponin",
+      "triterpene",
+      "triterpenoid"
+    ]
+  },
+  {
+    "value": "Total Vitamin B *",
+    "synonyms": [
+      "vitb",
+      "vitamin b"
+    ]
+  },
+  {
+    "value": "Total Vitamin D *",
+    "synonyms": [
+      "vitd",
+      "vitamin d"
+    ]
+  },
+  {
+    "value": "Total Vitamin K *",
+    "synonyms": [
+      "vitk",
+      "vitamin k"
+    ]
+  },
+  {
+    "value": "Tocopherols *",
+    "synonyms": [
+      "tocph",
+      "tocopherol",
+      "tcp",
+      "methylated phenol"
+    ]
+  },
+  {
+    "value": "Tocotrienols *",
+    "synonyms": [
+      "toctr",
+      "tocotrienol"
+    ]
+  },
+  {
+    "value": "Essential Amino acids *",
+    "synonyms": [
+      "amiace",
+      "essential amino"
+    ]
+  },
+  {
+    "value": "Conditionally essential Amino acids *",
+    "synonyms": [
+      "amiacce",
+      "conditionally essential amino",
+      "optional amino"
+    ]
+  },
+  {
+    "value": "Non-essential Amino acids *",
+    "synonyms": [
+      "amiacne",
+      "non essential amino",
+      "unneeded essential amino",
+      "unnecessary essential amino"
+    ]
+  },
+  {
+    "value": "Total Amino acids *",
+    "synonyms": [
+      "amiac",
+      "amino"
+    ]
+  },
+  {
+    "value": "Total Organic acids *",
+    "synonyms": [
+      "orgac",
+      "organic acid"
+    ]
+  },
+  {
+    "value": "Total unsaturated Fatty acids *",
+    "synonyms": [
+      "fauns",
+      "unsaturated fatty",
+      "unsaturated fat",
+      "unsaturated lipid"
+    ]
+  },
+  {
+    "value": "Essential Fatty acids *",
+    "synonyms": [
+      "faess",
+      "essential fatty",
+      "essential fat",
+      "necessary fatty",
+      "necessary fat",
+      "needed fatty",
+      "needed fat",
+      "essential lipid",
+      "necessary lipid",
+      "needed lipid"
+    ]
+  },
+  {
+    "value": "Cis ω-3 Fatty acids *",
+    "synonyms": [
+      "facn3",
+      "cis ω 3 fatty",
+      "cis ω3 fatty",
+      "ω 3 fatty",
+      "ω3 fatty",
+      "cis w 3 fatty",
+      "cis w3 fatty",
+      "w 3 fatty",
+      "w3 fatty",
+      "cis omega 3 fatty",
+      "cis omega3 fatty",
+      "omega 3 fatty",
+      "omega3 fatty",
+      "cis ω 3 fat",
+      "cis ω3 fat",
+      "ω 3 fat",
+      "ω3 fat",
+      "cis w 3 fat",
+      "cis w3 fat",
+      "w 3 fat",
+      "w3 fat",
+      "cis omega 3 fat",
+      "cis omega3 fat",
+      "omega 3 fat",
+      "omega3 fat",
+      "cis ω 3 lipid",
+      "cis ω3 lipid",
+      "ω 3 lipid",
+      "ω3 lipid",
+      "cis w 3 lipid",
+      "cis w3 lipid",
+      "w 3 lipid",
+      "w3 lipid",
+      "cis omega 3 lipid",
+      "cis omega3 lipid",
+      "omega 3 lipid",
+      "omega3 lipid"
+    ]
+  },
+  {
+    "value": "Cis ω-6 Fatty acids *",
+    "synonyms": [
+      "facn6",
+      "cis ω 6 fatty",
+      "cis ω6 fatty",
+      "ω 6 fatty",
+      "ω6 fatty",
+      "cis w 6 fatty",
+      "cis w6 fatty",
+      "w 6 fatty",
+      "w6 fatty",
+      "cis omega 6 fatty",
+      "cis omega6 fatty",
+      "omega 6 fatty",
+      "omega6 fatty",
+      "cis ω 6 fat",
+      "cis ω6 fat",
+      "ω 6 fat",
+      "ω6 fat",
+      "cis w 6 fat",
+      "cis w6 fat",
+      "w 6 fat",
+      "w6 fat",
+      "cis omega 6 fat",
+      "cis omega6 fat",
+      "omega 6 fat",
+      "omega6 fat",
+      "cis ω 6 lipid",
+      "cis ω6 lipid",
+      "ω 6 lipid",
+      "ω6 lipid",
+      "cis w 6 lipid",
+      "cis w6 lipid",
+      "w 6 lipid",
+      "w6 lipid",
+      "cis omega 6 lipid",
+      "cis omega6 lipid",
+      "omega 6 lipid",
+      "omega6 lipid"
+    ]
+  },
+  {
+    "value": "Cis ω-9 Fatty acids *",
+    "synonyms": [
+      "facn9",
+      "cis ω 9 fatty",
+      "cis ω9 fatty",
+      "ω 9 fatty",
+      "ω9 fatty",
+      "cis w 9 fatty",
+      "cis w9 fatty",
+      "w 9 fatty",
+      "w9 fatty",
+      "cis omega 9 fatty",
+      "cis omega9 fatty",
+      "omega 9 fatty",
+      "omega9 fatty",
+      "cis ω 9 fat",
+      "cis ω9 fat",
+      "ω 9 fat",
+      "ω9 fat",
+      "cis w 9 fat",
+      "cis w9 fat",
+      "w 9 fat",
+      "w9 fat",
+      "cis omega 9 fat",
+      "cis omega9 fat",
+      "omega 9 fat",
+      "omega9 fat",
+      "cis ω 9 lipid",
+      "cis ω9 lipid",
+      "ω 9 lipid",
+      "ω9 lipid",
+      "cis w 9 lipid",
+      "cis w9 lipid",
+      "w 9 lipid",
+      "w9 lipid",
+      "cis omega 9 lipid",
+      "cis omega9 lipid",
+      "omega 9 lipid",
+      "omega9 lipid"
+    ]
+  },
+  {
+    "value": "Cis Monounsaturated Fatty acids *",
+    "synonyms": [
+      "famscis",
+      "cis monounsaturated fatty",
+      "cis mono unsaturated fatty",
+      "monounsaturated fatty",
+      "mono unsaturated fatty",
+      "cis monounsaturated fat",
+      "cis mono unsaturated fat",
+      "monounsaturated fat",
+      "mono unsaturated fat",
+      "cis monounsaturated lipid",
+      "cis mono unsaturated lipid",
+      "monounsaturated lipid",
+      "mono unsaturated lipid"
+    ]
+  },
+  {
+    "value": "Trans Fatty acids *",
+    "synonyms": [
+      "fatrn",
+      "trans fatty",
+      "trans fat",
+      "trans lipid"
+    ]
+  },
+  {
+    "value": "Oligosaccharides *",
+    "synonyms": [
+      "olsac",
+      "oligosaccharide"
+    ]
+  },
+  {
+    "value": "Phytosterols *",
+    "synonyms": [
+      "phystr",
+      "phytosterol",
+      "plant sterol",
+      "stanol",
+      "phytosteroid",
+      "natural steroid",
+      "plant steroid"
+    ]
+  },
+  {
+    "value": "Essential Quantity Minerals *",
+    "synonyms": [
+      "mnrleq",
+      "essential quantity mineral",
+      "essential quantity metal",
+      "essential quantity element"
+    ]
+  },
+  {
+    "value": "Essential Trace Minerals *",
+    "synonyms": [
+      "mnrlet",
+      "essential trace mineral",
+      "essential trace metal",
+      "essential trace element"
+    ]
+  },
+  {
+    "value": "Possibly essential Trace Minerals *",
+    "synonyms": [
+      "mnrlpet",
+      "possibly essential trace mineral",
+      "possibly essential trace metal",
+      "possibly essential trace element"
+    ]
+  },
+  {
+    "value": "Non-essential Trace Minerals *",
+    "synonyms": [
+      "mnrlnet",
+      "non essential trace mineral",
+      "non essential trace metal",
+      "non essential trace element"
+    ]
+  },
+  {
+    "value": "Toxic Minerals *",
+    "synonyms": [
+      "mnrltx",
+      "toxic mineral",
+      "toxic metal",
+      "toxic element"
+    ]
+  },
+  {
+    "value": "Total Carotenes *",
+    "synonyms": [
+      "carot",
+      "carotene",
+      "carotin",
+      "orange pigment"
+    ]
+  },
+  {
+    "value": "Total Xanthophylls *",
+    "synonyms": [
+      "xantp",
+      "xanthophyll",
+      "phylloxanthin",
+      "yellow pigment"
+    ]
+  },
+  {
+    "value": "β-Carotene equivalents *",
+    "synonyms": [
+      "cartbeq",
+      "β carotene equivalent",
+      "b carotene equivalent",
+      "beta carotene equivalent",
+      "provitamin a",
+      "previtamin a"
+    ]
+  },
+  {
+    "value": "Total Vitamin A *",
+    "synonyms": [
+      "vita",
+      "vitamin a"
+    ]
+  },
+  {
+    "value": "Total Vitamins *",
+    "synonyms": [
+      "vit",
+      "vitamin"
+    ]
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "value": "Assamese",
+    "synonyms": [
+      "A"
+    ]
+  },
+  {
+    "value": "Atomic Absorption Spectroscopy",
+    "synonyms": [
+      "AAS"
+    ]
+  },
+  {
+    "value": "Association of Official Analytical Chemists",
+    "synonyms": [
+      "AOAC"
+    ]
+  },
+  {
+    "value": "Atmospheric Pressure Chemical Ionization",
+    "synonyms": [
+      "APCI"
+    ]
+  },
+  {
+    "value": "Bengali",
+    "synonyms": [
+      "B"
+    ]
+  },
+  {
+    "value": "Biological Value",
+    "synonyms": [
+      "BV"
+    ]
+  },
+  {
+    "value": "Central Food Technological Research Institute",
+    "synonyms": [
+      "CFTRI"
+    ]
+  },
+  {
+    "value": "Carbohydrate",
+    "synonyms": [
+      "CHO"
+    ]
+  },
+  {
+    "value": "Common name",
+    "synonyms": [
+      "Common"
+    ]
+  },
+  {
+    "value": "Certified Reference Material",
+    "synonyms": [
+      "CRM"
+    ]
+  },
+  {
+    "value": "Dietary reference intake",
+    "synonyms": [
+      "DRI"
+    ]
+  },
+  {
+    "value": "Essential Amino Acids",
+    "synonyms": [
+      "EAA"
+    ]
+  },
+  {
+    "value": "Electro Spray Ionization",
+    "synonyms": [
+      "ESI"
+    ]
+  },
+  {
+    "value": "Food and Agriculture Organization of the United Nations",
+    "synonyms": [
+      "FAO"
+    ]
+  },
+  {
+    "value": "Food and Agriculture Organization Statistics",
+    "synonyms": [
+      "FAOSTAT"
+    ]
+  },
+  {
+    "value": "Food Composition Tables",
+    "synonyms": [
+      "FCT"
+    ]
+  },
+  {
+    "value": "Gujarati",
+    "synonyms": [
+      "G"
+    ]
+  },
+  {
+    "value": "Gas Chromatography",
+    "synonyms": [
+      "GC"
+    ]
+  },
+  {
+    "value": "Green Leafy Vegetables",
+    "synonyms": [
+      "GLVs"
+    ]
+  },
+  {
+    "value": "Hindi",
+    "synonyms": [
+      "H"
+    ]
+  },
+  {
+    "value": "High Performance Liquid Chromatography",
+    "synonyms": [
+      "HPLC"
+    ]
+  },
+  {
+    "value": "Indian Council of Medical Research",
+    "synonyms": [
+      "ICMR"
+    ]
+  },
+  {
+    "value": "Inductively Coupled Plasma Mass Spectrometry",
+    "synonyms": [
+      "ICP-MS"
+    ]
+  },
+  {
+    "value": "Iron Deficiency Anemia",
+    "synonyms": [
+      "IDA"
+    ]
+  },
+  {
+    "value": "Insoluble Dietary Fibre",
+    "synonyms": [
+      "IDF"
+    ]
+  },
+  {
+    "value": "International Diabetes Federation",
+    "synonyms": [
+      "IDF"
+    ]
+  },
+  {
+    "value": "Indian Food Composition Tables",
+    "synonyms": [
+      "IFCT"
+    ]
+  },
+  {
+    "value": "International Network of Food Data Systems",
+    "synonyms": [
+      "INFOODS"
+    ]
+  },
+  {
+    "value": "Inositol hexaphosphate",
+    "synonyms": [
+      "IP-6"
+    ]
+  },
+  {
+    "value": "Indian Research Fund Association",
+    "synonyms": [
+      "IRFA"
+    ]
+  },
+  {
+    "value": "International Units",
+    "synonyms": [
+      "IU"
+    ]
+  },
+  {
+    "value": "Kannada",
+    "synonyms": [
+      "Kan"
+    ]
+  },
+  {
+    "value": "Kashmiri",
+    "synonyms": [
+      "Kash"
+    ]
+  },
+  {
+    "value": "Khasi",
+    "synonyms": [
+      "Kh"
+    ]
+  },
+  {
+    "value": "kilo Joule",
+    "synonyms": [
+      "kJ"
+    ]
+  },
+  {
+    "value": "Konkani",
+    "synonyms": [
+      "Kon"
+    ]
+  },
+  {
+    "value": "Manipuri",
+    "synonyms": [
+      "M"
+    ]
+  },
+  {
+    "value": "Malayalam",
+    "synonyms": [
+      "Mal"
+    ]
+  },
+  {
+    "value": "Marathi",
+    "synonyms": [
+      "Mar"
+    ]
+  },
+  {
+    "value": "Monounsaturated Fatty Acids",
+    "synonyms": [
+      "MUFA"
+    ]
+  },
+  {
+    "value": "Normality",
+    "synonyms": [
+      "N"
+    ]
+  },
+  {
+    "value": "Nepali",
+    "synonyms": [
+      "N"
+    ]
+  },
+  {
+    "value": "Nutritional Advisory Committee",
+    "synonyms": [
+      "NAC"
+    ]
+  },
+  {
+    "value": "Non-digestible oligosaccharides",
+    "synonyms": [
+      "NDO"
+    ]
+  },
+  {
+    "value": "National Family Health Survey",
+    "synonyms": [
+      "NFHS"
+    ]
+  },
+  {
+    "value": "National Institute of Nutrition",
+    "synonyms": [
+      "NIN"
+    ]
+  },
+  {
+    "value": "National Nutrition Monitoring Bureau",
+    "synonyms": [
+      "NNMB"
+    ]
+  },
+  {
+    "value": "Nutrition Research Funds Association",
+    "synonyms": [
+      "NRFA"
+    ]
+  },
+  {
+    "value": "Nutrition Research Laboratories",
+    "synonyms": [
+      "NRL"
+    ]
+  },
+  {
+    "value": "Nutritive Value of Indian Foods",
+    "synonyms": [
+      "NVIF"
+    ]
+  },
+  {
+    "value": "Oriya",
+    "synonyms": [
+      "O"
+    ]
+  },
+  {
+    "value": "Punjabi",
+    "synonyms": [
+      "P"
+    ]
+  },
+  {
+    "value": "Protein Energy Malnutrition",
+    "synonyms": [
+      "PEM"
+    ]
+  },
+  {
+    "value": "Protein Efficiency Ratio",
+    "synonyms": [
+      "PER"
+    ]
+  },
+  {
+    "value": "Primary Sampling Units",
+    "synonyms": [
+      "PSUs"
+    ]
+  },
+  {
+    "value": "Polyunsaturated Fatty Acids",
+    "synonyms": [
+      "PUFA"
+    ]
+  },
+  {
+    "value": "Quality assurance and quality control",
+    "synonyms": [
+      "QAQC"
+    ]
+  },
+  {
+    "value": "Retinol equivalent activity",
+    "synonyms": [
+      "RAE"
+    ]
+  },
+  {
+    "value": "Refractive index detector",
+    "synonyms": [
+      "RID"
+    ]
+  },
+  {
+    "value": "Reversed phase",
+    "synonyms": [
+      "RP"
+    ]
+  },
+  {
+    "value": "Sanskrit",
+    "synonyms": [
+      "S"
+    ]
+  },
+  {
+    "value": "Scientific name",
+    "synonyms": [
+      "Sci"
+    ]
+  },
+  {
+    "value": "Standard deviation",
+    "synonyms": [
+      "SD"
+    ]
+  },
+  {
+    "value": "Soluble Dietary Fibre",
+    "synonyms": [
+      "SDF"
+    ]
+  },
+  {
+    "value": "Secondary sampling units",
+    "synonyms": [
+      "SSUs"
+    ]
+  },
+  {
+    "value": "Tamil",
+    "synonyms": [
+      "Tam"
+    ]
+  },
+  {
+    "value": "Total Dietary Fibre",
+    "synonyms": [
+      "TDF"
+    ]
+  },
+  {
+    "value": "Telugu",
+    "synonyms": [
+      "Tel"
+    ]
+  },
+  {
+    "value": "Urdu",
+    "synonyms": [
+      "U"
+    ]
+  },
+  {
+    "value": "Union territory",
+    "synonyms": [
+      "UT"
+    ]
+  },
+  {
+    "value": "Ultra violet",
+    "synonyms": [
+      "UV"
+    ]
+  },
+  {
+    "value": "Vitamin A deficiency",
+    "synonyms": [
+      "VAD"
+    ]
+  },
+  {
+    "value": "World Health Organization",
+    "synonyms": [
+      "WHO"
+    ]
+  }
+]

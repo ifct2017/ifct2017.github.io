@@ -1,0 +1,549 @@
+[
+  {
+    "value": "AND",
+    "synonyms": [
+      "and boolena",
+      "and bool",
+      "and"
+    ]
+  },
+  {
+    "value": "OR",
+    "synonyms": [
+      "boolean or",
+      "bool or",
+      "or"
+    ]
+  },
+  {
+    "value": "\u003c",
+    "synonyms": [
+      "above not same",
+      "great not same",
+      "high not same",
+      "not rich same",
+      "good not same",
+      "better not same",
+      "large not same",
+      "more not same",
+      "big not same",
+      "above not or same",
+      "great not or same",
+      "high not or same",
+      "not or rich same",
+      "good not or same",
+      "better not or same",
+      "large not or same",
+      "more not or same",
+      "big not or same",
+      "big equal not",
+      "equal more not",
+      "equal large not",
+      "equal high not",
+      "equal not rich",
+      "equal good not",
+      "better equal not",
+      "above equal not",
+      "equal great not",
+      "big equal not or",
+      "equal more not or",
+      "equal large not or",
+      "equal not or rich",
+      "equal good not or",
+      "better equal not or",
+      "equal high not or",
+      "above equal not or",
+      "equal great not or",
+      "below",
+      "poor",
+      "bad",
+      "worse",
+      "small",
+      "less",
+      "low"
+    ]
+  },
+  {
+    "value": "\u003e",
+    "synonyms": [
+      "not same small",
+      "low not same",
+      "below not same",
+      "less not same",
+      "not poor same",
+      "bad not same",
+      "not same worse",
+      "not or same small",
+      "low not or same",
+      "below not or same",
+      "less not or same",
+      "not or poor same",
+      "bad not or same",
+      "not or same worse",
+      "equal not small",
+      "equal low not",
+      "below equal not",
+      "equal less not",
+      "equal not poor",
+      "bad equal not",
+      "equal not worse",
+      "equal not or small",
+      "equal low not or",
+      "below equal not or",
+      "equal less not or",
+      "equal not or poor",
+      "bad equal not or",
+      "equal not or worse",
+      "above",
+      "great",
+      "high",
+      "rich",
+      "good",
+      "better",
+      "large",
+      "more",
+      "big"
+    ]
+  },
+  {
+    "value": "\u003c\u003d",
+    "synonyms": [
+      "same small",
+      "low same",
+      "below same",
+      "less same",
+      "poor same",
+      "bad same",
+      "same worse",
+      "or same small",
+      "low or same",
+      "below or same",
+      "less or same",
+      "or poor same",
+      "bad or same",
+      "or same worse",
+      "equal small",
+      "equal low",
+      "below equal",
+      "equal less",
+      "equal poor",
+      "bad equal",
+      "equal worse",
+      "equal or small",
+      "equal low or",
+      "below equal or",
+      "equal less or",
+      "equal or poor",
+      "bad equal or",
+      "equal or worse",
+      "above not",
+      "great not",
+      "high not",
+      "not rich",
+      "good not",
+      "better not",
+      "large not",
+      "more not",
+      "big not"
+    ]
+  },
+  {
+    "value": "\u003e\u003d",
+    "synonyms": [
+      "above same",
+      "great same",
+      "high same",
+      "rich same",
+      "good same",
+      "better same",
+      "large same",
+      "more same",
+      "big same",
+      "above or same",
+      "great or same",
+      "high or same",
+      "or rich same",
+      "good or same",
+      "better or same",
+      "large or same",
+      "more or same",
+      "big or same",
+      "big equal",
+      "equal more",
+      "equal large",
+      "equal high",
+      "equal rich",
+      "equal good",
+      "better equal",
+      "above equal",
+      "equal great",
+      "big equal or",
+      "equal more or",
+      "equal large or",
+      "equal high or",
+      "equal or rich",
+      "equal good or",
+      "better equal or",
+      "above equal or",
+      "equal great or",
+      "below not",
+      "not small",
+      "less not",
+      "not poor",
+      "bad not",
+      "not worse",
+      "low not"
+    ]
+  },
+  {
+    "value": "!\u003d",
+    "synonyms": [
+      "not same",
+      "equal not",
+      "different",
+      "inequal"
+    ]
+  },
+  {
+    "value": "\u003d",
+    "synonyms": [
+      "indifferent",
+      "equaluivalent",
+      "identical",
+      "same",
+      "equal",
+      "is"
+    ]
+  },
+  {
+    "value": "IS DISTINCT FROM",
+    "synonyms": [
+      "different from",
+      "distinct from",
+      "different from is",
+      "distinct from is"
+    ]
+  },
+  {
+    "value": "IS NOT DISTINCT FROM",
+    "synonyms": [
+      "different from not",
+      "distinct from not",
+      "different from is not",
+      "distinct from is not"
+    ]
+  },
+  {
+    "value": "+",
+    "synonyms": [
+      "addition",
+      "plus",
+      "sum",
+      "add"
+    ]
+  },
+  {
+    "value": "-",
+    "synonyms": [
+      "subtraction",
+      "subtract",
+      "minus"
+    ]
+  },
+  {
+    "value": "*",
+    "synonyms": [
+      "multiplication",
+      "multiply",
+      "product",
+      "into"
+    ]
+  },
+  {
+    "value": "/",
+    "synonyms": [
+      "division",
+      "divide",
+      "by"
+    ]
+  },
+  {
+    "value": "%",
+    "synonyms": [
+      "remainder",
+      "modulus",
+      "modulo",
+      "mod"
+    ]
+  },
+  {
+    "value": "^",
+    "synonyms": [
+      "exponential",
+      "exponent",
+      "power",
+      "pow"
+    ]
+  },
+  {
+    "value": "\u0026",
+    "synonyms": [
+      "and bitwise",
+      "and bit"
+    ]
+  },
+  {
+    "value": "|",
+    "synonyms": [
+      "bitwise or",
+      "bit or"
+    ]
+  },
+  {
+    "value": "#",
+    "synonyms": [
+      "bitwise xor",
+      "bit xor"
+    ]
+  },
+  {
+    "value": "\u003c\u003c",
+    "synonyms": [
+      "bitwise left shift",
+      "bit left shift",
+      "left shift"
+    ]
+  },
+  {
+    "value": "\u003e\u003e",
+    "synonyms": [
+      "bitwise right shift",
+      "bit right shift",
+      "right shift"
+    ]
+  },
+  {
+    "value": "~",
+    "synonyms": [
+      "case express match regular sensitive",
+      "express match regular sensitive",
+      "express match regular"
+    ]
+  },
+  {
+    "value": "~*",
+    "synonyms": [
+      "case express insensitive match regular",
+      "express insensitive match regular"
+    ]
+  },
+  {
+    "value": "!~",
+    "synonyms": [
+      "case express match not regular sensitive",
+      "express match not regular sensitive",
+      "express match not regular"
+    ]
+  },
+  {
+    "value": "!~*",
+    "synonyms": [
+      "case express insensitive match not regular",
+      "express insensitive match not regular"
+    ]
+  },
+  {
+    "value": "LIKE",
+    "synonyms": [
+      "like"
+    ]
+  },
+  {
+    "value": "NOT LIKE",
+    "synonyms": [
+      "like not"
+    ]
+  },
+  {
+    "value": "SIMILAR TO",
+    "synonyms": [
+      "similar to"
+    ]
+  },
+  {
+    "value": "NOT SIMILAR TO",
+    "synonyms": [
+      "not similar to"
+    ]
+  },
+  {
+    "value": "@@",
+    "synonyms": [
+      "match"
+    ]
+  },
+  {
+    "value": "||",
+    "synonyms": [
+      "concatenate",
+      "concat"
+    ]
+  },
+  {
+    "value": "@\u003e",
+    "synonyms": [
+      "contains element",
+      "contains range",
+      "contains"
+    ]
+  },
+  {
+    "value": "\u003c@",
+    "synonyms": [
+      "of superset",
+      "contained element",
+      "contained range",
+      "contained",
+      "constituent of",
+      "component of",
+      "element of",
+      "of portion",
+      "member of",
+      "of subset",
+      "of piece",
+      "of part"
+    ]
+  },
+  {
+    "value": "\u0026\u0026",
+    "synonyms": [
+      "common point",
+      "intersects",
+      "overlaps"
+    ]
+  },
+  {
+    "value": "\u003c\u003c",
+    "synonyms": [
+      "absolute left",
+      "complete left",
+      "exactly left",
+      "exact left",
+      "left rigidly",
+      "left rigid",
+      "left strictly",
+      "left strict",
+      "left pure"
+    ]
+  },
+  {
+    "value": "\u003e\u003e",
+    "synonyms": [
+      "absolute right",
+      "complete right",
+      "exactly right",
+      "exact right",
+      "right rigidly",
+      "right rigid",
+      "right strictly",
+      "right strict",
+      "pure right"
+    ]
+  },
+  {
+    "value": "\u0026\u003c",
+    "synonyms": [
+      "lengthen not right",
+      "not right stretch",
+      "not prolong right",
+      "continu not right",
+      "not right unfurl",
+      "not right spread",
+      "expand not right",
+      "extend not right",
+      "carry not right"
+    ]
+  },
+  {
+    "value": "\u0026\u003e",
+    "synonyms": [
+      "left lengthen not",
+      "left not stretch",
+      "left not prolong",
+      "continu left not",
+      "left not unfurl",
+      "left not spread",
+      "expand left not",
+      "extend left not",
+      "carry left not"
+    ]
+  },
+  {
+    "value": "-|-",
+    "synonyms": [
+      "neighbour",
+      "neighbouring",
+      "alongside",
+      "contiguous",
+      "adjoin",
+      "touch",
+      "beside",
+      "adjacent"
+    ]
+  },
+  {
+    "value": "+",
+    "synonyms": [
+      "union",
+      "u"
+    ]
+  },
+  {
+    "value": "*",
+    "synonyms": [
+      "intersection"
+    ]
+  },
+  {
+    "value": "-",
+    "synonyms": [
+      "complement relative",
+      "comp relative"
+    ]
+  },
+  {
+    "value": "IN",
+    "synonyms": [
+      "in",
+      "on"
+    ]
+  },
+  {
+    "value": "NOT IN",
+    "synonyms": [
+      "in not",
+      "not on"
+    ]
+  },
+  {
+    "value": "ANY",
+    "synonyms": [
+      "partial",
+      "part",
+      "some",
+      "few",
+      "any"
+    ]
+  },
+  {
+    "value": "ALL",
+    "synonyms": [
+      "every on single",
+      "every single",
+      "every on",
+      "every",
+      "each every",
+      "all"
+    ]
+  }
+]

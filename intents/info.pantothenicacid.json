@@ -1,0 +1,22 @@
+{
+  "id": "eefbba65-6a39-48e2-8ab8-7a6f0ea86448",
+  "name": "info.pantothenicacid",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157376,
+  "fallbackIntent": false,
+  "events": []
+}

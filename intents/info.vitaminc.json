@@ -1,0 +1,22 @@
+{
+  "id": "bb9da098-a7cf-4e23-a097-19694016ac96",
+  "name": "info.vitaminc",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157376,
+  "fallbackIntent": false,
+  "events": []
+}

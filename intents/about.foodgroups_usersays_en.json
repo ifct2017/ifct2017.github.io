@@ -1,0 +1,143 @@
+[
+  {
+    "id": "9c1c1e3d-2404-451d-910a-1d759fbcc79a",
+    "data": [
+      {
+        "text": "food types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "0ad003ce-5eed-454e-b83e-439ba6b2c021",
+    "data": [
+      {
+        "text": "food groups",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "d2db8d98-20cb-414c-a103-31046705fb62",
+    "data": [
+      {
+        "text": "what food types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "6404bb23-a193-4ff8-845c-739005f00967",
+    "data": [
+      {
+        "text": "what food groups are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "24054f3a-9218-426a-bce8-45775e6f05d7",
+    "data": [
+      {
+        "text": "can i know the food groups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "b8b00e11-caac-405b-b240-0baaf8cd1c7a",
+    "data": [
+      {
+        "text": "i",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " want to know what ",
+        "userDefined": false
+      },
+      {
+        "text": "types",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "c13efae0-bc44-402a-9776-5b8bf9e94938",
+    "data": [
+      {
+        "text": "show me food groups in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  },
+  {
+    "id": "fa44acc2-0250-4940-9ac9-a3f9a0d3f2b0",
+    "data": [
+      {
+        "text": "what are the food groups in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522241177
+  }
+]

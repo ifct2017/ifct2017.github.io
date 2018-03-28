@@ -1,0 +1,37 @@
+{
+  "id": "53942ab2-0554-4733-9c09-9b7bf0044f11",
+  "name": "about.columncode",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "75bfdfe3-8102-4803-a038-0199a6e1ef34",
+          "required": false,
+          "dataType": "@columns-code",
+          "name": "columns-code",
+          "value": "$columns-code",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its column code is $columns-code."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522260559,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bb89426f-d3c1-47ac-90ad-ff147a2e68b6",
+  "name": "info.vitamind",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157376,
+  "fallbackIntent": false,
+  "events": []
+}

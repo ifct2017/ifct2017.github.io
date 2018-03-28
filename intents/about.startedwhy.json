@@ -1,0 +1,22 @@
+{
+  "id": "de9cf5f0-4603-476e-b3c6-3035ae2612ee",
+  "name": "about.startedwhy",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522157376,
+  "fallbackIntent": false,
+  "events": []
+}

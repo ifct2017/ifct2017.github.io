@@ -1,0 +1,36 @@
+{
+  "id": "9e52a302-1c7e-4e85-9cc4-75f3d5747fa6",
+  "name": "about.fundedby",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a3dce18-60b9-47db-9999-fd059c849284",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "IFCT2017 is funded by Indian Council of Medical Research (ICMR), New Delhi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522242315,
+  "fallbackIntent": false,
+  "events": []
+}

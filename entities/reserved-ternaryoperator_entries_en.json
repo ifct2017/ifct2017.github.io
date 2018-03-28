@@ -1,0 +1,16 @@
+[
+  {
+    "value": "NOT BETWEEN SYMMETRIC",
+    "synonyms": [
+      "between not",
+      "not within"
+    ]
+  },
+  {
+    "value": "BETWEEN SYMMETRIC",
+    "synonyms": [
+      "between",
+      "within"
+    ]
+  }
+]

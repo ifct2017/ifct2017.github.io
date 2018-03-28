@@ -1,0 +1,36 @@
+{
+  "id": "d7b70c7a-611b-4232-9cce-c857f946fa1c",
+  "name": "about.limitations",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca317175-40b6-46ee-8cef-127103171f12",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Food being a biological matter exhibits variations in chemical composition due to multiple factors. This is particularly true for labile nutrients like vitamins and variations are imminent due to food processing. These limitations of the FCT need to be understood by the users."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522243716,
+  "fallbackIntent": false,
+  "events": []
+}

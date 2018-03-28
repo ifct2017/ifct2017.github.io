@@ -1,0 +1,36 @@
+{
+  "id": "ba67fd1e-dc55-49e7-b99b-4a73861a383a",
+  "name": "about.foodform",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0ee3c962-c5f6-48e7-8f27-826af2483c8b",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Except for eggs, all other food component data are for foods in the raw form."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522241449,
+  "fallbackIntent": false,
+  "events": []
+}

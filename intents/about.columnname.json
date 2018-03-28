@@ -1,0 +1,31 @@
+{
+  "id": "6fada782-f1c3-4f51-bb49-b2a90444eac7",
+  "name": "about.columnname",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01d8493d-9189-4e05-b14c-b05d34506a5c",
+          "dataType": "@columns-name",
+          "name": "columns-name",
+          "value": "$columns-name",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522260609,
+  "fallbackIntent": false,
+  "events": []
+}

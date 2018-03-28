@@ -1,0 +1,36 @@
+{
+  "id": "6fa5f925-3c0b-4eba-b1a3-124cd2bc45f5",
+  "name": "about.foodgroups",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31bfcc23-853b-4553-816b-71b6f5bf6935",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are 20 food groups:\n- A: Cereals and Millets. 24 foods.\n- B: Grain Legumes. 25 foods.\n- C: Green Leafy Vegetables. 34 foods.\n- D: Other Vegetables. 78 foods.\n- E: Fruits. 68 foods.\n- F: Roots and Tubers. 19 foods.\n- G: Condiments and Spices. 33 foods.\n- H: Nuts and Oil Seeds. 21 foods.\n- I: Sugars. 2 foods.\n- J: Mushrooms. 4 foods.\n- K: Miscellaneous Foods. 2 foods.\n- L: Milk and Milk Products. 4 foods.\n- M: Egg and Egg Products. 15 foods.\n- N: Poultry. 19 foods.\n- O: Animal Meat. 63 foods.\n- P: Marine Fish. 92 foods.\n- Q; Marine Shellfish. 8 foods.\n- R: Marine Mollusks. 7 foods.\n- S: Fresh Water Fish and Shellfish. 10 foods.\n- T: Edible Oils and Fats. 9 foods."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522241177,
+  "fallbackIntent": false,
+  "events": []
+}

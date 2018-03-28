@@ -1,0 +1,608 @@
+[
+  {
+    "value": "abs",
+    "synonyms": [
+      "absolute value",
+      "absolute",
+      "abs"
+    ]
+  },
+  {
+    "value": "cbrt",
+    "synonyms": [
+      "cube root",
+      "cbrt"
+    ]
+  },
+  {
+    "value": "ceil",
+    "synonyms": [
+      "integer round up",
+      "round up",
+      "ceiling",
+      "ceil"
+    ]
+  },
+  {
+    "value": "degrees",
+    "synonyms": [
+      "degrees",
+      "deg"
+    ]
+  },
+  {
+    "value": "div",
+    "synonyms": [
+      "integer quotient",
+      "division integer",
+      "division"
+    ]
+  },
+  {
+    "value": "exp",
+    "synonyms": [
+      "exponential",
+      "exponent",
+      "exp"
+    ]
+  },
+  {
+    "value": "floor",
+    "synonyms": [
+      "integer round down",
+      "round down",
+      "floor"
+    ]
+  },
+  {
+    "value": "ln",
+    "synonyms": [
+      "base e logarithm",
+      "base e log",
+      "logarithm natural",
+      "log natural",
+      "e logarithm",
+      "e log",
+      "loge",
+      "ln"
+    ]
+  },
+  {
+    "value": "log",
+    "synonyms": [
+      "base logarithm",
+      "base log",
+      "logarithm",
+      "log10",
+      "log"
+    ]
+  },
+  {
+    "value": "mod",
+    "synonyms": [
+      "division remainder",
+      "remainder",
+      "modulus",
+      "modulo",
+      "mod"
+    ]
+  },
+  {
+    "value": "pi",
+    "synonyms": [
+      "constant pi",
+      "pi",
+      "π"
+    ]
+  },
+  {
+    "value": "power",
+    "synonyms": [
+      "power raised",
+      "power",
+      "pow"
+    ]
+  },
+  {
+    "value": "radians",
+    "synonyms": [
+      "radians",
+      "rad"
+    ]
+  },
+  {
+    "value": "round",
+    "synonyms": [
+      "integer round",
+      "round",
+      "integer nearest round"
+    ]
+  },
+  {
+    "value": "sign",
+    "synonyms": [
+      "sign",
+      "sgn"
+    ]
+  },
+  {
+    "value": "sqrt",
+    "synonyms": [
+      "root square",
+      "root",
+      "sqrt"
+    ]
+  },
+  {
+    "value": "trunc",
+    "synonyms": [
+      "toward truncate zero",
+      "truncate zero",
+      "truncate",
+      "trunc"
+    ]
+  },
+  {
+    "value": "random",
+    "synonyms": [
+      "number random",
+      "num random",
+      "number rand",
+      "num rand",
+      "random",
+      "rand"
+    ]
+  },
+  {
+    "value": "setseed",
+    "synonyms": [
+      "random seed set",
+      "rand seed set",
+      "seed set",
+      "random seed",
+      "rand seed",
+      "setseed"
+    ]
+  },
+  {
+    "value": "acos",
+    "synonyms": [
+      "cosine inverse",
+      "cos inverse",
+      "cosine inv",
+      "cos inv",
+      "acos"
+    ]
+  },
+  {
+    "value": "asin",
+    "synonyms": [
+      "inverse sine",
+      "inverse sin",
+      "inv sine",
+      "inv sin",
+      "asin"
+    ]
+  },
+  {
+    "value": "atan",
+    "synonyms": [
+      "inverse tangent",
+      "inverse tan",
+      "inv tangent",
+      "inv tan",
+      "atan"
+    ]
+  },
+  {
+    "value": "atan2",
+    "synonyms": [
+      "inverse tangent y / x",
+      "inverse tangent yx",
+      "inverse tangent 2",
+      "inverse tan y / x",
+      "inverse tan yx",
+      "inverse tan 2",
+      "inv tangent y / x",
+      "inv tangent yx",
+      "inv tangent 2",
+      "inv tan y / x",
+      "inv tan yx",
+      "inv tan 2",
+      "atan2"
+    ]
+  },
+  {
+    "value": "cos",
+    "synonyms": [
+      "cos",
+      "cosine"
+    ]
+  },
+  {
+    "value": "cot",
+    "synonyms": [
+      "cotang",
+      "cot"
+    ]
+  },
+  {
+    "value": "sin",
+    "synonyms": [
+      "sine",
+      "sin"
+    ]
+  },
+  {
+    "value": "tan",
+    "synonyms": [
+      "tangent",
+      "tan"
+    ]
+  },
+  {
+    "value": "bit_length",
+    "synonyms": [
+      "bit number string",
+      "bit length string",
+      "bit number",
+      "bit length",
+      "bit num",
+      "bit len",
+      "bit_length",
+      "bit_len"
+    ]
+  },
+  {
+    "value": "char_length",
+    "synonyms": [
+      "character number string",
+      "character length string",
+      "character number",
+      "character length",
+      "char number",
+      "char length",
+      "character num",
+      "character len",
+      "char num",
+      "char len",
+      "character_length",
+      "char_length",
+      "character_len",
+      "char_len"
+    ]
+  },
+  {
+    "value": "lower",
+    "synonyms": [
+      "case convert low string",
+      "case convert low",
+      "case low string",
+      "case low",
+      "tolowercase",
+      "lowercase",
+      "tolcase",
+      "lcase",
+      "tolower",
+      "low"
+    ]
+  },
+  {
+    "value": "strpos",
+    "synonyms": [
+      "location string",
+      "location",
+      "index string",
+      "index",
+      "position string",
+      "position",
+      "indexof",
+      "strpos"
+    ]
+  },
+  {
+    "value": "substr",
+    "synonyms": [
+      "extract substring",
+      "substring",
+      "substr"
+    ]
+  },
+  {
+    "value": "btrim",
+    "synonyms": [
+      "and lead space trail trim",
+      "and lead trail trim",
+      "lead trail trim",
+      "and left right space trim",
+      "and left right trim",
+      "left right trim",
+      "both end trim",
+      "both trim",
+      "trim",
+      "btrim"
+    ]
+  },
+  {
+    "value": "ltrim",
+    "synonyms": [
+      "lead space trim",
+      "lead trim",
+      "left space trim",
+      "left trim",
+      "ltrim"
+    ]
+  },
+  {
+    "value": "rtrim",
+    "synonyms": [
+      "space trail trim",
+      "trail trim",
+      "right space trim",
+      "right trim",
+      "rtrim"
+    ]
+  },
+  {
+    "value": "upper",
+    "synonyms": [
+      "case convert string upper",
+      "case convert upper",
+      "case string upper",
+      "case upper",
+      "touppercase",
+      "uppercase",
+      "toucase",
+      "ucase",
+      "toupper",
+      "upper"
+    ]
+  },
+  {
+    "value": "ascii",
+    "synonyms": [
+      "ascii code",
+      "ascii",
+      "asc"
+    ]
+  },
+  {
+    "value": "chr",
+    "synonyms": [
+      "charact",
+      "char",
+      "chr"
+    ]
+  },
+  {
+    "value": "initcap",
+    "synonyms": [
+      "capital character init",
+      "capital char init",
+      "cap char init",
+      "cap init",
+      "case title",
+      "totitlecase",
+      "titlecase",
+      "totcase",
+      "tcase",
+      "initcap"
+    ]
+  },
+  {
+    "value": "left",
+    "synonyms": [
+      "left substring",
+      "left"
+    ]
+  },
+  {
+    "value": "length",
+    "synonyms": [
+      "length",
+      "len",
+      "size"
+    ]
+  },
+  {
+    "value": "lpad",
+    "synonyms": [
+      "left pad space",
+      "left pad",
+      "lpad"
+    ]
+  },
+  {
+    "value": "md5",
+    "synonyms": [
+      "hash md5",
+      "md5"
+    ]
+  },
+  {
+    "value": "regexp_replace",
+    "synonyms": [
+      "express regular replace",
+      "regexp replace",
+      "regexp_replace"
+    ]
+  },
+  {
+    "value": "repeat",
+    "synonyms": [
+      "repeat string",
+      "repeat"
+    ]
+  },
+  {
+    "value": "replace",
+    "synonyms": [
+      "replace substring",
+      "replace string",
+      "replace"
+    ]
+  },
+  {
+    "value": "reverse",
+    "synonyms": [
+      "reverse string",
+      "reverse"
+    ]
+  },
+  {
+    "value": "right",
+    "synonyms": [
+      "right substring",
+      "right"
+    ]
+  },
+  {
+    "value": "rpad",
+    "synonyms": [
+      "pad right space",
+      "pad right",
+      "rpad"
+    ]
+  },
+  {
+    "value": "split_part",
+    "synonyms": [
+      "part split string",
+      "part split",
+      "split string",
+      "split",
+      "split_part"
+    ]
+  },
+  {
+    "value": "to_char",
+    "synonyms": [
+      "string to",
+      "character to",
+      "tostring",
+      "to_char"
+    ]
+  },
+  {
+    "value": "to_date",
+    "synonyms": [
+      "datw to",
+      "to_date"
+    ]
+  },
+  {
+    "value": "to_number",
+    "synonyms": [
+      "number to",
+      "integ to",
+      "num to",
+      "int to",
+      "to_number"
+    ]
+  },
+  {
+    "value": "to_timestamp",
+    "synonyms": [
+      "timestamp to",
+      "time to",
+      "to_timestamp"
+    ]
+  },
+  {
+    "value": "coalesce",
+    "synonyms": [
+      "coalescw"
+    ]
+  },
+  {
+    "value": "nullif",
+    "synonyms": [
+      "if null",
+      "nullif"
+    ]
+  },
+  {
+    "value": "max",
+    "synonyms": [
+      "maximum",
+      "max"
+    ]
+  },
+  {
+    "value": "greatest",
+    "synonyms": [
+      "greatest",
+      "biggest",
+      "largest"
+    ]
+  },
+  {
+    "value": "min",
+    "synonyms": [
+      "minimum",
+      "min"
+    ]
+  },
+  {
+    "value": "lowest",
+    "synonyms": [
+      "smallest",
+      "lowest",
+      "least"
+    ]
+  },
+  {
+    "value": "avg",
+    "synonyms": [
+      "mean",
+      "average",
+      "avg"
+    ]
+  },
+  {
+    "value": "bit_and",
+    "synonyms": [
+      "and bitwise",
+      "and bit",
+      "every",
+      "bit_and"
+    ]
+  },
+  {
+    "value": "bit_or",
+    "synonyms": [
+      "bitwise or",
+      "bit or",
+      "bit_or"
+    ]
+  },
+  {
+    "value": "bool_and",
+    "synonyms": [
+      "and bool",
+      "and",
+      "bool_and"
+    ]
+  },
+  {
+    "value": "bool_or",
+    "synonyms": [
+      "bool or",
+      "or",
+      "bool_or"
+    ]
+  },
+  {
+    "value": "count",
+    "synonyms": [
+      "count row",
+      "count"
+    ]
+  },
+  {
+    "value": "sum",
+    "synonyms": [
+      "sum"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "572ec94a-10cf-48ae-9b8a-490d7dd7c710",
+  "name": "about.inscode",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb33f02e-c00c-40e7-b9a6-80902259461f",
+          "required": false,
+          "dataType": "@ins-code",
+          "name": "ins-code",
+          "value": "$ins-code",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its INS code is $ins-code."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522242976,
+  "fallbackIntent": false,
+  "events": []
+}

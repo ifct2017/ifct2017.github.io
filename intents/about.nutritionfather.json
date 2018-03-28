@@ -1,0 +1,28 @@
+{
+  "id": "cf170c1a-8371-4a21-b2e4-e5dd166c138c",
+  "name": "about.nutritionfather",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The father of nutrition in India is:\nC. Gopalan\nMD., Ph.D., D.Sc. (London), D.Sc. (Hon.), F.R.S., F.R.C.P. (Edin.), F.R.C.P. (London)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522262967,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3ef83366-587f-4b48-8dcf-8121e39c47c9",
+  "name": "about.enumbercode",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9cbddbfc-3e76-45dc-9347-a16afca4e9d6",
+          "required": false,
+          "dataType": "@enumber-code",
+          "name": "enumber-code",
+          "value": "$enumber-code",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its E number is $enumber-code."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522239413,
+  "fallbackIntent": false,
+  "events": []
+}

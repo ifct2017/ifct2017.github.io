@@ -1,0 +1,440 @@
+[
+  {
+    "value": "A",
+    "synonyms": [
+      "A"
+    ]
+  },
+  {
+    "value": "AAS",
+    "synonyms": [
+      "AAS"
+    ]
+  },
+  {
+    "value": "AOAC",
+    "synonyms": [
+      "AOAC"
+    ]
+  },
+  {
+    "value": "APCI",
+    "synonyms": [
+      "APCI"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "B"
+    ]
+  },
+  {
+    "value": "BV",
+    "synonyms": [
+      "BV"
+    ]
+  },
+  {
+    "value": "CFTRI",
+    "synonyms": [
+      "CFTRI"
+    ]
+  },
+  {
+    "value": "CHO",
+    "synonyms": [
+      "CHO"
+    ]
+  },
+  {
+    "value": "Common",
+    "synonyms": [
+      "Common"
+    ]
+  },
+  {
+    "value": "CRM",
+    "synonyms": [
+      "CRM"
+    ]
+  },
+  {
+    "value": "DRI",
+    "synonyms": [
+      "DRI"
+    ]
+  },
+  {
+    "value": "EAA",
+    "synonyms": [
+      "EAA"
+    ]
+  },
+  {
+    "value": "ESI",
+    "synonyms": [
+      "ESI"
+    ]
+  },
+  {
+    "value": "FAO",
+    "synonyms": [
+      "FAO"
+    ]
+  },
+  {
+    "value": "FAOSTAT",
+    "synonyms": [
+      "FAOSTAT"
+    ]
+  },
+  {
+    "value": "FCT",
+    "synonyms": [
+      "FCT"
+    ]
+  },
+  {
+    "value": "G",
+    "synonyms": [
+      "G"
+    ]
+  },
+  {
+    "value": "GC",
+    "synonyms": [
+      "GC"
+    ]
+  },
+  {
+    "value": "GLVs",
+    "synonyms": [
+      "GLVs"
+    ]
+  },
+  {
+    "value": "H",
+    "synonyms": [
+      "H"
+    ]
+  },
+  {
+    "value": "HPLC",
+    "synonyms": [
+      "HPLC"
+    ]
+  },
+  {
+    "value": "ICMR",
+    "synonyms": [
+      "ICMR"
+    ]
+  },
+  {
+    "value": "ICP-MS",
+    "synonyms": [
+      "ICP-MS"
+    ]
+  },
+  {
+    "value": "IDA",
+    "synonyms": [
+      "IDA"
+    ]
+  },
+  {
+    "value": "IDF",
+    "synonyms": [
+      "IDF"
+    ]
+  },
+  {
+    "value": "IDF",
+    "synonyms": [
+      "IDF"
+    ]
+  },
+  {
+    "value": "IFCT",
+    "synonyms": [
+      "IFCT"
+    ]
+  },
+  {
+    "value": "INFOODS",
+    "synonyms": [
+      "INFOODS"
+    ]
+  },
+  {
+    "value": "IP-6",
+    "synonyms": [
+      "IP-6"
+    ]
+  },
+  {
+    "value": "IRFA",
+    "synonyms": [
+      "IRFA"
+    ]
+  },
+  {
+    "value": "IU",
+    "synonyms": [
+      "IU"
+    ]
+  },
+  {
+    "value": "Kan",
+    "synonyms": [
+      "Kan"
+    ]
+  },
+  {
+    "value": "Kash",
+    "synonyms": [
+      "Kash"
+    ]
+  },
+  {
+    "value": "Kh",
+    "synonyms": [
+      "Kh"
+    ]
+  },
+  {
+    "value": "kJ",
+    "synonyms": [
+      "kJ"
+    ]
+  },
+  {
+    "value": "Kon",
+    "synonyms": [
+      "Kon"
+    ]
+  },
+  {
+    "value": "M",
+    "synonyms": [
+      "M"
+    ]
+  },
+  {
+    "value": "Mal",
+    "synonyms": [
+      "Mal"
+    ]
+  },
+  {
+    "value": "Mar",
+    "synonyms": [
+      "Mar"
+    ]
+  },
+  {
+    "value": "MUFA",
+    "synonyms": [
+      "MUFA"
+    ]
+  },
+  {
+    "value": "N",
+    "synonyms": [
+      "N"
+    ]
+  },
+  {
+    "value": "N",
+    "synonyms": [
+      "N"
+    ]
+  },
+  {
+    "value": "NAC",
+    "synonyms": [
+      "NAC"
+    ]
+  },
+  {
+    "value": "NDO",
+    "synonyms": [
+      "NDO"
+    ]
+  },
+  {
+    "value": "NFHS",
+    "synonyms": [
+      "NFHS"
+    ]
+  },
+  {
+    "value": "NIN",
+    "synonyms": [
+      "NIN"
+    ]
+  },
+  {
+    "value": "NNMB",
+    "synonyms": [
+      "NNMB"
+    ]
+  },
+  {
+    "value": "NRFA",
+    "synonyms": [
+      "NRFA"
+    ]
+  },
+  {
+    "value": "NRL",
+    "synonyms": [
+      "NRL"
+    ]
+  },
+  {
+    "value": "NVIF",
+    "synonyms": [
+      "NVIF"
+    ]
+  },
+  {
+    "value": "O",
+    "synonyms": [
+      "O"
+    ]
+  },
+  {
+    "value": "P",
+    "synonyms": [
+      "P"
+    ]
+  },
+  {
+    "value": "PEM",
+    "synonyms": [
+      "PEM"
+    ]
+  },
+  {
+    "value": "PER",
+    "synonyms": [
+      "PER"
+    ]
+  },
+  {
+    "value": "PSUs",
+    "synonyms": [
+      "PSUs"
+    ]
+  },
+  {
+    "value": "PUFA",
+    "synonyms": [
+      "PUFA"
+    ]
+  },
+  {
+    "value": "QAQC",
+    "synonyms": [
+      "QAQC"
+    ]
+  },
+  {
+    "value": "RAE",
+    "synonyms": [
+      "RAE"
+    ]
+  },
+  {
+    "value": "RID",
+    "synonyms": [
+      "RID"
+    ]
+  },
+  {
+    "value": "RP",
+    "synonyms": [
+      "RP"
+    ]
+  },
+  {
+    "value": "S",
+    "synonyms": [
+      "S"
+    ]
+  },
+  {
+    "value": "Sci",
+    "synonyms": [
+      "Sci"
+    ]
+  },
+  {
+    "value": "SD",
+    "synonyms": [
+      "SD"
+    ]
+  },
+  {
+    "value": "SDF",
+    "synonyms": [
+      "SDF"
+    ]
+  },
+  {
+    "value": "SSUs",
+    "synonyms": [
+      "SSUs"
+    ]
+  },
+  {
+    "value": "Tam",
+    "synonyms": [
+      "Tam"
+    ]
+  },
+  {
+    "value": "TDF",
+    "synonyms": [
+      "TDF"
+    ]
+  },
+  {
+    "value": "Tel",
+    "synonyms": [
+      "Tel"
+    ]
+  },
+  {
+    "value": "U",
+    "synonyms": [
+      "U"
+    ]
+  },
+  {
+    "value": "UT",
+    "synonyms": [
+      "UT"
+    ]
+  },
+  {
+    "value": "UV",
+    "synonyms": [
+      "UV"
+    ]
+  },
+  {
+    "value": "VAD",
+    "synonyms": [
+      "VAD"
+    ]
+  },
+  {
+    "value": "WHO",
+    "synonyms": [
+      "WHO"
+    ]
+  }
+]

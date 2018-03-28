@@ -1,0 +1,92 @@
+[
+  {
+    "value": "compositions_tsvector",
+    "synonyms": [
+      "compositions_tsvector",
+      "compositions",
+      "components",
+      "nutrients",
+      "foods"
+    ]
+  },
+  {
+    "value": "columns_tsvector",
+    "synonyms": [
+      "columns_tsvector",
+      "columns"
+    ]
+  },
+  {
+    "value": "abbreviations_tsvector",
+    "synonyms": [
+      "abbreviations_tsvector",
+      "abbreviations",
+      "acronyms"
+    ]
+  },
+  {
+    "value": "compositingcentres_tsvector",
+    "synonyms": [
+      "compositingcentres_tsvector",
+      "compositingcentres",
+      "compositing centres",
+      "compositing areas"
+    ]
+  },
+  {
+    "value": "frequencydistribution_tsvector",
+    "synonyms": [
+      "frequencydistribution_tsvector",
+      "frequencydistribution",
+      "frequency",
+      "distribution"
+    ]
+  },
+  {
+    "value": "groups_tsvector",
+    "synonyms": [
+      "groups_tsvector",
+      "groups",
+      "food groups"
+    ]
+  },
+  {
+    "value": "methods_tsvector",
+    "synonyms": [
+      "methods_tsvector",
+      "methods",
+      "analytical methods",
+      "analysis",
+      "measurement methods",
+      "measurement"
+    ]
+  },
+  {
+    "value": "regions_tsvector",
+    "synonyms": [
+      "regions_tsvector",
+      "regions"
+    ]
+  },
+  {
+    "value": "samplingunits_tsvector",
+    "synonyms": [
+      "samplingunits_tsvector",
+      "samplingunits",
+      "sampling units",
+      "primary sampling units"
+    ]
+  },
+  {
+    "value": "vitamin a",
+    "synonyms": [
+      "vitamin a"
+    ]
+  },
+  {
+    "value": "vitamin c",
+    "synonyms": [
+      "vitamin c"
+    ]
+  }
+]

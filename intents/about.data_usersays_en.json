@@ -1,0 +1,162 @@
+[
+  {
+    "id": "3fd55e86-5b79-4c19-ba17-66fd7c1d698f",
+    "data": [
+      {
+        "text": "about data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "335e1a03-7244-4c3e-9cff-e4fb7114c7a2",
+    "data": [
+      {
+        "text": "show me about data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "4798537c-7374-405f-a037-51a60d936fe8",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me about the data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "e8541ea2-b194-4bc0-901b-c4ea517af17c",
+    "data": [
+      {
+        "text": "where is this data collected from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "cea75b35-69ae-419a-a54b-5b123b3b32c3",
+    "data": [
+      {
+        "text": "knowledge on how many key foods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "76d91b4f-fb92-4755-8af3-e065418c7a17",
+    "data": [
+      {
+        "text": "data on how many food nutrients",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "53b8782f-d3b7-4b83-a77e-3210200ba09b",
+    "data": [
+      {
+        "text": "nutritional information on how many food components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "9590a3a6-6aea-4867-8494-7d9f5e954263",
+    "data": [
+      {
+        "text": "any information ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "5c70d1be-36d6-4095-8869-45e9a7ea23ab",
+    "data": [
+      {
+        "text": "what information do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " give",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  },
+  {
+    "id": "03681e0e-3f40-4948-a98e-4650c03bb792",
+    "data": [
+      {
+        "text": "what nutritional data do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522237101
+  }
+]

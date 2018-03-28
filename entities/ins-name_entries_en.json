@@ -1,0 +1,3490 @@
+[
+  {
+    "value": "Curcumins, colour",
+    "synonyms": [
+      "INS 100",
+      "INS100",
+      "100"
+    ]
+  },
+  {
+    "value": "Curcumin, colour (yellow and orange)",
+    "synonyms": [
+      "INS 100 i",
+      "INS100 i",
+      "100 i"
+    ]
+  },
+  {
+    "value": "Turmeric, colour (yellow and orange)",
+    "synonyms": [
+      "INS 100 ii",
+      "INS100 ii",
+      "100 ii"
+    ]
+  },
+  {
+    "value": "Riboflavins",
+    "synonyms": [
+      "INS 101",
+      "INS101",
+      "101"
+    ]
+  },
+  {
+    "value": "Riboflavin, synthetic (vitamin B2), colour (yellow and orange)",
+    "synonyms": [
+      "INS 101 i",
+      "INS101 i",
+      "101 i"
+    ]
+  },
+  {
+    "value": "Riboflavin-5\u0027-phosphate, colour (yellow and orange)",
+    "synonyms": [
+      "INS 101 ii",
+      "INS101 ii",
+      "101 ii"
+    ]
+  },
+  {
+    "value": "Riboflavin from Bacillus subtilis, colour (yellow and orange)",
+    "synonyms": [
+      "INS 101 iii",
+      "INS101 iii",
+      "101 iii"
+    ]
+  },
+  {
+    "value": "Tartrazine, colour (yellow and orange) (FDA: FD\u0026C Yellow ",
+    "synonyms": [
+      "INS 102",
+      "INS102",
+      "102"
+    ]
+  },
+  {
+    "value": "Alkannin, chrysoine resorcinol, colour (red)",
+    "synonyms": [
+      "INS 103",
+      "INS103",
+      "103"
+    ]
+  },
+  {
+    "value": "Quinoline Yellow WS, colour (yellow and orange) (FDA: D\u0026C Yellow ",
+    "synonyms": [
+      "INS 104",
+      "INS104",
+      "104"
+    ]
+  },
+  {
+    "value": "Yellow 2G, colour (yellow and orange)",
+    "synonyms": [
+      "INS 107",
+      "INS107",
+      "107"
+    ]
+  },
+  {
+    "value": "Sunset Yellow FCF, colour (yellow and orange) (FDA: FD\u0026C Yellow ",
+    "synonyms": [
+      "INS 110",
+      "INS110",
+      "110"
+    ]
+  },
+  {
+    "value": "Orange GGN. Delisted, colour (orange)",
+    "synonyms": [
+      "INS 111",
+      "INS111",
+      "111"
+    ]
+  },
+  {
+    "value": "Cochineal, carmines, colour (red)",
+    "synonyms": [
+      "INS 120",
+      "INS120",
+      "120"
+    ]
+  },
+  {
+    "value": "Citrus red 2, Orcein, Orchil, colour (red)",
+    "synonyms": [
+      "INS 121",
+      "INS121",
+      "121"
+    ]
+  },
+  {
+    "value": "Azorubine, carmoisine, colour (red) (FDA: Ext D\u0026C Red ",
+    "synonyms": [
+      "INS 122",
+      "INS122",
+      "122"
+    ]
+  },
+  {
+    "value": "Amaranth, colour (red) (FDA: [DELISTED] Red ",
+    "synonyms": [
+      "INS 123",
+      "INS123",
+      "123"
+    ]
+  },
+  {
+    "value": "Brilliant Scarlet 4R, Ponceau 4R, colour (FDA: Ext D\u0026C Red ",
+    "synonyms": [
+      "INS 124",
+      "INS124",
+      "124"
+    ]
+  },
+  {
+    "value": "Ponceau SX, Scarlet GN, colour",
+    "synonyms": [
+      "INS 125",
+      "INS125",
+      "125"
+    ]
+  },
+  {
+    "value": "Ponceau 6R. Delisted, colour",
+    "synonyms": [
+      "INS 126",
+      "INS126",
+      "126"
+    ]
+  },
+  {
+    "value": "Erythrosine, colour (red) (FDA: FD\u0026C Red ",
+    "synonyms": [
+      "INS 127",
+      "INS127",
+      "127"
+    ]
+  },
+  {
+    "value": "Red 2G, colour",
+    "synonyms": [
+      "INS 128",
+      "INS128",
+      "128"
+    ]
+  },
+  {
+    "value": "Allura red AC, colour (FDA: FD\u0026C Red ",
+    "synonyms": [
+      "INS 129",
+      "INS129",
+      "129"
+    ]
+  },
+  {
+    "value": "Indanthrene blue RS, colour (blue)",
+    "synonyms": [
+      "INS 130",
+      "INS130",
+      "130"
+    ]
+  },
+  {
+    "value": "Patent blue V, colour (blue)",
+    "synonyms": [
+      "INS 131",
+      "INS131",
+      "131"
+    ]
+  },
+  {
+    "value": "Indigo carmine, indigotine, colour (blue) (FDA: FD\u0026C Blue ",
+    "synonyms": [
+      "INS 132",
+      "INS132",
+      "132"
+    ]
+  },
+  {
+    "value": "Brilliant blue FCF, colour (FDA: FD\u0026C Blue ",
+    "synonyms": [
+      "INS 133",
+      "INS133",
+      "133"
+    ]
+  },
+  {
+    "value": "Chlorophylls, colour (green)",
+    "synonyms": [
+      "INS 140",
+      "INS140",
+      "140"
+    ]
+  },
+  {
+    "value": "Chlorophylls and chlorophyllins, copper complexes",
+    "synonyms": [
+      "INS 141",
+      "INS141",
+      "141"
+    ]
+  },
+  {
+    "value": "Chlorophylls, copper complexes, colour (green)",
+    "synonyms": [
+      "INS 141 i",
+      "INS141 i",
+      "141 i"
+    ]
+  },
+  {
+    "value": "Chlorophyllins, copper complexes, potassium and sodium salts, colour (green)",
+    "synonyms": [
+      "INS 141 ii",
+      "INS141 ii",
+      "141 ii"
+    ]
+  },
+  {
+    "value": "Green S, colour (green)",
+    "synonyms": [
+      "INS 142",
+      "INS142",
+      "142"
+    ]
+  },
+  {
+    "value": "Fast green FCF, colour (FDA: FD\u0026C Green ",
+    "synonyms": [
+      "INS 143",
+      "INS143",
+      "143"
+    ]
+  },
+  {
+    "value": "Caramels",
+    "synonyms": [
+      "INS 150",
+      "INS150",
+      "150"
+    ]
+  },
+  {
+    "value": "Caramel I – plain, colour (brown and black)",
+    "synonyms": [
+      "INS 150a",
+      "INS150a",
+      "150a"
+    ]
+  },
+  {
+    "value": "Caramel II – sulfite caramel, colour (brown and black)",
+    "synonyms": [
+      "INS 150b",
+      "INS150b",
+      "150b"
+    ]
+  },
+  {
+    "value": "Caramel III – ammonia caramel, colour (brown and black)",
+    "synonyms": [
+      "INS 150c",
+      "INS150c",
+      "150c"
+    ]
+  },
+  {
+    "value": "Caramel IV – sulfite ammonia caramel, colour (brown and black)",
+    "synonyms": [
+      "INS 150d",
+      "INS150d",
+      "150d"
+    ]
+  },
+  {
+    "value": "Brilliant Black BN (Black PN), colour (brown and black)",
+    "synonyms": [
+      "INS 151",
+      "INS151",
+      "151"
+    ]
+  },
+  {
+    "value": "Carbon black, colour (brown and black)",
+    "synonyms": [
+      "INS 152",
+      "INS152",
+      "152"
+    ]
+  },
+  {
+    "value": "Vegetable carbon, colour (brown and black)",
+    "synonyms": [
+      "INS 153",
+      "INS153",
+      "153"
+    ]
+  },
+  {
+    "value": "Brown FK, colour (brown and black)",
+    "synonyms": [
+      "INS 154",
+      "INS154",
+      "154"
+    ]
+  },
+  {
+    "value": "Chocolate Brown HT, colour",
+    "synonyms": [
+      "INS 155",
+      "INS155",
+      "155"
+    ]
+  },
+  {
+    "value": "Carotenes",
+    "synonyms": [
+      "INS 160a",
+      "INS160a",
+      "160a"
+    ]
+  },
+  {
+    "value": "Beta-carotene, synthetic, colour",
+    "synonyms": [
+      "INS 160a i",
+      "INS160a i",
+      "160a i"
+    ]
+  },
+  {
+    "value": "Beta-carotene, vegetable, colour",
+    "synonyms": [
+      "INS 160a ii",
+      "INS160a ii",
+      "160a ii"
+    ]
+  },
+  {
+    "value": "Beta-carotene, Blakeslea trispora, colour",
+    "synonyms": [
+      "INS 160a iii",
+      "INS160a iii",
+      "160a iii"
+    ]
+  },
+  {
+    "value": "Beta-carotene, algae, colour",
+    "synonyms": [
+      "INS 160a iv",
+      "INS160a iv",
+      "160a iv"
+    ]
+  },
+  {
+    "value": "Annatto extracts",
+    "synonyms": [
+      "INS 160b",
+      "INS160b",
+      "160b"
+    ]
+  },
+  {
+    "value": "Annatto extracts, bixin-based, colour",
+    "synonyms": [
+      "INS 160b i",
+      "INS160b i",
+      "160b i"
+    ]
+  },
+  {
+    "value": "Annatto extracts, norbixin-based, colour",
+    "synonyms": [
+      "INS 160b ii",
+      "INS160b ii",
+      "160b ii"
+    ]
+  },
+  {
+    "value": "Paprika oleoresin (paprika extract), colour",
+    "synonyms": [
+      "INS 160c",
+      "INS160c",
+      "160c"
+    ]
+  },
+  {
+    "value": "Lycopenes",
+    "synonyms": [
+      "INS 160d",
+      "INS160d",
+      "160d"
+    ]
+  },
+  {
+    "value": "Lycopene, synthetic, colour",
+    "synonyms": [
+      "INS 160d i",
+      "INS160d i",
+      "160d i"
+    ]
+  },
+  {
+    "value": "Lycopene, tomato, colour",
+    "synonyms": [
+      "INS 160d ii",
+      "INS160d ii",
+      "160d ii"
+    ]
+  },
+  {
+    "value": "Lycopene, Blakeslea trispora, colour",
+    "synonyms": [
+      "INS 160d iii",
+      "INS160d iii",
+      "160d iii"
+    ]
+  },
+  {
+    "value": "Beta-apo-8\u0027-carotenal (C 30), colour",
+    "synonyms": [
+      "INS 160e",
+      "INS160e",
+      "160e"
+    ]
+  },
+  {
+    "value": "Beta-apo-8\u0027-carotenic acid ethyl ester, colour",
+    "synonyms": [
+      "INS 160f",
+      "INS160f",
+      "160f"
+    ]
+  },
+  {
+    "value": "Flavoxanthin, colour",
+    "synonyms": [
+      "INS 161a",
+      "INS161a",
+      "161a"
+    ]
+  },
+  {
+    "value": "Luteins",
+    "synonyms": [
+      "INS 161b",
+      "INS161b",
+      "161b"
+    ]
+  },
+  {
+    "value": "Lutein from Tagetes erecta, colour",
+    "synonyms": [
+      "INS 161b i",
+      "INS161b i",
+      "161b i"
+    ]
+  },
+  {
+    "value": "Tagetes extract, colour",
+    "synonyms": [
+      "INS 161b ii",
+      "INS161b ii",
+      "161b ii"
+    ]
+  },
+  {
+    "value": "Kryptoxanthin, colour",
+    "synonyms": [
+      "INS 161c",
+      "INS161c",
+      "161c"
+    ]
+  },
+  {
+    "value": "Rubixanthin, colour",
+    "synonyms": [
+      "INS 161d",
+      "INS161d",
+      "161d"
+    ]
+  },
+  {
+    "value": "Violaxanthin, colour",
+    "synonyms": [
+      "INS 161e",
+      "INS161e",
+      "161e"
+    ]
+  },
+  {
+    "value": "Rhodoxanthin, colour",
+    "synonyms": [
+      "INS 161f",
+      "INS161f",
+      "161f"
+    ]
+  },
+  {
+    "value": "Canthaxanthin, colour",
+    "synonyms": [
+      "INS 161g",
+      "INS161g",
+      "161g"
+    ]
+  },
+  {
+    "value": "Zeaxanthins, colour",
+    "synonyms": [
+      "INS 161h",
+      "INS161h",
+      "161h"
+    ]
+  },
+  {
+    "value": "Zeaxanthin, synthetic, colour",
+    "synonyms": [
+      "INS 161h i",
+      "INS161h i",
+      "161h i"
+    ]
+  },
+  {
+    "value": "Zeaxanthin-rich extract from Tagetes erecta, colour",
+    "synonyms": [
+      "INS 161h ii",
+      "INS161h ii",
+      "161h ii"
+    ]
+  },
+  {
+    "value": "Citranaxanthin. Delisted, colour",
+    "synonyms": [
+      "INS 161i",
+      "INS161i",
+      "161i"
+    ]
+  },
+  {
+    "value": "Astaxanthin. Delisted, colour",
+    "synonyms": [
+      "INS 161j",
+      "INS161j",
+      "161j"
+    ]
+  },
+  {
+    "value": "Beet red, colour",
+    "synonyms": [
+      "INS 162",
+      "INS162",
+      "162"
+    ]
+  },
+  {
+    "value": "Anthocyanins, colour",
+    "synonyms": [
+      "INS 163",
+      "INS163",
+      "163"
+    ]
+  },
+  {
+    "value": "Grape skin extract, colour",
+    "synonyms": [
+      "INS 163 ii",
+      "INS163 ii",
+      "163 ii"
+    ]
+  },
+  {
+    "value": "Blackcurrant extract, colour",
+    "synonyms": [
+      "INS 163 iii",
+      "INS163 iii",
+      "163 iii"
+    ]
+  },
+  {
+    "value": "Purple corn colour, colour",
+    "synonyms": [
+      "INS 163 iv",
+      "INS163 iv",
+      "163 iv"
+    ]
+  },
+  {
+    "value": "Red cabbage colour, colour",
+    "synonyms": [
+      "INS 163 v",
+      "INS163 v",
+      "163 v"
+    ]
+  },
+  {
+    "value": "Gardenia yellow",
+    "synonyms": [
+      "INS 164",
+      "INS164",
+      "164"
+    ]
+  },
+  {
+    "value": "Gardenia blue, colour",
+    "synonyms": [
+      "INS 165",
+      "INS165",
+      "165"
+    ]
+  },
+  {
+    "value": "Sandalwood, colour",
+    "synonyms": [
+      "INS 166",
+      "INS166",
+      "166"
+    ]
+  },
+  {
+    "value": "Calcium carbonates",
+    "synonyms": [
+      "INS 170",
+      "INS170",
+      "170"
+    ]
+  },
+  {
+    "value": "Calcium carbonate, Acidity regulator, anticaking agent, stabilizer, surface colourant",
+    "synonyms": [
+      "INS 170 i",
+      "INS170 i",
+      "170 i"
+    ]
+  },
+  {
+    "value": "Calcium hydrogen carbonate, Acidity regulator, anticaking agent, stabilizer, surface colourant",
+    "synonyms": [
+      "INS 170 ii",
+      "INS170 ii",
+      "170 ii"
+    ]
+  },
+  {
+    "value": "Titanium dioxide, colour (white)",
+    "synonyms": [
+      "INS 171",
+      "INS171",
+      "171"
+    ]
+  },
+  {
+    "value": "Iron oxides",
+    "synonyms": [
+      "INS 172",
+      "INS172",
+      "172"
+    ]
+  },
+  {
+    "value": "Iron oxide, black, colour",
+    "synonyms": [
+      "INS 172 i",
+      "INS172 i",
+      "172 i"
+    ]
+  },
+  {
+    "value": "Iron oxide, red, colour",
+    "synonyms": [
+      "INS 172 ii",
+      "INS172 ii",
+      "172 ii"
+    ]
+  },
+  {
+    "value": "Iron oxide, yellow, colour",
+    "synonyms": [
+      "INS 172 iii",
+      "INS172 iii",
+      "172 iii"
+    ]
+  },
+  {
+    "value": "Aluminium, colour (silver)",
+    "synonyms": [
+      "INS 173",
+      "INS173",
+      "173"
+    ]
+  },
+  {
+    "value": "Silver, colour (silver)",
+    "synonyms": [
+      "INS 174",
+      "INS174",
+      "174"
+    ]
+  },
+  {
+    "value": "Gold, colour (gold)",
+    "synonyms": [
+      "INS 175",
+      "INS175",
+      "175"
+    ]
+  },
+  {
+    "value": "Lithol Rubine BK, colour",
+    "synonyms": [
+      "INS 180",
+      "INS180",
+      "180"
+    ]
+  },
+  {
+    "value": "Tannins, colour, emulsifier, stabiliser, thickener",
+    "synonyms": [
+      "INS 181",
+      "INS181",
+      "181"
+    ]
+  },
+  {
+    "value": "Orchil, colour",
+    "synonyms": [
+      "INS 182",
+      "INS182",
+      "182"
+    ]
+  },
+  {
+    "value": "Sorbic acid, preservative",
+    "synonyms": [
+      "INS 200",
+      "INS200",
+      "200"
+    ]
+  },
+  {
+    "value": "Sodium sorbate, preservative",
+    "synonyms": [
+      "INS 201",
+      "INS201",
+      "201"
+    ]
+  },
+  {
+    "value": "Potassium sorbate, preservative",
+    "synonyms": [
+      "INS 202",
+      "INS202",
+      "202"
+    ]
+  },
+  {
+    "value": "Calcium sorbate, preservative",
+    "synonyms": [
+      "INS 203",
+      "INS203",
+      "203"
+    ]
+  },
+  {
+    "value": "Heptyl p-hydroxybenzoate, preservative",
+    "synonyms": [
+      "INS 209",
+      "INS209",
+      "209"
+    ]
+  },
+  {
+    "value": "Benzoic acid, preservative",
+    "synonyms": [
+      "INS 210",
+      "INS210",
+      "210"
+    ]
+  },
+  {
+    "value": "Sodium benzoate, preservative",
+    "synonyms": [
+      "INS 211",
+      "INS211",
+      "211"
+    ]
+  },
+  {
+    "value": "Potassium benzoate, preservative",
+    "synonyms": [
+      "INS 212",
+      "INS212",
+      "212"
+    ]
+  },
+  {
+    "value": "Calcium benzoate, preservative",
+    "synonyms": [
+      "INS 213",
+      "INS213",
+      "213"
+    ]
+  },
+  {
+    "value": "Ethyl para-hydroxybenzoate, preservative",
+    "synonyms": [
+      "INS 214",
+      "INS214",
+      "214"
+    ]
+  },
+  {
+    "value": "Sodium ethyl para-hydroxybenzoate, preservative",
+    "synonyms": [
+      "INS 215",
+      "INS215",
+      "215"
+    ]
+  },
+  {
+    "value": "Propylparaben (propyl para-hydroxybenzoate), preservative",
+    "synonyms": [
+      "INS 216",
+      "INS216",
+      "216"
+    ]
+  },
+  {
+    "value": "Sodium propyl para-hydroxybenzoate, preservative",
+    "synonyms": [
+      "INS 217",
+      "INS217",
+      "217"
+    ]
+  },
+  {
+    "value": "Methylparaben (methyl para-hydroxybenzoate), preservative",
+    "synonyms": [
+      "INS 218",
+      "INS218",
+      "218"
+    ]
+  },
+  {
+    "value": "Sodium methyl para-hydroxybenzoate, preservative",
+    "synonyms": [
+      "INS 219",
+      "INS219",
+      "219"
+    ]
+  },
+  {
+    "value": "Sulfur dioxide, preservative, antioxidant",
+    "synonyms": [
+      "INS 220",
+      "INS220",
+      "220"
+    ]
+  },
+  {
+    "value": "Sodium sulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 221",
+      "INS221",
+      "221"
+    ]
+  },
+  {
+    "value": "Sodium bisulfite (sodium hydrogen sulfite), preservative, antioxidant",
+    "synonyms": [
+      "INS 222",
+      "INS222",
+      "222"
+    ]
+  },
+  {
+    "value": "Sodium metabisulfite, preservative, antioxidant, bleaching agent",
+    "synonyms": [
+      "INS 223",
+      "INS223",
+      "223"
+    ]
+  },
+  {
+    "value": "Potassium metabisulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 224",
+      "INS224",
+      "224"
+    ]
+  },
+  {
+    "value": "Potassium sulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 225",
+      "INS225",
+      "225"
+    ]
+  },
+  {
+    "value": "Calcium sulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 226",
+      "INS226",
+      "226"
+    ]
+  },
+  {
+    "value": "Calcium bisulfite, calcium hydrogen sulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 227",
+      "INS227",
+      "227"
+    ]
+  },
+  {
+    "value": "Potassium bisulfite, potassium hydrogen sulfite, preservative, antioxidant",
+    "synonyms": [
+      "INS 228",
+      "INS228",
+      "228"
+    ]
+  },
+  {
+    "value": "Diphenyl (biphenyl), preservative",
+    "synonyms": [
+      "INS 230",
+      "INS230",
+      "230"
+    ]
+  },
+  {
+    "value": "Orthophenyl phenol (2-hydroxybiphenyl), preservative",
+    "synonyms": [
+      "INS 231",
+      "INS231",
+      "231"
+    ]
+  },
+  {
+    "value": "Sodium orthophenyl phenol, preservative",
+    "synonyms": [
+      "INS 232",
+      "INS232",
+      "232"
+    ]
+  },
+  {
+    "value": "Thiabendazole, preservative",
+    "synonyms": [
+      "INS 233",
+      "INS233",
+      "233"
+    ]
+  },
+  {
+    "value": "Nisin, preservative",
+    "synonyms": [
+      "INS 234",
+      "INS234",
+      "234"
+    ]
+  },
+  {
+    "value": "Natamycin (pimaricin), preservative",
+    "synonyms": [
+      "INS 235",
+      "INS235",
+      "235"
+    ]
+  },
+  {
+    "value": "Formic acid, preservative",
+    "synonyms": [
+      "INS 236",
+      "INS236",
+      "236"
+    ]
+  },
+  {
+    "value": "Sodium formate, preservative",
+    "synonyms": [
+      "INS 237",
+      "INS237",
+      "237"
+    ]
+  },
+  {
+    "value": "Calcium formate, preservative",
+    "synonyms": [
+      "INS 238",
+      "INS238",
+      "238"
+    ]
+  },
+  {
+    "value": "Hexamethylene tetramine (hexamine), preservative",
+    "synonyms": [
+      "INS 239",
+      "INS239",
+      "239"
+    ]
+  },
+  {
+    "value": "Formaldehyde, preservative",
+    "synonyms": [
+      "INS 240",
+      "INS240",
+      "240"
+    ]
+  },
+  {
+    "value": "Gum guaicum, preservative",
+    "synonyms": [
+      "INS 241",
+      "INS241",
+      "241"
+    ]
+  },
+  {
+    "value": "Dimethyl dicarbonate, preservative",
+    "synonyms": [
+      "INS 242",
+      "INS242",
+      "242"
+    ]
+  },
+  {
+    "value": "Potassium nitrite, preservative, colour fixative",
+    "synonyms": [
+      "INS 249",
+      "INS249",
+      "249"
+    ]
+  },
+  {
+    "value": "Sodium nitrite, preservative, colour fixative",
+    "synonyms": [
+      "INS 250",
+      "INS250",
+      "250"
+    ]
+  },
+  {
+    "value": "Sodium nitrate, preservative, colour fixative",
+    "synonyms": [
+      "INS 251",
+      "INS251",
+      "251"
+    ]
+  },
+  {
+    "value": "Potassium nitrate, preservative, colour fixative",
+    "synonyms": [
+      "INS 252",
+      "INS252",
+      "252"
+    ]
+  },
+  {
+    "value": "Glacial acetic acid, preservative, acidity regulator",
+    "synonyms": [
+      "INS 260",
+      "INS260",
+      "260"
+    ]
+  },
+  {
+    "value": "Potassium acetates, preservative, acidity regulator",
+    "synonyms": [
+      "INS 261",
+      "INS261",
+      "261"
+    ]
+  },
+  {
+    "value": "Sodium acetate, sodium hydrogen acetate, preservative, acidity regulator",
+    "synonyms": [
+      "INS 262",
+      "INS262",
+      "262"
+    ]
+  },
+  {
+    "value": "Calcium acetate, preservative, acidity regulator",
+    "synonyms": [
+      "INS 263",
+      "INS263",
+      "263"
+    ]
+  },
+  {
+    "value": "Ammonium acetate, preservative, acidity regulator",
+    "synonyms": [
+      "INS 264",
+      "INS264",
+      "264"
+    ]
+  },
+  {
+    "value": "Dehydroacetic acid, preservative",
+    "synonyms": [
+      "INS 265",
+      "INS265",
+      "265"
+    ]
+  },
+  {
+    "value": "Sodium dehydroacetate, preservative",
+    "synonyms": [
+      "INS 266",
+      "INS266",
+      "266"
+    ]
+  },
+  {
+    "value": "Lactic acid, acidity regulator, preservative, antioxidant",
+    "synonyms": [
+      "INS 270",
+      "INS270",
+      "270"
+    ]
+  },
+  {
+    "value": "Propionic acid, preservative",
+    "synonyms": [
+      "INS 280",
+      "INS280",
+      "280"
+    ]
+  },
+  {
+    "value": "Sodium propionate, preservative",
+    "synonyms": [
+      "INS 281",
+      "INS281",
+      "281"
+    ]
+  },
+  {
+    "value": "Calcium propionate, preservative",
+    "synonyms": [
+      "INS 282",
+      "INS282",
+      "282"
+    ]
+  },
+  {
+    "value": "Potassium propionate, preservative",
+    "synonyms": [
+      "INS 283",
+      "INS283",
+      "283"
+    ]
+  },
+  {
+    "value": "Boric acid, preservative",
+    "synonyms": [
+      "INS 284",
+      "INS284",
+      "284"
+    ]
+  },
+  {
+    "value": "Sodium tetraborate, borax, preservative",
+    "synonyms": [
+      "INS 285",
+      "INS285",
+      "285"
+    ]
+  },
+  {
+    "value": "Carbon dioxide, acidity regulator, propellant",
+    "synonyms": [
+      "INS 290",
+      "INS290",
+      "290"
+    ]
+  },
+  {
+    "value": "Malic acid, acidity regulator",
+    "synonyms": [
+      "INS 296",
+      "INS296",
+      "296"
+    ]
+  },
+  {
+    "value": "Fumaric acid, acidity regulator",
+    "synonyms": [
+      "INS 297",
+      "INS297",
+      "297"
+    ]
+  },
+  {
+    "value": "Ascorbic acid, antioxidant (water-soluble)",
+    "synonyms": [
+      "INS 300",
+      "INS300",
+      "300"
+    ]
+  },
+  {
+    "value": "Sodium ascorbate, antioxidant (water-soluble)",
+    "synonyms": [
+      "INS 301",
+      "INS301",
+      "301"
+    ]
+  },
+  {
+    "value": "Calcium ascorbate, antioxidant (water-soluble)",
+    "synonyms": [
+      "INS 302",
+      "INS302",
+      "302"
+    ]
+  },
+  {
+    "value": "Potassium ascorbate, antioxidant (water-soluble)",
+    "synonyms": [
+      "INS 303",
+      "INS303",
+      "303"
+    ]
+  },
+  {
+    "value": "Ascorbyl palmitate, ascorbyl stearate, antioxidant (fat soluble)",
+    "synonyms": [
+      "INS 304",
+      "INS304",
+      "304"
+    ]
+  },
+  {
+    "value": "Tocopherols",
+    "synonyms": [
+      "INS 307",
+      "INS307",
+      "307"
+    ]
+  },
+  {
+    "value": "L-alpha-tocopherol, antioxidant",
+    "synonyms": [
+      "INS 307a",
+      "INS307a",
+      "307a"
+    ]
+  },
+  {
+    "value": "Mixed tocopherol concentrate, antioxidant",
+    "synonyms": [
+      "INS 307b",
+      "INS307b",
+      "307b"
+    ]
+  },
+  {
+    "value": "Dl-alpha-tocopherol, antioxidant",
+    "synonyms": [
+      "INS 307c",
+      "INS307c",
+      "307c"
+    ]
+  },
+  {
+    "value": "Gamma-tocopherol(synthetic), antioxidant",
+    "synonyms": [
+      "INS 308",
+      "INS308",
+      "308"
+    ]
+  },
+  {
+    "value": "Delta-tocopherol(synthetic), antioxidant",
+    "synonyms": [
+      "INS 309",
+      "INS309",
+      "309"
+    ]
+  },
+  {
+    "value": "Propyl gallate, antioxidant",
+    "synonyms": [
+      "INS 310",
+      "INS310",
+      "310"
+    ]
+  },
+  {
+    "value": "Octyl gallate, antioxidant",
+    "synonyms": [
+      "INS 311",
+      "INS311",
+      "311"
+    ]
+  },
+  {
+    "value": "Dodecyl gallate, antioxidant",
+    "synonyms": [
+      "INS 312",
+      "INS312",
+      "312"
+    ]
+  },
+  {
+    "value": "Erythorbic acid, antioxidant",
+    "synonyms": [
+      "INS 315",
+      "INS315",
+      "315"
+    ]
+  },
+  {
+    "value": "Sodium erythorbate, antioxidant",
+    "synonyms": [
+      "INS 316",
+      "INS316",
+      "316"
+    ]
+  },
+  {
+    "value": "Erythorbin acid, antioxidant",
+    "synonyms": [
+      "INS 317",
+      "INS317",
+      "317"
+    ]
+  },
+  {
+    "value": "Sodium erythorbin, antioxidant",
+    "synonyms": [
+      "INS 318",
+      "INS318",
+      "318"
+    ]
+  },
+  {
+    "value": "Tert-butylhydroquinone, antioxidant",
+    "synonyms": [
+      "INS 319",
+      "INS319",
+      "319"
+    ]
+  },
+  {
+    "value": "Butylated hydroxyanisole (BHA), antioxidant (fat soluble)",
+    "synonyms": [
+      "INS 320",
+      "INS320",
+      "320"
+    ]
+  },
+  {
+    "value": "Butylated hydroxytoluene (BHT), antioxidant (fat soluble)",
+    "synonyms": [
+      "INS 321",
+      "INS321",
+      "321"
+    ]
+  },
+  {
+    "value": "Lecithins, antioxidant, emulsifier",
+    "synonyms": [
+      "INS 322",
+      "INS322",
+      "322"
+    ]
+  },
+  {
+    "value": "Sodium lactate, food acid",
+    "synonyms": [
+      "INS 325",
+      "INS325",
+      "325"
+    ]
+  },
+  {
+    "value": "Potassium lactate, food acid",
+    "synonyms": [
+      "INS 326",
+      "INS326",
+      "326"
+    ]
+  },
+  {
+    "value": "Calcium lactate, food acid",
+    "synonyms": [
+      "INS 327",
+      "INS327",
+      "327"
+    ]
+  },
+  {
+    "value": "Ammonium lactate, food acid",
+    "synonyms": [
+      "INS 328",
+      "INS328",
+      "328"
+    ]
+  },
+  {
+    "value": "Magnesium lactate, food acid",
+    "synonyms": [
+      "INS 329",
+      "INS329",
+      "329"
+    ]
+  },
+  {
+    "value": "Citric acid, food acid",
+    "synonyms": [
+      "INS 330",
+      "INS330",
+      "330"
+    ]
+  },
+  {
+    "value": "Sodium citrates, food acid",
+    "synonyms": [
+      "INS 331",
+      "INS331",
+      "331"
+    ]
+  },
+  {
+    "value": "Potassium citrates, food acid",
+    "synonyms": [
+      "INS 332",
+      "INS332",
+      "332"
+    ]
+  },
+  {
+    "value": "Calcium citrates, food acid, firming agent",
+    "synonyms": [
+      "INS 333",
+      "INS333",
+      "333"
+    ]
+  },
+  {
+    "value": "L(+)-tartaric acid, food acid",
+    "synonyms": [
+      "INS 334",
+      "INS334",
+      "334"
+    ]
+  },
+  {
+    "value": "Sodium tartrates, food acid",
+    "synonyms": [
+      "INS 335",
+      "INS335",
+      "335"
+    ]
+  },
+  {
+    "value": "Potassium tartrates, food acid",
+    "synonyms": [
+      "INS 336",
+      "INS336",
+      "336"
+    ]
+  },
+  {
+    "value": "Potassium sodium tartrate, food acid",
+    "synonyms": [
+      "INS 337",
+      "INS337",
+      "337"
+    ]
+  },
+  {
+    "value": "Phosphoric acid, food acid",
+    "synonyms": [
+      "INS 338",
+      "INS338",
+      "338"
+    ]
+  },
+  {
+    "value": "Sodium phosphates, mineral salt",
+    "synonyms": [
+      "INS 339",
+      "INS339",
+      "339"
+    ]
+  },
+  {
+    "value": "Potassium phosphates, mineral salt",
+    "synonyms": [
+      "INS 340",
+      "INS340",
+      "340"
+    ]
+  },
+  {
+    "value": "Calcium phosphates, mineral salt, anti-caking agent, firming agent",
+    "synonyms": [
+      "INS 341",
+      "INS341",
+      "341"
+    ]
+  },
+  {
+    "value": "Ammonium phosphates, mineral salt",
+    "synonyms": [
+      "INS 342",
+      "INS342",
+      "342"
+    ]
+  },
+  {
+    "value": "Magnesium phosphates, mineral salt, anti-caking agent",
+    "synonyms": [
+      "INS 343",
+      "INS343",
+      "343"
+    ]
+  },
+  {
+    "value": "Lecithin citrate, preservative",
+    "synonyms": [
+      "INS 344",
+      "INS344",
+      "344"
+    ]
+  },
+  {
+    "value": "Magnesium citrate, acidity regulator",
+    "synonyms": [
+      "INS 345",
+      "INS345",
+      "345"
+    ]
+  },
+  {
+    "value": "Ammonium malate, food acid",
+    "synonyms": [
+      "INS 349",
+      "INS349",
+      "349"
+    ]
+  },
+  {
+    "value": "Sodium malates, food acid",
+    "synonyms": [
+      "INS 350",
+      "INS350",
+      "350"
+    ]
+  },
+  {
+    "value": "Potassium malate, food acid",
+    "synonyms": [
+      "INS 351",
+      "INS351",
+      "351"
+    ]
+  },
+  {
+    "value": "Calcium malates, food acid",
+    "synonyms": [
+      "INS 352",
+      "INS352",
+      "352"
+    ]
+  },
+  {
+    "value": "Metatartaric acid, food acid, emulsifier",
+    "synonyms": [
+      "INS 353",
+      "INS353",
+      "353"
+    ]
+  },
+  {
+    "value": "Calcium tartrate, food acid, emulsifier",
+    "synonyms": [
+      "INS 354",
+      "INS354",
+      "354"
+    ]
+  },
+  {
+    "value": "Adipic acid, food acid",
+    "synonyms": [
+      "INS 355",
+      "INS355",
+      "355"
+    ]
+  },
+  {
+    "value": "Sodium adipate, food acid",
+    "synonyms": [
+      "INS 356",
+      "INS356",
+      "356"
+    ]
+  },
+  {
+    "value": "Potassium adipate, food acid",
+    "synonyms": [
+      "INS 357",
+      "INS357",
+      "357"
+    ]
+  },
+  {
+    "value": "Ammonium adipates, acidity regulator",
+    "synonyms": [
+      "INS 359",
+      "INS359",
+      "359"
+    ]
+  },
+  {
+    "value": "Succinic acid, food acid",
+    "synonyms": [
+      "INS 363",
+      "INS363",
+      "363"
+    ]
+  },
+  {
+    "value": "Sodium succinates, acidity regulator, flavour enhancer",
+    "synonyms": [
+      "INS 364",
+      "INS364",
+      "364"
+    ]
+  },
+  {
+    "value": "Sodium fumarate, food acid",
+    "synonyms": [
+      "INS 365",
+      "INS365",
+      "365"
+    ]
+  },
+  {
+    "value": "Potassium fumarate, food acid",
+    "synonyms": [
+      "INS 366",
+      "INS366",
+      "366"
+    ]
+  },
+  {
+    "value": "Calcium fumarate, food acid",
+    "synonyms": [
+      "INS 367",
+      "INS367",
+      "367"
+    ]
+  },
+  {
+    "value": "Ammonium fumarate, food acid",
+    "synonyms": [
+      "INS 368",
+      "INS368",
+      "368"
+    ]
+  },
+  {
+    "value": "1,4-heptonolactone, food acid",
+    "synonyms": [
+      "INS 370",
+      "INS370",
+      "370"
+    ]
+  },
+  {
+    "value": "Niacin (nicotinic acid), nicotinamide (vitamin B3), colour retention agent",
+    "synonyms": [
+      "INS 375",
+      "INS375",
+      "375"
+    ]
+  },
+  {
+    "value": "Triammonium citrate, food acid",
+    "synonyms": [
+      "INS 380",
+      "INS380",
+      "380"
+    ]
+  },
+  {
+    "value": "Ferric ammonium citrate, ammonium ferrocitrate, food acid",
+    "synonyms": [
+      "INS 381",
+      "INS381",
+      "381"
+    ]
+  },
+  {
+    "value": "Isopropyl citrates, antioxidant, preservative",
+    "synonyms": [
+      "INS 384",
+      "INS384",
+      "384"
+    ]
+  },
+  {
+    "value": "Calcium disodium EDTA, preservative",
+    "synonyms": [
+      "INS 385",
+      "INS385",
+      "385"
+    ]
+  },
+  {
+    "value": "Disodium ethylenediaminetetraacetate, antioxidant, preservative",
+    "synonyms": [
+      "INS 386",
+      "INS386",
+      "386"
+    ]
+  },
+  {
+    "value": "Oxystearin, antioxidant, sequestrant",
+    "synonyms": [
+      "INS 387",
+      "INS387",
+      "387"
+    ]
+  },
+  {
+    "value": "Thiodipropionic acid, antioxidant",
+    "synonyms": [
+      "INS 388",
+      "INS388",
+      "388"
+    ]
+  },
+  {
+    "value": "Dilauryl thiodipropionate, antioxidant",
+    "synonyms": [
+      "INS 389",
+      "INS389",
+      "389"
+    ]
+  },
+  {
+    "value": "Distearyl thiodipropionate, antioxidant",
+    "synonyms": [
+      "INS 390",
+      "INS390",
+      "390"
+    ]
+  },
+  {
+    "value": "Phytic acid, preservative",
+    "synonyms": [
+      "INS 391",
+      "INS391",
+      "391"
+    ]
+  },
+  {
+    "value": "Calcium lactobionate, stabilizer",
+    "synonyms": [
+      "INS 399",
+      "INS399",
+      "399"
+    ]
+  },
+  {
+    "value": "Alginic acid, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 400",
+      "INS400",
+      "400"
+    ]
+  },
+  {
+    "value": "Sodium alginate, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 401",
+      "INS401",
+      "401"
+    ]
+  },
+  {
+    "value": "Potassium alginate, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 402",
+      "INS402",
+      "402"
+    ]
+  },
+  {
+    "value": "Ammonium alginate, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 403",
+      "INS403",
+      "403"
+    ]
+  },
+  {
+    "value": "Calcium alginate, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 404",
+      "INS404",
+      "404"
+    ]
+  },
+  {
+    "value": "Propylene glycol alginate, propane-1,2-diol alginate, thickener, vegetable gum, stabilizer, emulsifier",
+    "synonyms": [
+      "INS 405",
+      "INS405",
+      "405"
+    ]
+  },
+  {
+    "value": "Agar, thickener, vegetable gum, stabilizer, gelling agent",
+    "synonyms": [
+      "INS 406",
+      "INS406",
+      "406"
+    ]
+  },
+  {
+    "value": "Carrageenan, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 407",
+      "INS407",
+      "407"
+    ]
+  },
+  {
+    "value": "Processed eucheuma seaweed, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 407a",
+      "INS407a",
+      "407a"
+    ]
+  },
+  {
+    "value": "Arabinogalactan, thickener, vegetable gum",
+    "synonyms": [
+      "INS 409",
+      "INS409",
+      "409"
+    ]
+  },
+  {
+    "value": "Locust bean gum, thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
+    "synonyms": [
+      "INS 410",
+      "INS410",
+      "410"
+    ]
+  },
+  {
+    "value": "Guar gum, thickener, vegetable gum, stabilizer",
+    "synonyms": [
+      "INS 412",
+      "INS412",
+      "412"
+    ]
+  },
+  {
+    "value": "Tragacanth, thickener, vegetable gum, stabilizer, emulsifier",
+    "synonyms": [
+      "INS 413",
+      "INS413",
+      "413"
+    ]
+  },
+  {
+    "value": "Gum acacia, gum arabic, thickener, vegetable gum, stabilizer, emulsifier",
+    "synonyms": [
+      "INS 414",
+      "INS414",
+      "414"
+    ]
+  },
+  {
+    "value": "Xanthan gum, thickener, vegetable gum, stabilizer",
+    "synonyms": [
+      "INS 415",
+      "INS415",
+      "415"
+    ]
+  },
+  {
+    "value": "Karaya gum, thickener, vegetable gum, stabilizer, emulsifier",
+    "synonyms": [
+      "INS 416",
+      "INS416",
+      "416"
+    ]
+  },
+  {
+    "value": "Tara gum, thickener, vegetable gum, stabilizer",
+    "synonyms": [
+      "INS 417",
+      "INS417",
+      "417"
+    ]
+  },
+  {
+    "value": "Gellan gum, thickener, vegetable gum, stabilizer, emulsifier",
+    "synonyms": [
+      "INS 418",
+      "INS418",
+      "418"
+    ]
+  },
+  {
+    "value": "Sorbitol, humectant, emulsifier, sweetener",
+    "synonyms": [
+      "INS 420",
+      "INS420",
+      "420"
+    ]
+  },
+  {
+    "value": "Mannitol, humectant, anti-caking agent, sweetener",
+    "synonyms": [
+      "INS 421",
+      "INS421",
+      "421"
+    ]
+  },
+  {
+    "value": "Glycerin, humectant, sweetener",
+    "synonyms": [
+      "INS 422",
+      "INS422",
+      "422"
+    ]
+  },
+  {
+    "value": "Konjac, konjac gum, konjac glucomannate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 425",
+      "INS425",
+      "425"
+    ]
+  },
+  {
+    "value": "Gelatin, gelatine (not classified as an additive), carrier, emulsifier, gelling agent, stabiliser, thickener",
+    "synonyms": [
+      "INS 428",
+      "INS428",
+      "428"
+    ]
+  },
+  {
+    "value": "Polyoxyethylene (8) stearate, emulsifier, stabilizer",
+    "synonyms": [
+      "INS 430",
+      "INS430",
+      "430"
+    ]
+  },
+  {
+    "value": "Polyoxyethylene (40) stearate, emulsifier",
+    "synonyms": [
+      "INS 431",
+      "INS431",
+      "431"
+    ]
+  },
+  {
+    "value": "Polysorbate 20, emulsifier",
+    "synonyms": [
+      "INS 432",
+      "INS432",
+      "432"
+    ]
+  },
+  {
+    "value": "Polysorbate 80, emulsifier",
+    "synonyms": [
+      "INS 433",
+      "INS433",
+      "433"
+    ]
+  },
+  {
+    "value": "Polysorbate 40, emulsifier",
+    "synonyms": [
+      "INS 434",
+      "INS434",
+      "434"
+    ]
+  },
+  {
+    "value": "Polysorbate 60, emulsifier",
+    "synonyms": [
+      "INS 435",
+      "INS435",
+      "435"
+    ]
+  },
+  {
+    "value": "Polysorbate 65, emulsifier",
+    "synonyms": [
+      "INS 436",
+      "INS436",
+      "436"
+    ]
+  },
+  {
+    "value": "Pectin, vegetable gum, emulsifier",
+    "synonyms": [
+      "INS 440",
+      "INS440",
+      "440"
+    ]
+  },
+  {
+    "value": "Superglycerinated hydrogenated rapeseed oil, Hydrogenated rapeseed oil superglycerinated, Superglycerinated fully hydrogenated rapeseed oil, Emulsifier",
+    "synonyms": [
+      "INS 441",
+      "INS441",
+      "441"
+    ]
+  },
+  {
+    "value": "Mixed ammonium salts of phosphorylated glyceridess, emulsifier",
+    "synonyms": [
+      "INS 442",
+      "INS442",
+      "442"
+    ]
+  },
+  {
+    "value": "Brominated vegetable oil, emulsifier, stabiliser",
+    "synonyms": [
+      "INS 443",
+      "INS443",
+      "443"
+    ]
+  },
+  {
+    "value": "Sucrose acetate isobutyrate, emulsifier, stabiliser",
+    "synonyms": [
+      "INS 444",
+      "INS444",
+      "444"
+    ]
+  },
+  {
+    "value": "Glycerol esters of wood rosins, emulsifier",
+    "synonyms": [
+      "INS 445",
+      "INS445",
+      "445"
+    ]
+  },
+  {
+    "value": "Diphosphates, mineral salt, emulsifier",
+    "synonyms": [
+      "INS 450",
+      "INS450",
+      "450"
+    ]
+  },
+  {
+    "value": "Triphosphates, mineral salt, emulsifier",
+    "synonyms": [
+      "INS 451",
+      "INS451",
+      "451"
+    ]
+  },
+  {
+    "value": "Polyphosphates, mineral salt, emulsifier",
+    "synonyms": [
+      "INS 452",
+      "INS452",
+      "452"
+    ]
+  },
+  {
+    "value": "Beta-cyclodextrin, emulsifier",
+    "synonyms": [
+      "INS 459",
+      "INS459",
+      "459"
+    ]
+  },
+  {
+    "value": "Powdered cellulose, microcrystalline cellulose, anti-caking agent",
+    "synonyms": [
+      "INS 460",
+      "INS460",
+      "460"
+    ]
+  },
+  {
+    "value": "Methylcellulose, thickener, emulsifier, vegetable gum",
+    "synonyms": [
+      "INS 461",
+      "INS461",
+      "461"
+    ]
+  },
+  {
+    "value": "Hydroxypropyl cellulose, thickener, vegetable gum, emulsifier",
+    "synonyms": [
+      "INS 463",
+      "INS463",
+      "463"
+    ]
+  },
+  {
+    "value": "Hydroxypropyl methylcellulose, thickener, vegetable gum, emulsifier",
+    "synonyms": [
+      "INS 464",
+      "INS464",
+      "464"
+    ]
+  },
+  {
+    "value": "Methyl ethyl cellulose, ethyl methyl cellulose, thickener, vegetable gum, emulsifier",
+    "synonyms": [
+      "INS 465",
+      "INS465",
+      "465"
+    ]
+  },
+  {
+    "value": "Sodium carboxymethylcellulose, emulsifier",
+    "synonyms": [
+      "INS 466",
+      "INS466",
+      "466"
+    ]
+  },
+  {
+    "value": "Crosslinked sodium carboxymethylcellulose, emulsifier",
+    "synonyms": [
+      "INS 468",
+      "INS468",
+      "468"
+    ]
+  },
+  {
+    "value": "Enzymatically hydrolyzed carboxymethyl cellulose, emulsifier",
+    "synonyms": [
+      "INS 469",
+      "INS469",
+      "469"
+    ]
+  },
+  {
+    "value": "Magnesium stearate, emulsifier, stabiliser",
+    "synonyms": [
+      "INS 470",
+      "INS470",
+      "470"
+    ]
+  },
+  {
+    "value": "Sodium, potassium and calcium salts of fatty acids, emulsifier, stabiliser, anti-caking agent",
+    "synonyms": [
+      "INS 470a",
+      "INS470a",
+      "470a"
+    ]
+  },
+  {
+    "value": "Magnesium salts of fatty acids, emulsifier, stabiliser, anti-caking agent",
+    "synonyms": [
+      "INS 470b",
+      "INS470b",
+      "470b"
+    ]
+  },
+  {
+    "value": "Mono- and diglycerides of fatty acids – glyceryl monostearate, glyceryl distearate, emulsifier",
+    "synonyms": [
+      "INS 471",
+      "INS471",
+      "471"
+    ]
+  },
+  {
+    "value": "Acetic acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472a",
+      "INS472a",
+      "472a"
+    ]
+  },
+  {
+    "value": "Lactic acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472b",
+      "INS472b",
+      "472b"
+    ]
+  },
+  {
+    "value": "Citric acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472c",
+      "INS472c",
+      "472c"
+    ]
+  },
+  {
+    "value": "Tartaric acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472d",
+      "INS472d",
+      "472d"
+    ]
+  },
+  {
+    "value": "Diacetyltartaric acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472e",
+      "INS472e",
+      "472e"
+    ]
+  },
+  {
+    "value": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 472f",
+      "INS472f",
+      "472f"
+    ]
+  },
+  {
+    "value": "Sucrose esters of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 473",
+      "INS473",
+      "473"
+    ]
+  },
+  {
+    "value": "Sucroglycerides, emulsifier",
+    "synonyms": [
+      "INS 474",
+      "INS474",
+      "474"
+    ]
+  },
+  {
+    "value": "Polyglycerol esters of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 475",
+      "INS475",
+      "475"
+    ]
+  },
+  {
+    "value": "Polyglycerol polyricinoleate, emulsifier",
+    "synonyms": [
+      "INS 476",
+      "INS476",
+      "476"
+    ]
+  },
+  {
+    "value": "Propylene glycol esters of fatty acids, emulsifier",
+    "synonyms": [
+      "INS 477",
+      "INS477",
+      "477"
+    ]
+  },
+  {
+    "value": "Lactylated fatty acid esters of glycerol and propylene glycol, emulsifier",
+    "synonyms": [
+      "INS 478",
+      "INS478",
+      "478"
+    ]
+  },
+  {
+    "value": "Thermally oxidised soya bean oil, emulsifier",
+    "synonyms": [
+      "INS 479b",
+      "INS479b",
+      "479b"
+    ]
+  },
+  {
+    "value": "Dioctyl sodium sulfosuccinate, emulsifier",
+    "synonyms": [
+      "INS 480",
+      "INS480",
+      "480"
+    ]
+  },
+  {
+    "value": "Sodium stearoyl lactylate, emulsifier",
+    "synonyms": [
+      "INS 481",
+      "INS481",
+      "481"
+    ]
+  },
+  {
+    "value": "Calcium stearoyl lactylate, emulsifier",
+    "synonyms": [
+      "INS 482",
+      "INS482",
+      "482"
+    ]
+  },
+  {
+    "value": "Stearyl tartarate, emulsifier",
+    "synonyms": [
+      "INS 483",
+      "INS483",
+      "483"
+    ]
+  },
+  {
+    "value": "Sorbitan monostearate, emulsifier",
+    "synonyms": [
+      "INS 491",
+      "INS491",
+      "491"
+    ]
+  },
+  {
+    "value": "Sorbitan tristearate, emulsifier",
+    "synonyms": [
+      "INS 492",
+      "INS492",
+      "492"
+    ]
+  },
+  {
+    "value": "Sorbitan monolaurate, emulsifier",
+    "synonyms": [
+      "INS 493",
+      "INS493",
+      "493"
+    ]
+  },
+  {
+    "value": "Sorbitan monooleate, emulsifier",
+    "synonyms": [
+      "INS 494",
+      "INS494",
+      "494"
+    ]
+  },
+  {
+    "value": "Sorbitan monopalmitate, emulsifier",
+    "synonyms": [
+      "INS 495",
+      "INS495",
+      "495"
+    ]
+  },
+  {
+    "value": "Sodium carbonate, sodium bicarbonate (E500ii), mineral salt",
+    "synonyms": [
+      "INS 500",
+      "INS500",
+      "500"
+    ]
+  },
+  {
+    "value": "Potassium carbonate, potassium bicarbonate, mineral salt",
+    "synonyms": [
+      "INS 501",
+      "INS501",
+      "501"
+    ]
+  },
+  {
+    "value": "Ammonium carbonate, ammonium bicarbonate, mineral salt",
+    "synonyms": [
+      "INS 503",
+      "INS503",
+      "503"
+    ]
+  },
+  {
+    "value": "Magnesium carbonate, anti-caking agent, mineral salt",
+    "synonyms": [
+      "INS 504",
+      "INS504",
+      "504"
+    ]
+  },
+  {
+    "value": "Hydrochloric acid, acidity regulator",
+    "synonyms": [
+      "INS 507",
+      "INS507",
+      "507"
+    ]
+  },
+  {
+    "value": "Potassium chloride, mineral salt",
+    "synonyms": [
+      "INS 508",
+      "INS508",
+      "508"
+    ]
+  },
+  {
+    "value": "Calcium chloride, mineral salt",
+    "synonyms": [
+      "INS 509",
+      "INS509",
+      "509"
+    ]
+  },
+  {
+    "value": "Ammonium chloride, mineral salt",
+    "synonyms": [
+      "INS 510",
+      "INS510",
+      "510"
+    ]
+  },
+  {
+    "value": "Magnesium chloride, mineral salt",
+    "synonyms": [
+      "INS 511",
+      "INS511",
+      "511"
+    ]
+  },
+  {
+    "value": "Stannous chloride, colour retention agent, antioxidant",
+    "synonyms": [
+      "INS 512",
+      "INS512",
+      "512"
+    ]
+  },
+  {
+    "value": "Sulfuric acid, acidity regulator",
+    "synonyms": [
+      "INS 513",
+      "INS513",
+      "513"
+    ]
+  },
+  {
+    "value": "Sodium sulfate, mineral salt",
+    "synonyms": [
+      "INS 514",
+      "INS514",
+      "514"
+    ]
+  },
+  {
+    "value": "Potassium sulfate, mineral salt, seasoning",
+    "synonyms": [
+      "INS 515",
+      "INS515",
+      "515"
+    ]
+  },
+  {
+    "value": "Calcium sulfate, flour treatment agent, mineral salt, sequestrant, improving agent, firming agent",
+    "synonyms": [
+      "INS 516",
+      "INS516",
+      "516"
+    ]
+  },
+  {
+    "value": "Ammonium sulfate, mineral salt, improving agent",
+    "synonyms": [
+      "INS 517",
+      "INS517",
+      "517"
+    ]
+  },
+  {
+    "value": "Magnesium sulfate, Epsom salts, mineral salt, acidity regulator, firming agent",
+    "synonyms": [
+      "INS 518",
+      "INS518",
+      "518"
+    ]
+  },
+  {
+    "value": "Cupric sulfate, mineral salt",
+    "synonyms": [
+      "INS 519",
+      "INS519",
+      "519"
+    ]
+  },
+  {
+    "value": "Aluminium sulfate, mineral salt",
+    "synonyms": [
+      "INS 520",
+      "INS520",
+      "520"
+    ]
+  },
+  {
+    "value": "Aluminium sodium sulfate, mineral salt",
+    "synonyms": [
+      "INS 521",
+      "INS521",
+      "521"
+    ]
+  },
+  {
+    "value": "Aluminium potassium sulfate, mineral salt",
+    "synonyms": [
+      "INS 522",
+      "INS522",
+      "522"
+    ]
+  },
+  {
+    "value": "Aluminium ammonium sulfate, mineral salt",
+    "synonyms": [
+      "INS 523",
+      "INS523",
+      "523"
+    ]
+  },
+  {
+    "value": "Sodium hydroxide, mineral salt",
+    "synonyms": [
+      "INS 524",
+      "INS524",
+      "524"
+    ]
+  },
+  {
+    "value": "Potassium hydroxide, mineral salt",
+    "synonyms": [
+      "INS 525",
+      "INS525",
+      "525"
+    ]
+  },
+  {
+    "value": "Calcium hydroxide, mineral salt",
+    "synonyms": [
+      "INS 526",
+      "INS526",
+      "526"
+    ]
+  },
+  {
+    "value": "Ammonium hydroxide, mineral salt",
+    "synonyms": [
+      "INS 527",
+      "INS527",
+      "527"
+    ]
+  },
+  {
+    "value": "Magnesium hydroxide, mineral salt",
+    "synonyms": [
+      "INS 528",
+      "INS528",
+      "528"
+    ]
+  },
+  {
+    "value": "Calcium oxide, mineral salt",
+    "synonyms": [
+      "INS 529",
+      "INS529",
+      "529"
+    ]
+  },
+  {
+    "value": "Magnesium oxide, anti-caking agent",
+    "synonyms": [
+      "INS 530",
+      "INS530",
+      "530"
+    ]
+  },
+  {
+    "value": "Sodium ferrocyanide, anti-caking agent",
+    "synonyms": [
+      "INS 535",
+      "INS535",
+      "535"
+    ]
+  },
+  {
+    "value": "Potassium ferrocyanide, anti-caking agent",
+    "synonyms": [
+      "INS 536",
+      "INS536",
+      "536"
+    ]
+  },
+  {
+    "value": "Calcium ferrocyanide, anti-caking agent",
+    "synonyms": [
+      "INS 538",
+      "INS538",
+      "538"
+    ]
+  },
+  {
+    "value": "Dicalcium diphosphate, anti-caking agent",
+    "synonyms": [
+      "INS 540",
+      "INS540",
+      "540"
+    ]
+  },
+  {
+    "value": "Sodium aluminium phosphate, acidity regulator, emulsifier",
+    "synonyms": [
+      "INS 541",
+      "INS541",
+      "541"
+    ]
+  },
+  {
+    "value": "Bone phosphate, anti-caking agent",
+    "synonyms": [
+      "INS 542",
+      "INS542",
+      "542"
+    ]
+  },
+  {
+    "value": "Calcium polyphosphates, anti-caking agent",
+    "synonyms": [
+      "INS 544",
+      "INS544",
+      "544"
+    ]
+  },
+  {
+    "value": "Ammonium polyphosphates, anti-caking agent",
+    "synonyms": [
+      "INS 545",
+      "INS545",
+      "545"
+    ]
+  },
+  {
+    "value": "Silicon dioxide, anti-caking agent",
+    "synonyms": [
+      "INS 551",
+      "INS551",
+      "551"
+    ]
+  },
+  {
+    "value": "Calcium silicate, anti-caking agent",
+    "synonyms": [
+      "INS 552",
+      "INS552",
+      "552"
+    ]
+  },
+  {
+    "value": "Magnesium silicate, anti-caking agent",
+    "synonyms": [
+      "INS 553a",
+      "INS553a",
+      "553a"
+    ]
+  },
+  {
+    "value": "Talc, anti-caking agent",
+    "synonyms": [
+      "INS 553b",
+      "INS553b",
+      "553b"
+    ]
+  },
+  {
+    "value": "Sodium aluminosilicate (sodium aluminium silicate), anti-caking agent",
+    "synonyms": [
+      "INS 554",
+      "INS554",
+      "554"
+    ]
+  },
+  {
+    "value": "Potassium aluminium silicate, anti-caking agent",
+    "synonyms": [
+      "INS 555",
+      "INS555",
+      "555"
+    ]
+  },
+  {
+    "value": "Calcium aluminosilicate (calcium aluminium silicate), anti-caking agent",
+    "synonyms": [
+      "INS 556",
+      "INS556",
+      "556"
+    ]
+  },
+  {
+    "value": "Bentonite, anti-caking agent",
+    "synonyms": [
+      "INS 558",
+      "INS558",
+      "558"
+    ]
+  },
+  {
+    "value": "Kaolin, aluminium silicate, anti-caking agent",
+    "synonyms": [
+      "INS 559",
+      "INS559",
+      "559"
+    ]
+  },
+  {
+    "value": "Stearic acid, anti-caking agent",
+    "synonyms": [
+      "INS 570",
+      "INS570",
+      "570"
+    ]
+  },
+  {
+    "value": "Glucono delta-lactone, acidity regulator",
+    "synonyms": [
+      "INS 575",
+      "INS575",
+      "575"
+    ]
+  },
+  {
+    "value": "Sodium gluconate, stabiliser",
+    "synonyms": [
+      "INS 576",
+      "INS576",
+      "576"
+    ]
+  },
+  {
+    "value": "Potassium gluconate, stabiliser",
+    "synonyms": [
+      "INS 577",
+      "INS577",
+      "577"
+    ]
+  },
+  {
+    "value": "Calcium gluconate, acidity regulator",
+    "synonyms": [
+      "INS 578",
+      "INS578",
+      "578"
+    ]
+  },
+  {
+    "value": "Ferrous gluconate, colour retention agent",
+    "synonyms": [
+      "INS 579",
+      "INS579",
+      "579"
+    ]
+  },
+  {
+    "value": "Ferrous lactate",
+    "synonyms": [
+      "INS 585",
+      "INS585",
+      "585"
+    ]
+  },
+  {
+    "value": "Glutamic acid, flavour enhancer",
+    "synonyms": [
+      "INS 620",
+      "INS620",
+      "620"
+    ]
+  },
+  {
+    "value": "Monosodium glutamate (MSG), flavour enhancer",
+    "synonyms": [
+      "INS 621",
+      "INS621",
+      "621"
+    ]
+  },
+  {
+    "value": "Monopotassium glutamate, flavour enhancer",
+    "synonyms": [
+      "INS 622",
+      "INS622",
+      "622"
+    ]
+  },
+  {
+    "value": "Calcium diglutamate, flavour enhancer",
+    "synonyms": [
+      "INS 623",
+      "INS623",
+      "623"
+    ]
+  },
+  {
+    "value": "Monoammonium glutamate, flavour enhancer",
+    "synonyms": [
+      "INS 624",
+      "INS624",
+      "624"
+    ]
+  },
+  {
+    "value": "Magnesium diglutamate, flavour enhancer",
+    "synonyms": [
+      "INS 625",
+      "INS625",
+      "625"
+    ]
+  },
+  {
+    "value": "Guanylic acid, flavour enhancer",
+    "synonyms": [
+      "INS 626",
+      "INS626",
+      "626"
+    ]
+  },
+  {
+    "value": "Disodium guanylate, flavour enhancer",
+    "synonyms": [
+      "INS 627",
+      "INS627",
+      "627"
+    ]
+  },
+  {
+    "value": "Dipotassium guanylate, flavour enhancer",
+    "synonyms": [
+      "INS 628",
+      "INS628",
+      "628"
+    ]
+  },
+  {
+    "value": "Calcium guanylate, flavour enhancer",
+    "synonyms": [
+      "INS 629",
+      "INS629",
+      "629"
+    ]
+  },
+  {
+    "value": "Inosinic acid, flavour enhancer",
+    "synonyms": [
+      "INS 630",
+      "INS630",
+      "630"
+    ]
+  },
+  {
+    "value": "Disodium inosinate, flavour enhancer",
+    "synonyms": [
+      "INS 631",
+      "INS631",
+      "631"
+    ]
+  },
+  {
+    "value": "Dipotassium inosinate, flavour enhancer",
+    "synonyms": [
+      "INS 632",
+      "INS632",
+      "632"
+    ]
+  },
+  {
+    "value": "Calcium inosinate, flavour enhancer",
+    "synonyms": [
+      "INS 633",
+      "INS633",
+      "633"
+    ]
+  },
+  {
+    "value": "Calcium 5\u0027-ribonucleotides, flavour enhancer",
+    "synonyms": [
+      "INS 634",
+      "INS634",
+      "634"
+    ]
+  },
+  {
+    "value": "Disodium 5\u0027-ribonucleotides, flavour enhancer",
+    "synonyms": [
+      "INS 635",
+      "INS635",
+      "635"
+    ]
+  },
+  {
+    "value": "Maltol, flavour enhancer",
+    "synonyms": [
+      "INS 636",
+      "INS636",
+      "636"
+    ]
+  },
+  {
+    "value": "Ethyl maltol, flavour enhancer",
+    "synonyms": [
+      "INS 637",
+      "INS637",
+      "637"
+    ]
+  },
+  {
+    "value": "Glycine, flavour enhancer",
+    "synonyms": [
+      "INS 640",
+      "INS640",
+      "640"
+    ]
+  },
+  {
+    "value": "Leucine, flavour enhancer",
+    "synonyms": [
+      "INS 641",
+      "INS641",
+      "641"
+    ]
+  },
+  {
+    "value": "Zinc acetate, flavour enhancer",
+    "synonyms": [
+      "INS 650",
+      "INS650",
+      "650"
+    ]
+  },
+  {
+    "value": "Dimethylpolysiloxane, emulsifier, anti-caking agent",
+    "synonyms": [
+      "INS 900",
+      "INS900",
+      "900"
+    ]
+  },
+  {
+    "value": "Beeswax, glazing agent",
+    "synonyms": [
+      "INS 901",
+      "INS901",
+      "901"
+    ]
+  },
+  {
+    "value": "Candelilla wax, glazing agent",
+    "synonyms": [
+      "INS 902",
+      "INS902",
+      "902"
+    ]
+  },
+  {
+    "value": "Carnauba wax, glazing agent",
+    "synonyms": [
+      "INS 903",
+      "INS903",
+      "903"
+    ]
+  },
+  {
+    "value": "Shellac, glazing agent",
+    "synonyms": [
+      "INS 904",
+      "INS904",
+      "904"
+    ]
+  },
+  {
+    "value": "Paraffins, glazing agent",
+    "synonyms": [
+      "INS 905",
+      "INS905",
+      "905"
+    ]
+  },
+  {
+    "value": "Refined microcrystalline wax, glazing agent",
+    "synonyms": [
+      "INS 907",
+      "INS907",
+      "907"
+    ]
+  },
+  {
+    "value": "Montanic acid esters, humectant",
+    "synonyms": [
+      "INS 912",
+      "INS912",
+      "912"
+    ]
+  },
+  {
+    "value": "Oxidised polyethylene wax, humectant",
+    "synonyms": [
+      "INS 914",
+      "INS914",
+      "914"
+    ]
+  },
+  {
+    "value": "L-cysteine, flour treatment agent",
+    "synonyms": [
+      "INS 920",
+      "INS920",
+      "920"
+    ]
+  },
+  {
+    "value": "Potassium bromate, flour treatment agent",
+    "synonyms": [
+      "INS 924",
+      "INS924",
+      "924"
+    ]
+  },
+  {
+    "value": "Chlorine, flour treatment agent",
+    "synonyms": [
+      "INS 925",
+      "INS925",
+      "925"
+    ]
+  },
+  {
+    "value": "Chlorine dioxide, flour treatment agent",
+    "synonyms": [
+      "INS 926",
+      "INS926",
+      "926"
+    ]
+  },
+  {
+    "value": "Carbamide, flour treatment agent",
+    "synonyms": [
+      "INS 927b",
+      "INS927b",
+      "927b"
+    ]
+  },
+  {
+    "value": "Benzoyl peroxide, flour treatment agent",
+    "synonyms": [
+      "INS 928",
+      "INS928",
+      "928"
+    ]
+  },
+  {
+    "value": "Argon, propellant",
+    "synonyms": [
+      "INS 938",
+      "INS938",
+      "938"
+    ]
+  },
+  {
+    "value": "Helium, propellant",
+    "synonyms": [
+      "INS 939",
+      "INS939",
+      "939"
+    ]
+  },
+  {
+    "value": "Nitrogen, propellant",
+    "synonyms": [
+      "INS 941",
+      "INS941",
+      "941"
+    ]
+  },
+  {
+    "value": "Nitrous oxide, propellant",
+    "synonyms": [
+      "INS 942",
+      "INS942",
+      "942"
+    ]
+  },
+  {
+    "value": "Butane, propellant",
+    "synonyms": [
+      "INS 943a",
+      "INS943a",
+      "943a"
+    ]
+  },
+  {
+    "value": "Isobutane, propellant",
+    "synonyms": [
+      "INS 943b",
+      "INS943b",
+      "943b"
+    ]
+  },
+  {
+    "value": "Acesulfame potassium, artificial sweetener",
+    "synonyms": [
+      "INS 950",
+      "INS950",
+      "950"
+    ]
+  },
+  {
+    "value": "Aspartame, artificial sweetener",
+    "synonyms": [
+      "INS 951",
+      "INS951",
+      "951"
+    ]
+  },
+  {
+    "value": "Cyclamic acid, cyclamates, artificial sweetener",
+    "synonyms": [
+      "INS 952",
+      "INS952",
+      "952"
+    ]
+  },
+  {
+    "value": "Isomalt, humectant",
+    "synonyms": [
+      "INS 953",
+      "INS953",
+      "953"
+    ]
+  },
+  {
+    "value": "Saccharin, artificial sweetener",
+    "synonyms": [
+      "INS 954",
+      "INS954",
+      "954"
+    ]
+  },
+  {
+    "value": "Sucralose, artificial sweetener",
+    "synonyms": [
+      "INS 955",
+      "INS955",
+      "955"
+    ]
+  },
+  {
+    "value": "Alitame, artificial sweetener",
+    "synonyms": [
+      "INS 956",
+      "INS956",
+      "956"
+    ]
+  },
+  {
+    "value": "Thaumatin, flavour enhancer, artificial sweetener",
+    "synonyms": [
+      "INS 957",
+      "INS957",
+      "957"
+    ]
+  },
+  {
+    "value": "Neohesperidin dihydrochalcone, artificial sweetener",
+    "synonyms": [
+      "INS 959",
+      "INS959",
+      "959"
+    ]
+  },
+  {
+    "value": "Maltitol, humectant, stabiliser",
+    "synonyms": [
+      "INS 965",
+      "INS965",
+      "965"
+    ]
+  },
+  {
+    "value": "Lactitol, humectant",
+    "synonyms": [
+      "INS 966",
+      "INS966",
+      "966"
+    ]
+  },
+  {
+    "value": "Xylitol, humectant, stabiliser",
+    "synonyms": [
+      "INS 967",
+      "INS967",
+      "967"
+    ]
+  },
+  {
+    "value": "Quillaia extract, humectant",
+    "synonyms": [
+      "INS 999",
+      "INS999",
+      "999"
+    ]
+  },
+  {
+    "value": "Choline salts and esters, emulsifier",
+    "synonyms": [
+      "INS 1001",
+      "INS1001",
+      "1001"
+    ]
+  },
+  {
+    "value": "Amylases, flour treatment agent",
+    "synonyms": [
+      "INS 1100",
+      "INS1100",
+      "1100"
+    ]
+  },
+  {
+    "value": "Glucose oxidase, antioxidant",
+    "synonyms": [
+      "INS 1102",
+      "INS1102",
+      "1102"
+    ]
+  },
+  {
+    "value": "Invertase, ?",
+    "synonyms": [
+      "INS 1103",
+      "INS1103",
+      "1103"
+    ]
+  },
+  {
+    "value": "Lipases, flavour enhancer",
+    "synonyms": [
+      "INS 1104",
+      "INS1104",
+      "1104"
+    ]
+  },
+  {
+    "value": "Lysozyme, preservative",
+    "synonyms": [
+      "INS 1105",
+      "INS1105",
+      "1105"
+    ]
+  },
+  {
+    "value": "Polydextrose, humectant",
+    "synonyms": [
+      "INS 1200",
+      "INS1200",
+      "1200"
+    ]
+  },
+  {
+    "value": "Poly vinyl pyrrolidone, ?",
+    "synonyms": [
+      "INS 1201",
+      "INS1201",
+      "1201"
+    ]
+  },
+  {
+    "value": "Polyvinylpolypyrrolidone, colour stabiliser",
+    "synonyms": [
+      "INS 1202",
+      "INS1202",
+      "1202"
+    ]
+  },
+  {
+    "value": "Dextrin roasted starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1400",
+      "INS1400",
+      "1400"
+    ]
+  },
+  {
+    "value": "Acid treated starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1401",
+      "INS1401",
+      "1401"
+    ]
+  },
+  {
+    "value": "Alkaline treated starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1402",
+      "INS1402",
+      "1402"
+    ]
+  },
+  {
+    "value": "Bleached starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1403",
+      "INS1403",
+      "1403"
+    ]
+  },
+  {
+    "value": "Oxidised starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1404",
+      "INS1404",
+      "1404"
+    ]
+  },
+  {
+    "value": "Enzyme treated starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1405",
+      "INS1405",
+      "1405"
+    ]
+  },
+  {
+    "value": "Monostarch phosphate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1410",
+      "INS1410",
+      "1410"
+    ]
+  },
+  {
+    "value": "Distarch phosphate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1412",
+      "INS1412",
+      "1412"
+    ]
+  },
+  {
+    "value": "Phosphated distarch phosphate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1413",
+      "INS1413",
+      "1413"
+    ]
+  },
+  {
+    "value": "Acetylated distarch phosphate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1414",
+      "INS1414",
+      "1414"
+    ]
+  },
+  {
+    "value": "Acetylated starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1420",
+      "INS1420",
+      "1420"
+    ]
+  },
+  {
+    "value": "Acetylated distarch adipate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1422",
+      "INS1422",
+      "1422"
+    ]
+  },
+  {
+    "value": "Hydroxypropyl starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1440",
+      "INS1440",
+      "1440"
+    ]
+  },
+  {
+    "value": "Hydroxypropyl distarch phosphate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1442",
+      "INS1442",
+      "1442"
+    ]
+  },
+  {
+    "value": "Starch sodium octenylsuccinate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1450",
+      "INS1450",
+      "1450"
+    ]
+  },
+  {
+    "value": "Acetylated oxidised starch, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1451",
+      "INS1451",
+      "1451"
+    ]
+  },
+  {
+    "value": "Triethyl citrate, thickener, vegetable gum",
+    "synonyms": [
+      "INS 1505",
+      "INS1505",
+      "1505"
+    ]
+  },
+  {
+    "value": "Ethanol (not classified as an additive), alcohol",
+    "synonyms": [
+      "INS 1510",
+      "INS1510",
+      "1510"
+    ]
+  },
+  {
+    "value": "Triacetin, humectant",
+    "synonyms": [
+      "INS 1518",
+      "INS1518",
+      "1518"
+    ]
+  },
+  {
+    "value": "Propylene glycol, humectant",
+    "synonyms": [
+      "INS 1520",
+      "INS1520",
+      "1520"
+    ]
+  },
+  {
+    "value": "Polyethylene glycol[citation needed], antifoaming agent",
+    "synonyms": [
+      "INS 1521",
+      "INS1521",
+      "1521"
+    ]
+  }
+]

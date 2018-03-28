@@ -1,0 +1,170 @@
+[
+  {
+    "id": "6279464a-f65a-4228-9ec7-ca176c848660",
+    "data": [
+      {
+        "text": "nutrients columns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "2098808c-12e1-4bd2-b492-0efacb8fb248",
+    "data": [
+      {
+        "text": "food columns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "ff3614f4-821d-49c4-add9-ab3a5fab44a1",
+    "data": [
+      {
+        "text": "nutrients types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "e16f726d-696d-4116-8e86-c74468a4bd0e",
+    "data": [
+      {
+        "text": "food components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "f51fa2c8-d574-4b31-a783-5a4f10c8f8cc",
+    "data": [
+      {
+        "text": "types of nutrients listed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "0f86e29b-f18b-4fbe-9d1d-fa5b4b5bf514",
+    "data": [
+      {
+        "text": "composition structure of food measured",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "57c933ab-8363-40d7-a240-21a361f44e58",
+    "data": [
+      {
+        "text": "food nutrients of foods analyzed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "e83a03f1-3c6d-4315-9b2b-3c1b5a4aabfe",
+    "data": [
+      {
+        "text": "food components obtained",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "5d1f532c-2bf4-48b0-9294-d1a1732ee794",
+    "data": [
+      {
+        "text": "show me the types of nutrients obtained in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "05cea21e-09a0-4f9a-8967-f2a6415ae9ee",
+    "data": [
+      {
+        "text": "tell me the composition structure of foods analyzed in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "1c18354e-f09d-4b48-9272-0090753661e3",
+    "data": [
+      {
+        "text": "give the food nutrients measured in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  },
+  {
+    "id": "b360f612-ff4e-4ead-af6e-2c664a5eeaff",
+    "data": [
+      {
+        "text": "what are the food components listed in ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522242001
+  }
+]

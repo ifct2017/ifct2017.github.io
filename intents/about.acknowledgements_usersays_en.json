@@ -1,0 +1,176 @@
+[
+  {
+    "id": "64660e89-8fe4-4ea1-82c2-fade69fc6da1",
+    "data": [
+      {
+        "text": "acknowledgements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "ca2ce500-e9b3-4128-8b8a-aeb8c1e1bed7",
+    "data": [
+      {
+        "text": "your",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " acknowledgements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "f14ee9f2-338b-457d-8c2a-cec64b7c1987",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " acknowledgements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "37655810-e1c9-45d7-ba58-555ce9732bf5",
+    "data": [
+      {
+        "text": "tell me about the people who helped publish ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "ab7a04a1-5d7c-4edd-82b4-50c0b094b5d8",
+    "data": [
+      {
+        "text": "tell me which people researched ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "39f2dd19-eef9-4da6-9b5b-11cd2640fd23",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " acknowledgements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "f91d580c-ad7d-4151-970d-4c1866fd4b01",
+    "data": [
+      {
+        "text": "i want to know which people were responsible for making ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "769cbc9d-dc5f-4afc-917c-04e346b5c465",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me which helped make ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  },
+  {
+    "id": "ef09e5ab-fb12-491a-bec3-2268f3801b9e",
+    "data": [
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " show me people who helped build this system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522228664
+  }
+]

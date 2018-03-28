@@ -1,0 +1,36 @@
+{
+  "id": "9c4dce73-9d92-4650-992a-1390d059afb5",
+  "name": "about.foodcomponents",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f623e6a-d2ab-4519-b1d7-357e325d6371",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The food components (nutrients) listed are:\n- Proximate Principles and Dietary Fiber\n- Water Soluble Vitamins\n- Fat Soluble Vitamins\n- Carotenoids\n- Minerals and Trace Elements\n- Starch and Individual Sugars\n- Fatty Acid Profile\n- Amino Acid Profile\n- Organic Acids\n- Polyphenols\n- Oligosaccharides, Phytosterols, Saponins and Phytates\n- Fatty Acid Profile of Edible Oils and Fats\n\nFor a detailed list of all food components, please check:\nhttps://ifct2017.github.io/docs/columns"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522242001,
+  "fallbackIntent": false,
+  "events": []
+}

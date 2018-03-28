@@ -1,28 +1,3 @@
 {
-  "name": "ifct2017.dialogflow",
-  "version": "0.0.11",
-  "description": "Dialogflow objects for Indian Food Composition Tables 2017.",
-  "main": "README.md",
-  "scripts": {
-    "test": "exit"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ifct2017/ifct2017.dialogflow.git"
-  },
-  "keywords": [
-    "ifct",
-    "2017",
-    "indian",
-    "food",
-    "composition",
-    "tables",
-    "dialogflow"
-  ],
-  "author": "wolfram77@gmail.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ifct2017/ifct2017.dialogflow/issues"
-  },
-  "homepage": "https://github.com/ifct2017/ifct2017.dialogflow#readme"
+  "version": "1.0.0"
 }

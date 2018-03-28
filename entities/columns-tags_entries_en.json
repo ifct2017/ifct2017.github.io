@@ -1,0 +1,5930 @@
+[
+  {
+    "value": "code",
+    "synonyms": [
+      "code"
+    ]
+  },
+  {
+    "value": "food",
+    "synonyms": [
+      "food"
+    ]
+  },
+  {
+    "value": "id",
+    "synonyms": [
+      "id"
+    ]
+  },
+  {
+    "value": "tag",
+    "synonyms": [
+      "tag"
+    ]
+  },
+  {
+    "value": "legend",
+    "synonyms": [
+      "legend"
+    ]
+  },
+  {
+    "value": "name",
+    "synonyms": [
+      "name"
+    ]
+  },
+  {
+    "value": "title",
+    "synonyms": [
+      "title"
+    ]
+  },
+  {
+    "value": "label",
+    "synonyms": [
+      "label"
+    ]
+  },
+  {
+    "value": "scie",
+    "synonyms": [
+      "scie"
+    ]
+  },
+  {
+    "value": "scientific",
+    "synonyms": [
+      "scientific"
+    ]
+  },
+  {
+    "value": "binomial",
+    "synonyms": [
+      "binomial"
+    ]
+  },
+  {
+    "value": "genus",
+    "synonyms": [
+      "genus"
+    ]
+  },
+  {
+    "value": "botanical",
+    "synonyms": [
+      "botanical"
+    ]
+  },
+  {
+    "value": "lang",
+    "synonyms": [
+      "lang"
+    ]
+  },
+  {
+    "value": "local",
+    "synonyms": [
+      "local"
+    ]
+  },
+  {
+    "value": "colloquial",
+    "synonyms": [
+      "colloquial"
+    ]
+  },
+  {
+    "value": "trivial",
+    "synonyms": [
+      "trivial"
+    ]
+  },
+  {
+    "value": "country",
+    "synonyms": [
+      "country"
+    ]
+  },
+  {
+    "value": "farmer",
+    "synonyms": [
+      "farmer"
+    ]
+  },
+  {
+    "value": "popular",
+    "synonyms": [
+      "popular"
+    ]
+  },
+  {
+    "value": "grup",
+    "synonyms": [
+      "grup"
+    ]
+  },
+  {
+    "value": "group",
+    "synonyms": [
+      "group"
+    ]
+  },
+  {
+    "value": "category",
+    "synonyms": [
+      "category"
+    ]
+  },
+  {
+    "value": "class",
+    "synonyms": [
+      "class"
+    ]
+  },
+  {
+    "value": "classification",
+    "synonyms": [
+      "classification"
+    ]
+  },
+  {
+    "value": "grouping",
+    "synonyms": [
+      "grouping"
+    ]
+  },
+  {
+    "value": "type",
+    "synonyms": [
+      "type"
+    ]
+  },
+  {
+    "value": "sort",
+    "synonyms": [
+      "sort"
+    ]
+  },
+  {
+    "value": "kind",
+    "synonyms": [
+      "kind"
+    ]
+  },
+  {
+    "value": "regn",
+    "synonyms": [
+      "regn"
+    ]
+  },
+  {
+    "value": "no",
+    "synonyms": [
+      "no"
+    ]
+  },
+  {
+    "value": "of",
+    "synonyms": [
+      "of"
+    ]
+  },
+  {
+    "value": "regions",
+    "synonyms": [
+      "regions"
+    ]
+  },
+  {
+    "value": "number",
+    "synonyms": [
+      "number"
+    ]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water"
+    ]
+  },
+  {
+    "value": "moisture",
+    "synonyms": [
+      "moisture"
+    ]
+  },
+  {
+    "value": "liquid",
+    "synonyms": [
+      "liquid"
+    ]
+  },
+  {
+    "value": "steam",
+    "synonyms": [
+      "steam"
+    ]
+  },
+  {
+    "value": "vapour",
+    "synonyms": [
+      "vapour"
+    ]
+  },
+  {
+    "value": "proximate",
+    "synonyms": [
+      "proximate"
+    ]
+  },
+  {
+    "value": "protcnt",
+    "synonyms": [
+      "protcnt"
+    ]
+  },
+  {
+    "value": "protein",
+    "synonyms": [
+      "protein"
+    ]
+  },
+  {
+    "value": "essential",
+    "synonyms": [
+      "essential"
+    ]
+  },
+  {
+    "value": "macronutrient",
+    "synonyms": [
+      "macronutrient"
+    ]
+  },
+  {
+    "value": "ash",
+    "synonyms": [
+      "ash"
+    ]
+  },
+  {
+    "value": "metal",
+    "synonyms": [
+      "metal"
+    ]
+  },
+  {
+    "value": "oxide",
+    "synonyms": [
+      "oxide"
+    ]
+  },
+  {
+    "value": "mineral",
+    "synonyms": [
+      "mineral"
+    ]
+  },
+  {
+    "value": "inorganic",
+    "synonyms": [
+      "inorganic"
+    ]
+  },
+  {
+    "value": "element",
+    "synonyms": [
+      "element"
+    ]
+  },
+  {
+    "value": "residue",
+    "synonyms": [
+      "residue"
+    ]
+  },
+  {
+    "value": "fatce",
+    "synonyms": [
+      "fatce"
+    ]
+  },
+  {
+    "value": "total",
+    "synonyms": [
+      "total"
+    ]
+  },
+  {
+    "value": "fat",
+    "synonyms": [
+      "fat"
+    ]
+  },
+  {
+    "value": "triglyceride",
+    "synonyms": [
+      "triglyceride"
+    ]
+  },
+  {
+    "value": "lipid",
+    "synonyms": [
+      "lipid"
+    ]
+  },
+  {
+    "value": "blubber",
+    "synonyms": [
+      "blubber"
+    ]
+  },
+  {
+    "value": "fibtg",
+    "synonyms": [
+      "fibtg"
+    ]
+  },
+  {
+    "value": "dietary",
+    "synonyms": [
+      "dietary"
+    ]
+  },
+  {
+    "value": "fiber",
+    "synonyms": [
+      "fiber"
+    ]
+  },
+  {
+    "value": "fibre",
+    "synonyms": [
+      "fibre"
+    ]
+  },
+  {
+    "value": "roughage",
+    "synonyms": [
+      "roughage"
+    ]
+  },
+  {
+    "value": "bulk",
+    "synonyms": [
+      "bulk"
+    ]
+  },
+  {
+    "value": "indigestible",
+    "synonyms": [
+      "indigestible"
+    ]
+  },
+  {
+    "value": "fibins",
+    "synonyms": [
+      "fibins"
+    ]
+  },
+  {
+    "value": "insoluble",
+    "synonyms": [
+      "insoluble"
+    ]
+  },
+  {
+    "value": "fibsol",
+    "synonyms": [
+      "fibsol"
+    ]
+  },
+  {
+    "value": "soluble",
+    "synonyms": [
+      "soluble"
+    ]
+  },
+  {
+    "value": "choavldf",
+    "synonyms": [
+      "choavldf"
+    ]
+  },
+  {
+    "value": "carbohydrate",
+    "synonyms": [
+      "carbohydrate"
+    ]
+  },
+  {
+    "value": "cho",
+    "synonyms": [
+      "cho"
+    ]
+  },
+  {
+    "value": "saccharide",
+    "synonyms": [
+      "saccharide"
+    ]
+  },
+  {
+    "value": "ose",
+    "synonyms": [
+      "ose"
+    ]
+  },
+  {
+    "value": "glucide",
+    "synonyms": [
+      "glucide"
+    ]
+  },
+  {
+    "value": "hydrate",
+    "synonyms": [
+      "hydrate"
+    ]
+  },
+  {
+    "value": "carbon",
+    "synonyms": [
+      "carbon"
+    ]
+  },
+  {
+    "value": "enerc",
+    "synonyms": [
+      "enerc"
+    ]
+  },
+  {
+    "value": "energy",
+    "synonyms": [
+      "energy"
+    ]
+  },
+  {
+    "value": "atp",
+    "synonyms": [
+      "atp"
+    ]
+  },
+  {
+    "value": "calorie",
+    "synonyms": [
+      "calorie"
+    ]
+  },
+  {
+    "value": "metabolism",
+    "synonyms": [
+      "metabolism"
+    ]
+  },
+  {
+    "value": "thia",
+    "synonyms": [
+      "thia"
+    ]
+  },
+  {
+    "value": "thiamine",
+    "synonyms": [
+      "thiamine"
+    ]
+  },
+  {
+    "value": "b1",
+    "synonyms": [
+      "b1"
+    ]
+  },
+  {
+    "value": "thiamin",
+    "synonyms": [
+      "thiamin"
+    ]
+  },
+  {
+    "value": "aneurine",
+    "synonyms": [
+      "aneurine"
+    ]
+  },
+  {
+    "value": "vitamin",
+    "synonyms": [
+      "vitamin"
+    ]
+  },
+  {
+    "value": "b",
+    "synonyms": [
+      "b"
+    ]
+  },
+  {
+    "value": "ribf",
+    "synonyms": [
+      "ribf"
+    ]
+  },
+  {
+    "value": "riboflavin",
+    "synonyms": [
+      "riboflavin"
+    ]
+  },
+  {
+    "value": "b2",
+    "synonyms": [
+      "b2"
+    ]
+  },
+  {
+    "value": "vactochrome",
+    "synonyms": [
+      "vactochrome"
+    ]
+  },
+  {
+    "value": "lactoflavin",
+    "synonyms": [
+      "lactoflavin"
+    ]
+  },
+  {
+    "value": "g",
+    "synonyms": [
+      "g"
+    ]
+  },
+  {
+    "value": "nia",
+    "synonyms": [
+      "nia"
+    ]
+  },
+  {
+    "value": "niacin",
+    "synonyms": [
+      "niacin"
+    ]
+  },
+  {
+    "value": "b3",
+    "synonyms": [
+      "b3"
+    ]
+  },
+  {
+    "value": "nicotinic",
+    "synonyms": [
+      "nicotinic"
+    ]
+  },
+  {
+    "value": "acid",
+    "synonyms": [
+      "acid"
+    ]
+  },
+  {
+    "value": "nicotinamide",
+    "synonyms": [
+      "nicotinamide"
+    ]
+  },
+  {
+    "value": "bionic",
+    "synonyms": [
+      "bionic"
+    ]
+  },
+  {
+    "value": "pp",
+    "synonyms": [
+      "pp"
+    ]
+  },
+  {
+    "value": "white",
+    "synonyms": [
+      "white"
+    ]
+  },
+  {
+    "value": "translucent",
+    "synonyms": [
+      "translucent"
+    ]
+  },
+  {
+    "value": "crystalline",
+    "synonyms": [
+      "crystalline"
+    ]
+  },
+  {
+    "value": "crystal",
+    "synonyms": [
+      "crystal"
+    ]
+  },
+  {
+    "value": "pantac",
+    "synonyms": [
+      "pantac"
+    ]
+  },
+  {
+    "value": "pantothenic",
+    "synonyms": [
+      "pantothenic"
+    ]
+  },
+  {
+    "value": "b5",
+    "synonyms": [
+      "b5"
+    ]
+  },
+  {
+    "value": "pantothenate",
+    "synonyms": [
+      "pantothenate"
+    ]
+  },
+  {
+    "value": "yellow",
+    "synonyms": [
+      "yellow"
+    ]
+  },
+  {
+    "value": "oil",
+    "synonyms": [
+      "oil"
+    ]
+  },
+  {
+    "value": "colorless",
+    "synonyms": [
+      "colorless"
+    ]
+  },
+  {
+    "value": "vitb6c",
+    "synonyms": [
+      "vitb6c"
+    ]
+  },
+  {
+    "value": "b6",
+    "synonyms": [
+      "b6"
+    ]
+  },
+  {
+    "value": "pn",
+    "synonyms": [
+      "pn"
+    ]
+  },
+  {
+    "value": "p5p",
+    "synonyms": [
+      "p5p"
+    ]
+  },
+  {
+    "value": "pl",
+    "synonyms": [
+      "pl"
+    ]
+  },
+  {
+    "value": "plp",
+    "synonyms": [
+      "plp"
+    ]
+  },
+  {
+    "value": "pm",
+    "synonyms": [
+      "pm"
+    ]
+  },
+  {
+    "value": "pmp",
+    "synonyms": [
+      "pmp"
+    ]
+  },
+  {
+    "value": "pa",
+    "synonyms": [
+      "pa"
+    ]
+  },
+  {
+    "value": "pyridoxine",
+    "synonyms": [
+      "pyridoxine"
+    ]
+  },
+  {
+    "value": "pyridoxal",
+    "synonyms": [
+      "pyridoxal"
+    ]
+  },
+  {
+    "value": "pyridoxamine",
+    "synonyms": [
+      "pyridoxamine"
+    ]
+  },
+  {
+    "value": "pyridoxic",
+    "synonyms": [
+      "pyridoxic"
+    ]
+  },
+  {
+    "value": "pyritinol",
+    "synonyms": [
+      "pyritinol"
+    ]
+  },
+  {
+    "value": "vitamer",
+    "synonyms": [
+      "vitamer"
+    ]
+  },
+  {
+    "value": "biot",
+    "synonyms": [
+      "biot"
+    ]
+  },
+  {
+    "value": "biotin",
+    "synonyms": [
+      "biotin"
+    ]
+  },
+  {
+    "value": "b7",
+    "synonyms": [
+      "b7"
+    ]
+  },
+  {
+    "value": "biopeiderm",
+    "synonyms": [
+      "biopeiderm"
+    ]
+  },
+  {
+    "value": "h",
+    "synonyms": [
+      "h"
+    ]
+  },
+  {
+    "value": "coenzyme",
+    "synonyms": [
+      "coenzyme"
+    ]
+  },
+  {
+    "value": "r",
+    "synonyms": [
+      "r"
+    ]
+  },
+  {
+    "value": "needle",
+    "synonyms": [
+      "needle"
+    ]
+  },
+  {
+    "value": "folsum",
+    "synonyms": [
+      "folsum"
+    ]
+  },
+  {
+    "value": "folates",
+    "synonyms": [
+      "folates"
+    ]
+  },
+  {
+    "value": "b9",
+    "synonyms": [
+      "b9"
+    ]
+  },
+  {
+    "value": "pteroyl",
+    "synonyms": [
+      "pteroyl"
+    ]
+  },
+  {
+    "value": "glutamic",
+    "synonyms": [
+      "glutamic"
+    ]
+  },
+  {
+    "value": "glutamate",
+    "synonyms": [
+      "glutamate"
+    ]
+  },
+  {
+    "value": "folic",
+    "synonyms": [
+      "folic"
+    ]
+  },
+  {
+    "value": "folacin",
+    "synonyms": [
+      "folacin"
+    ]
+  },
+  {
+    "value": "bc",
+    "synonyms": [
+      "bc"
+    ]
+  },
+  {
+    "value": "m",
+    "synonyms": [
+      "m"
+    ]
+  },
+  {
+    "value": "vitc",
+    "synonyms": [
+      "vitc"
+    ]
+  },
+  {
+    "value": "ascorbic",
+    "synonyms": [
+      "ascorbic"
+    ]
+  },
+  {
+    "value": "ascorbate",
+    "synonyms": [
+      "ascorbate"
+    ]
+  },
+  {
+    "value": "c",
+    "synonyms": [
+      "c"
+    ]
+  },
+  {
+    "value": "retol",
+    "synonyms": [
+      "retol"
+    ]
+  },
+  {
+    "value": "retinol",
+    "synonyms": [
+      "retinol"
+    ]
+  },
+  {
+    "value": "a1",
+    "synonyms": [
+      "a1"
+    ]
+  },
+  {
+    "value": "a",
+    "synonyms": [
+      "a"
+    ]
+  },
+  {
+    "value": "ergcal",
+    "synonyms": [
+      "ergcal"
+    ]
+  },
+  {
+    "value": "ergocalciferol",
+    "synonyms": [
+      "ergocalciferol"
+    ]
+  },
+  {
+    "value": "d2",
+    "synonyms": [
+      "d2"
+    ]
+  },
+  {
+    "value": "calciferol",
+    "synonyms": [
+      "calciferol"
+    ]
+  },
+  {
+    "value": "viosterol",
+    "synonyms": [
+      "viosterol"
+    ]
+  },
+  {
+    "value": "d",
+    "synonyms": [
+      "d"
+    ]
+  },
+  {
+    "value": "chocal",
+    "synonyms": [
+      "chocal"
+    ]
+  },
+  {
+    "value": "cholecalciferol",
+    "synonyms": [
+      "cholecalciferol"
+    ]
+  },
+  {
+    "value": "d3",
+    "synonyms": [
+      "d3"
+    ]
+  },
+  {
+    "value": "activated",
+    "synonyms": [
+      "activated"
+    ]
+  },
+  {
+    "value": "dehydrocholesterol",
+    "synonyms": [
+      "dehydrocholesterol"
+    ]
+  },
+  {
+    "value": "colecalciferol",
+    "synonyms": [
+      "colecalciferol"
+    ]
+  },
+  {
+    "value": "doh25",
+    "synonyms": [
+      "doh25"
+    ]
+  },
+  {
+    "value": "25",
+    "synonyms": [
+      "25"
+    ]
+  },
+  {
+    "value": "oh",
+    "synonyms": [
+      "oh"
+    ]
+  },
+  {
+    "value": "calcifediol",
+    "synonyms": [
+      "calcifediol"
+    ]
+  },
+  {
+    "value": "calcidiol",
+    "synonyms": [
+      "calcidiol"
+    ]
+  },
+  {
+    "value": "hydroxycholecalciferol",
+    "synonyms": [
+      "hydroxycholecalciferol"
+    ]
+  },
+  {
+    "value": "hydroxyvitamin",
+    "synonyms": [
+      "hydroxyvitamin"
+    ]
+  },
+  {
+    "value": "prehormone",
+    "synonyms": [
+      "prehormone"
+    ]
+  },
+  {
+    "value": "tocpha",
+    "synonyms": [
+      "tocpha"
+    ]
+  },
+  {
+    "value": "α",
+    "synonyms": [
+      "α"
+    ]
+  },
+  {
+    "value": "tocopherol",
+    "synonyms": [
+      "tocopherol"
+    ]
+  },
+  {
+    "value": "alpha",
+    "synonyms": [
+      "alpha"
+    ]
+  },
+  {
+    "value": "tcp",
+    "synonyms": [
+      "tcp"
+    ]
+  },
+  {
+    "value": "e",
+    "synonyms": [
+      "e"
+    ]
+  },
+  {
+    "value": "methylated",
+    "synonyms": [
+      "methylated"
+    ]
+  },
+  {
+    "value": "phenol",
+    "synonyms": [
+      "phenol"
+    ]
+  },
+  {
+    "value": "antioxidant",
+    "synonyms": [
+      "antioxidant"
+    ]
+  },
+  {
+    "value": "saturated",
+    "synonyms": [
+      "saturated"
+    ]
+  },
+  {
+    "value": "phytyl",
+    "synonyms": [
+      "phytyl"
+    ]
+  },
+  {
+    "value": "brown",
+    "synonyms": [
+      "brown"
+    ]
+  },
+  {
+    "value": "viscous",
+    "synonyms": [
+      "viscous"
+    ]
+  },
+  {
+    "value": "tocphb",
+    "synonyms": [
+      "tocphb"
+    ]
+  },
+  {
+    "value": "β",
+    "synonyms": [
+      "β"
+    ]
+  },
+  {
+    "value": "beta",
+    "synonyms": [
+      "beta"
+    ]
+  },
+  {
+    "value": "tocphg",
+    "synonyms": [
+      "tocphg"
+    ]
+  },
+  {
+    "value": "γ",
+    "synonyms": [
+      "γ"
+    ]
+  },
+  {
+    "value": "gamma",
+    "synonyms": [
+      "gamma"
+    ]
+  },
+  {
+    "value": "tocphd",
+    "synonyms": [
+      "tocphd"
+    ]
+  },
+  {
+    "value": "δ",
+    "synonyms": [
+      "δ"
+    ]
+  },
+  {
+    "value": "delta",
+    "synonyms": [
+      "delta"
+    ]
+  },
+  {
+    "value": "toctra",
+    "synonyms": [
+      "toctra"
+    ]
+  },
+  {
+    "value": "tocotrienol",
+    "synonyms": [
+      "tocotrienol"
+    ]
+  },
+  {
+    "value": "unsaturated",
+    "synonyms": [
+      "unsaturated"
+    ]
+  },
+  {
+    "value": "isoprenoid",
+    "synonyms": [
+      "isoprenoid"
+    ]
+  },
+  {
+    "value": "toctrb",
+    "synonyms": [
+      "toctrb"
+    ]
+  },
+  {
+    "value": "toctrg",
+    "synonyms": [
+      "toctrg"
+    ]
+  },
+  {
+    "value": "toctrd",
+    "synonyms": [
+      "toctrd"
+    ]
+  },
+  {
+    "value": "vite",
+    "synonyms": [
+      "vite"
+    ]
+  },
+  {
+    "value": "equivalent",
+    "synonyms": [
+      "equivalent"
+    ]
+  },
+  {
+    "value": "ate",
+    "synonyms": [
+      "ate"
+    ]
+  },
+  {
+    "value": "te",
+    "synonyms": [
+      "te"
+    ]
+  },
+  {
+    "value": "vitk1",
+    "synonyms": [
+      "vitk1"
+    ]
+  },
+  {
+    "value": "phylloquinones",
+    "synonyms": [
+      "phylloquinones"
+    ]
+  },
+  {
+    "value": "k1",
+    "synonyms": [
+      "k1"
+    ]
+  },
+  {
+    "value": "pk",
+    "synonyms": [
+      "pk"
+    ]
+  },
+  {
+    "value": "phytomenadione",
+    "synonyms": [
+      "phytomenadione"
+    ]
+  },
+  {
+    "value": "phytonadione",
+    "synonyms": [
+      "phytonadione"
+    ]
+  },
+  {
+    "value": "quinone",
+    "synonyms": [
+      "quinone"
+    ]
+  },
+  {
+    "value": "mephyton",
+    "synonyms": [
+      "mephyton"
+    ]
+  },
+  {
+    "value": "k",
+    "synonyms": [
+      "k"
+    ]
+  },
+  {
+    "value": "vitk2",
+    "synonyms": [
+      "vitk2"
+    ]
+  },
+  {
+    "value": "menaquinones",
+    "synonyms": [
+      "menaquinones"
+    ]
+  },
+  {
+    "value": "k2",
+    "synonyms": [
+      "k2"
+    ]
+  },
+  {
+    "value": "mk",
+    "synonyms": [
+      "mk"
+    ]
+  },
+  {
+    "value": "menatetrenone",
+    "synonyms": [
+      "menatetrenone"
+    ]
+  },
+  {
+    "value": "lutn",
+    "synonyms": [
+      "lutn"
+    ]
+  },
+  {
+    "value": "lutein",
+    "synonyms": [
+      "lutein"
+    ]
+  },
+  {
+    "value": "xanthophyll",
+    "synonyms": [
+      "xanthophyll"
+    ]
+  },
+  {
+    "value": "carotenoid",
+    "synonyms": [
+      "carotenoid"
+    ]
+  },
+  {
+    "value": "tetraterpenoid",
+    "synonyms": [
+      "tetraterpenoid"
+    ]
+  },
+  {
+    "value": "terpenoid",
+    "synonyms": [
+      "terpenoid"
+    ]
+  },
+  {
+    "value": "phytochemical",
+    "synonyms": [
+      "phytochemical"
+    ]
+  },
+  {
+    "value": "orange",
+    "synonyms": [
+      "orange"
+    ]
+  },
+  {
+    "value": "red",
+    "synonyms": [
+      "red"
+    ]
+  },
+  {
+    "value": "pigment",
+    "synonyms": [
+      "pigment"
+    ]
+  },
+  {
+    "value": "solid",
+    "synonyms": [
+      "solid"
+    ]
+  },
+  {
+    "value": "zea",
+    "synonyms": [
+      "zea"
+    ]
+  },
+  {
+    "value": "zeaxanthin",
+    "synonyms": [
+      "zeaxanthin"
+    ]
+  },
+  {
+    "value": "crypxb",
+    "synonyms": [
+      "crypxb"
+    ]
+  },
+  {
+    "value": "cryptoxanthin",
+    "synonyms": [
+      "cryptoxanthin"
+    ]
+  },
+  {
+    "value": "provitamin",
+    "synonyms": [
+      "provitamin"
+    ]
+  },
+  {
+    "value": "cryptoxanthol",
+    "synonyms": [
+      "cryptoxanthol"
+    ]
+  },
+  {
+    "value": "caricaxanthin",
+    "synonyms": [
+      "caricaxanthin"
+    ]
+  },
+  {
+    "value": "kryptoxanthin",
+    "synonyms": [
+      "kryptoxanthin"
+    ]
+  },
+  {
+    "value": "lycpn",
+    "synonyms": [
+      "lycpn"
+    ]
+  },
+  {
+    "value": "lycopene",
+    "synonyms": [
+      "lycopene"
+    ]
+  },
+  {
+    "value": "carotene",
+    "synonyms": [
+      "carotene"
+    ]
+  },
+  {
+    "value": "deep",
+    "synonyms": [
+      "deep"
+    ]
+  },
+  {
+    "value": "cartg",
+    "synonyms": [
+      "cartg"
+    ]
+  },
+  {
+    "value": "carta",
+    "synonyms": [
+      "carta"
+    ]
+  },
+  {
+    "value": "cartb",
+    "synonyms": [
+      "cartb"
+    ]
+  },
+  {
+    "value": "dark",
+    "synonyms": [
+      "dark"
+    ]
+  },
+  {
+    "value": "cartoid",
+    "synonyms": [
+      "cartoid"
+    ]
+  },
+  {
+    "value": "carotenoids",
+    "synonyms": [
+      "carotenoids"
+    ]
+  },
+  {
+    "value": "al",
+    "synonyms": [
+      "al"
+    ]
+  },
+  {
+    "value": "aluminium",
+    "synonyms": [
+      "aluminium"
+    ]
+  },
+  {
+    "value": "trace",
+    "synonyms": [
+      "trace"
+    ]
+  },
+  {
+    "value": "post",
+    "synonyms": [
+      "post"
+    ]
+  },
+  {
+    "value": "transition",
+    "synonyms": [
+      "transition"
+    ]
+  },
+  {
+    "value": "as",
+    "synonyms": [
+      "as"
+    ]
+  },
+  {
+    "value": "arsenic",
+    "synonyms": [
+      "arsenic"
+    ]
+  },
+  {
+    "value": "metalloid",
+    "synonyms": [
+      "metalloid"
+    ]
+  },
+  {
+    "value": "cd",
+    "synonyms": [
+      "cd"
+    ]
+  },
+  {
+    "value": "cadmium",
+    "synonyms": [
+      "cadmium"
+    ]
+  },
+  {
+    "value": "toxic",
+    "synonyms": [
+      "toxic"
+    ]
+  },
+  {
+    "value": "ca",
+    "synonyms": [
+      "ca"
+    ]
+  },
+  {
+    "value": "calcium",
+    "synonyms": [
+      "calcium"
+    ]
+  },
+  {
+    "value": "quantity",
+    "synonyms": [
+      "quantity"
+    ]
+  },
+  {
+    "value": "alkaline",
+    "synonyms": [
+      "alkaline"
+    ]
+  },
+  {
+    "value": "earth",
+    "synonyms": [
+      "earth"
+    ]
+  },
+  {
+    "value": "cr",
+    "synonyms": [
+      "cr"
+    ]
+  },
+  {
+    "value": "chromium",
+    "synonyms": [
+      "chromium"
+    ]
+  },
+  {
+    "value": "co",
+    "synonyms": [
+      "co"
+    ]
+  },
+  {
+    "value": "cobalt",
+    "synonyms": [
+      "cobalt"
+    ]
+  },
+  {
+    "value": "cu",
+    "synonyms": [
+      "cu"
+    ]
+  },
+  {
+    "value": "copper",
+    "synonyms": [
+      "copper"
+    ]
+  },
+  {
+    "value": "fe",
+    "synonyms": [
+      "fe"
+    ]
+  },
+  {
+    "value": "iron",
+    "synonyms": [
+      "iron"
+    ]
+  },
+  {
+    "value": "pb",
+    "synonyms": [
+      "pb"
+    ]
+  },
+  {
+    "value": "lead",
+    "synonyms": [
+      "lead"
+    ]
+  },
+  {
+    "value": "heavy",
+    "synonyms": [
+      "heavy"
+    ]
+  },
+  {
+    "value": "li",
+    "synonyms": [
+      "li"
+    ]
+  },
+  {
+    "value": "lithium",
+    "synonyms": [
+      "lithium"
+    ]
+  },
+  {
+    "value": "alkali",
+    "synonyms": [
+      "alkali"
+    ]
+  },
+  {
+    "value": "mg",
+    "synonyms": [
+      "mg"
+    ]
+  },
+  {
+    "value": "magnesium",
+    "synonyms": [
+      "magnesium"
+    ]
+  },
+  {
+    "value": "mn",
+    "synonyms": [
+      "mn"
+    ]
+  },
+  {
+    "value": "manganese",
+    "synonyms": [
+      "manganese"
+    ]
+  },
+  {
+    "value": "ineral",
+    "synonyms": [
+      "ineral"
+    ]
+  },
+  {
+    "value": "hg",
+    "synonyms": [
+      "hg"
+    ]
+  },
+  {
+    "value": "mercury",
+    "synonyms": [
+      "mercury"
+    ]
+  },
+  {
+    "value": "mo",
+    "synonyms": [
+      "mo"
+    ]
+  },
+  {
+    "value": "molybdenum",
+    "synonyms": [
+      "molybdenum"
+    ]
+  },
+  {
+    "value": "ni",
+    "synonyms": [
+      "ni"
+    ]
+  },
+  {
+    "value": "nickel",
+    "synonyms": [
+      "nickel"
+    ]
+  },
+  {
+    "value": "p",
+    "synonyms": [
+      "p"
+    ]
+  },
+  {
+    "value": "phophorus",
+    "synonyms": [
+      "phophorus"
+    ]
+  },
+  {
+    "value": "nonmetal",
+    "synonyms": [
+      "nonmetal"
+    ]
+  },
+  {
+    "value": "potassium",
+    "synonyms": [
+      "potassium"
+    ]
+  },
+  {
+    "value": "se",
+    "synonyms": [
+      "se"
+    ]
+  },
+  {
+    "value": "selenium",
+    "synonyms": [
+      "selenium"
+    ]
+  },
+  {
+    "value": "na",
+    "synonyms": [
+      "na"
+    ]
+  },
+  {
+    "value": "sodium",
+    "synonyms": [
+      "sodium"
+    ]
+  },
+  {
+    "value": "zn",
+    "synonyms": [
+      "zn"
+    ]
+  },
+  {
+    "value": "zinc",
+    "synonyms": [
+      "zinc"
+    ]
+  },
+  {
+    "value": "available",
+    "synonyms": [
+      "available"
+    ]
+  },
+  {
+    "value": "sugar",
+    "synonyms": [
+      "sugar"
+    ]
+  },
+  {
+    "value": "starch",
+    "synonyms": [
+      "starch"
+    ]
+  },
+  {
+    "value": "digest",
+    "synonyms": [
+      "digest"
+    ]
+  },
+  {
+    "value": "absorb",
+    "synonyms": [
+      "absorb"
+    ]
+  },
+  {
+    "value": "glucogenic",
+    "synonyms": [
+      "glucogenic"
+    ]
+  },
+  {
+    "value": "amylum",
+    "synonyms": [
+      "amylum"
+    ]
+  },
+  {
+    "value": "polysaccharide",
+    "synonyms": [
+      "polysaccharide"
+    ]
+  },
+  {
+    "value": "polymeric",
+    "synonyms": [
+      "polymeric"
+    ]
+  },
+  {
+    "value": "frus",
+    "synonyms": [
+      "frus"
+    ]
+  },
+  {
+    "value": "fructose",
+    "synonyms": [
+      "fructose"
+    ]
+  },
+  {
+    "value": "simple",
+    "synonyms": [
+      "simple"
+    ]
+  },
+  {
+    "value": "fruit",
+    "synonyms": [
+      "fruit"
+    ]
+  },
+  {
+    "value": "levulose",
+    "synonyms": [
+      "levulose"
+    ]
+  },
+  {
+    "value": "fructofuranose",
+    "synonyms": [
+      "fructofuranose"
+    ]
+  },
+  {
+    "value": "arabino",
+    "synonyms": [
+      "arabino"
+    ]
+  },
+  {
+    "value": "hexulose",
+    "synonyms": [
+      "hexulose"
+    ]
+  },
+  {
+    "value": "ketonic",
+    "synonyms": [
+      "ketonic"
+    ]
+  },
+  {
+    "value": "monosaccharide",
+    "synonyms": [
+      "monosaccharide"
+    ]
+  },
+  {
+    "value": "glus",
+    "synonyms": [
+      "glus"
+    ]
+  },
+  {
+    "value": "glucose",
+    "synonyms": [
+      "glucose"
+    ]
+  },
+  {
+    "value": "blood",
+    "synonyms": [
+      "blood"
+    ]
+  },
+  {
+    "value": "dextrose",
+    "synonyms": [
+      "dextrose"
+    ]
+  },
+  {
+    "value": "corn",
+    "synonyms": [
+      "corn"
+    ]
+  },
+  {
+    "value": "grape",
+    "synonyms": [
+      "grape"
+    ]
+  },
+  {
+    "value": "powder",
+    "synonyms": [
+      "powder"
+    ]
+  },
+  {
+    "value": "sucs",
+    "synonyms": [
+      "sucs"
+    ]
+  },
+  {
+    "value": "sucrose",
+    "synonyms": [
+      "sucrose"
+    ]
+  },
+  {
+    "value": "common",
+    "synonyms": [
+      "common"
+    ]
+  },
+  {
+    "value": "table",
+    "synonyms": [
+      "table"
+    ]
+  },
+  {
+    "value": "saccharose",
+    "synonyms": [
+      "saccharose"
+    ]
+  },
+  {
+    "value": "disaccharide",
+    "synonyms": [
+      "disaccharide"
+    ]
+  },
+  {
+    "value": "mals",
+    "synonyms": [
+      "mals"
+    ]
+  },
+  {
+    "value": "maltose",
+    "synonyms": [
+      "maltose"
+    ]
+  },
+  {
+    "value": "maltobiose",
+    "synonyms": [
+      "maltobiose"
+    ]
+  },
+  {
+    "value": "malt",
+    "synonyms": [
+      "malt"
+    ]
+  },
+  {
+    "value": "fsugar",
+    "synonyms": [
+      "fsugar"
+    ]
+  },
+  {
+    "value": "free",
+    "synonyms": [
+      "free"
+    ]
+  },
+  {
+    "value": "sugars",
+    "synonyms": [
+      "sugars"
+    ]
+  },
+  {
+    "value": "added",
+    "synonyms": [
+      "added"
+    ]
+  },
+  {
+    "value": "natural",
+    "synonyms": [
+      "natural"
+    ]
+  },
+  {
+    "value": "lactose",
+    "synonyms": [
+      "lactose"
+    ]
+  },
+  {
+    "value": "content",
+    "synonyms": [
+      "content"
+    ]
+  },
+  {
+    "value": "milk",
+    "synonyms": [
+      "milk"
+    ]
+  },
+  {
+    "value": "f4d0",
+    "synonyms": [
+      "f4d0"
+    ]
+  },
+  {
+    "value": "butyric",
+    "synonyms": [
+      "butyric"
+    ]
+  },
+  {
+    "value": "c4",
+    "synonyms": [
+      "c4"
+    ]
+  },
+  {
+    "value": "0",
+    "synonyms": [
+      "0"
+    ]
+  },
+  {
+    "value": "bta",
+    "synonyms": [
+      "bta"
+    ]
+  },
+  {
+    "value": "butanoic",
+    "synonyms": [
+      "butanoic"
+    ]
+  },
+  {
+    "value": "propanecarboxylic",
+    "synonyms": [
+      "propanecarboxylic"
+    ]
+  },
+  {
+    "value": "carboxylic",
+    "synonyms": [
+      "carboxylic"
+    ]
+  },
+  {
+    "value": "fatty",
+    "synonyms": [
+      "fatty"
+    ]
+  },
+  {
+    "value": "unpleasant",
+    "synonyms": [
+      "unpleasant"
+    ]
+  },
+  {
+    "value": "vomit",
+    "synonyms": [
+      "vomit"
+    ]
+  },
+  {
+    "value": "body",
+    "synonyms": [
+      "body"
+    ]
+  },
+  {
+    "value": "odor",
+    "synonyms": [
+      "odor"
+    ]
+  },
+  {
+    "value": "f6d0",
+    "synonyms": [
+      "f6d0"
+    ]
+  },
+  {
+    "value": "caproic",
+    "synonyms": [
+      "caproic"
+    ]
+  },
+  {
+    "value": "c6",
+    "synonyms": [
+      "c6"
+    ]
+  },
+  {
+    "value": "hexanoic",
+    "synonyms": [
+      "hexanoic"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium"
+    ]
+  },
+  {
+    "value": "chain",
+    "synonyms": [
+      "chain"
+    ]
+  },
+  {
+    "value": "oily",
+    "synonyms": [
+      "oily"
+    ]
+  },
+  {
+    "value": "goat",
+    "synonyms": [
+      "goat"
+    ]
+  },
+  {
+    "value": "like",
+    "synonyms": [
+      "like"
+    ]
+  },
+  {
+    "value": "f8d0",
+    "synonyms": [
+      "f8d0"
+    ]
+  },
+  {
+    "value": "caprylic",
+    "synonyms": [
+      "caprylic"
+    ]
+  },
+  {
+    "value": "c8",
+    "synonyms": [
+      "c8"
+    ]
+  },
+  {
+    "value": "octanoic",
+    "synonyms": [
+      "octanoic"
+    ]
+  },
+  {
+    "value": "faint",
+    "synonyms": [
+      "faint"
+    ]
+  },
+  {
+    "value": "fruity",
+    "synonyms": [
+      "fruity"
+    ]
+  },
+  {
+    "value": "irritating",
+    "synonyms": [
+      "irritating"
+    ]
+  },
+  {
+    "value": "f10d0",
+    "synonyms": [
+      "f10d0"
+    ]
+  },
+  {
+    "value": "capric",
+    "synonyms": [
+      "capric"
+    ]
+  },
+  {
+    "value": "c10",
+    "synonyms": [
+      "c10"
+    ]
+  },
+  {
+    "value": "decanoic",
+    "synonyms": [
+      "decanoic"
+    ]
+  },
+  {
+    "value": "crystals",
+    "synonyms": [
+      "crystals"
+    ]
+  },
+  {
+    "value": "strong",
+    "synonyms": [
+      "strong"
+    ]
+  },
+  {
+    "value": "rancid",
+    "synonyms": [
+      "rancid"
+    ]
+  },
+  {
+    "value": "and",
+    "synonyms": [
+      "and"
+    ]
+  },
+  {
+    "value": "f11d0",
+    "synonyms": [
+      "f11d0"
+    ]
+  },
+  {
+    "value": "undecanoic",
+    "synonyms": [
+      "undecanoic"
+    ]
+  },
+  {
+    "value": "c11",
+    "synonyms": [
+      "c11"
+    ]
+  },
+  {
+    "value": "undecylic",
+    "synonyms": [
+      "undecylic"
+    ]
+  },
+  {
+    "value": "colourless",
+    "synonyms": [
+      "colourless"
+    ]
+  },
+  {
+    "value": "distinctive",
+    "synonyms": [
+      "distinctive"
+    ]
+  },
+  {
+    "value": "f12d0",
+    "synonyms": [
+      "f12d0"
+    ]
+  },
+  {
+    "value": "lauric",
+    "synonyms": [
+      "lauric"
+    ]
+  },
+  {
+    "value": "c12",
+    "synonyms": [
+      "c12"
+    ]
+  },
+  {
+    "value": "dodecanoic",
+    "synonyms": [
+      "dodecanoic"
+    ]
+  },
+  {
+    "value": "dodecylic",
+    "synonyms": [
+      "dodecylic"
+    ]
+  },
+  {
+    "value": "dodecoic",
+    "synonyms": [
+      "dodecoic"
+    ]
+  },
+  {
+    "value": "laurostearic",
+    "synonyms": [
+      "laurostearic"
+    ]
+  },
+  {
+    "value": "vulvic",
+    "synonyms": [
+      "vulvic"
+    ]
+  },
+  {
+    "value": "undecanecarboxylic",
+    "synonyms": [
+      "undecanecarboxylic"
+    ]
+  },
+  {
+    "value": "duodecylic",
+    "synonyms": [
+      "duodecylic"
+    ]
+  },
+  {
+    "value": "bay",
+    "synonyms": [
+      "bay"
+    ]
+  },
+  {
+    "value": "soap",
+    "synonyms": [
+      "soap"
+    ]
+  },
+  {
+    "value": "f14d0",
+    "synonyms": [
+      "f14d0"
+    ]
+  },
+  {
+    "value": "myristic",
+    "synonyms": [
+      "myristic"
+    ]
+  },
+  {
+    "value": "c14",
+    "synonyms": [
+      "c14"
+    ]
+  },
+  {
+    "value": "tetradecanoic",
+    "synonyms": [
+      "tetradecanoic"
+    ]
+  },
+  {
+    "value": "f15d0",
+    "synonyms": [
+      "f15d0"
+    ]
+  },
+  {
+    "value": "pentadecanoic",
+    "synonyms": [
+      "pentadecanoic"
+    ]
+  },
+  {
+    "value": "c15",
+    "synonyms": [
+      "c15"
+    ]
+  },
+  {
+    "value": "pentadecylic",
+    "synonyms": [
+      "pentadecylic"
+    ]
+  },
+  {
+    "value": "f16d0",
+    "synonyms": [
+      "f16d0"
+    ]
+  },
+  {
+    "value": "palmitic",
+    "synonyms": [
+      "palmitic"
+    ]
+  },
+  {
+    "value": "c16",
+    "synonyms": [
+      "c16"
+    ]
+  },
+  {
+    "value": "hexadecanoic",
+    "synonyms": [
+      "hexadecanoic"
+    ]
+  },
+  {
+    "value": "f18d0",
+    "synonyms": [
+      "f18d0"
+    ]
+  },
+  {
+    "value": "stearic",
+    "synonyms": [
+      "stearic"
+    ]
+  },
+  {
+    "value": "c18",
+    "synonyms": [
+      "c18"
+    ]
+  },
+  {
+    "value": "octadecanoic",
+    "synonyms": [
+      "octadecanoic"
+    ]
+  },
+  {
+    "value": "pungent",
+    "synonyms": [
+      "pungent"
+    ]
+  },
+  {
+    "value": "f20d0",
+    "synonyms": [
+      "f20d0"
+    ]
+  },
+  {
+    "value": "arachidic",
+    "synonyms": [
+      "arachidic"
+    ]
+  },
+  {
+    "value": "c20",
+    "synonyms": [
+      "c20"
+    ]
+  },
+  {
+    "value": "eicosanoic",
+    "synonyms": [
+      "eicosanoic"
+    ]
+  },
+  {
+    "value": "icosanoic",
+    "synonyms": [
+      "icosanoic"
+    ]
+  },
+  {
+    "value": "arachic",
+    "synonyms": [
+      "arachic"
+    ]
+  },
+  {
+    "value": "f22d0",
+    "synonyms": [
+      "f22d0"
+    ]
+  },
+  {
+    "value": "behenic",
+    "synonyms": [
+      "behenic"
+    ]
+  },
+  {
+    "value": "c22",
+    "synonyms": [
+      "c22"
+    ]
+  },
+  {
+    "value": "docosanoic",
+    "synonyms": [
+      "docosanoic"
+    ]
+  },
+  {
+    "value": "docosanoate",
+    "synonyms": [
+      "docosanoate"
+    ]
+  },
+  {
+    "value": "hydrofol",
+    "synonyms": [
+      "hydrofol"
+    ]
+  },
+  {
+    "value": "f24d0",
+    "synonyms": [
+      "f24d0"
+    ]
+  },
+  {
+    "value": "lignoceric",
+    "synonyms": [
+      "lignoceric"
+    ]
+  },
+  {
+    "value": "c24",
+    "synonyms": [
+      "c24"
+    ]
+  },
+  {
+    "value": "tetracosanoic",
+    "synonyms": [
+      "tetracosanoic"
+    ]
+  },
+  {
+    "value": "f14d1cn5",
+    "synonyms": [
+      "f14d1cn5"
+    ]
+  },
+  {
+    "value": "myristoleic",
+    "synonyms": [
+      "myristoleic"
+    ]
+  },
+  {
+    "value": "1",
+    "synonyms": [
+      "1"
+    ]
+  },
+  {
+    "value": "tetradecenoic",
+    "synonyms": [
+      "tetradecenoic"
+    ]
+  },
+  {
+    "value": "myristolenic",
+    "synonyms": [
+      "myristolenic"
+    ]
+  },
+  {
+    "value": "oleomyristic",
+    "synonyms": [
+      "oleomyristic"
+    ]
+  },
+  {
+    "value": "omega",
+    "synonyms": [
+      "omega"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "5"
+    ]
+  },
+  {
+    "value": "monounsaturated",
+    "synonyms": [
+      "monounsaturated"
+    ]
+  },
+  {
+    "value": "mono",
+    "synonyms": [
+      "mono"
+    ]
+  },
+  {
+    "value": "f16d1cn7",
+    "synonyms": [
+      "f16d1cn7"
+    ]
+  },
+  {
+    "value": "palmitoleic",
+    "synonyms": [
+      "palmitoleic"
+    ]
+  },
+  {
+    "value": "hexadec",
+    "synonyms": [
+      "hexadec"
+    ]
+  },
+  {
+    "value": "enoic",
+    "synonyms": [
+      "enoic"
+    ]
+  },
+  {
+    "value": "hexadecenoic",
+    "synonyms": [
+      "hexadecenoic"
+    ]
+  },
+  {
+    "value": "7",
+    "synonyms": [
+      "7"
+    ]
+  },
+  {
+    "value": "f18d1cn9",
+    "synonyms": [
+      "f18d1cn9"
+    ]
+  },
+  {
+    "value": "oleic",
+    "synonyms": [
+      "oleic"
+    ]
+  },
+  {
+    "value": "1n9",
+    "synonyms": [
+      "1n9"
+    ]
+  },
+  {
+    "value": "octadec",
+    "synonyms": [
+      "octadec"
+    ]
+  },
+  {
+    "value": "octadecenoic",
+    "synonyms": [
+      "octadecenoic"
+    ]
+  },
+  {
+    "value": "9",
+    "synonyms": [
+      "9"
+    ]
+  },
+  {
+    "value": "f18d1tn9",
+    "synonyms": [
+      "f18d1tn9"
+    ]
+  },
+  {
+    "value": "elaidic",
+    "synonyms": [
+      "elaidic"
+    ]
+  },
+  {
+    "value": "1n9t",
+    "synonyms": [
+      "1n9t"
+    ]
+  },
+  {
+    "value": "trans",
+    "synonyms": [
+      "trans"
+    ]
+  },
+  {
+    "value": "waxy",
+    "synonyms": [
+      "waxy"
+    ]
+  },
+  {
+    "value": "f20d1cn9",
+    "synonyms": [
+      "f20d1cn9"
+    ]
+  },
+  {
+    "value": "eicosenoic",
+    "synonyms": [
+      "eicosenoic"
+    ]
+  },
+  {
+    "value": "gondoic",
+    "synonyms": [
+      "gondoic"
+    ]
+  },
+  {
+    "value": "eicos",
+    "synonyms": [
+      "eicos"
+    ]
+  },
+  {
+    "value": "icosenoic",
+    "synonyms": [
+      "icosenoic"
+    ]
+  },
+  {
+    "value": "icos",
+    "synonyms": [
+      "icos"
+    ]
+  },
+  {
+    "value": "f22d1cn9",
+    "synonyms": [
+      "f22d1cn9"
+    ]
+  },
+  {
+    "value": "erucic",
+    "synonyms": [
+      "erucic"
+    ]
+  },
+  {
+    "value": "docos",
+    "synonyms": [
+      "docos"
+    ]
+  },
+  {
+    "value": "f24d1cn9",
+    "synonyms": [
+      "f24d1cn9"
+    ]
+  },
+  {
+    "value": "nervonic",
+    "synonyms": [
+      "nervonic"
+    ]
+  },
+  {
+    "value": "tetracos",
+    "synonyms": [
+      "tetracos"
+    ]
+  },
+  {
+    "value": "tetracosenoic",
+    "synonyms": [
+      "tetracosenoic"
+    ]
+  },
+  {
+    "value": "f18d2cn6",
+    "synonyms": [
+      "f18d2cn6"
+    ]
+  },
+  {
+    "value": "linoleic",
+    "synonyms": [
+      "linoleic"
+    ]
+  },
+  {
+    "value": "2n6",
+    "synonyms": [
+      "2n6"
+    ]
+  },
+  {
+    "value": "octadeca",
+    "synonyms": [
+      "octadeca"
+    ]
+  },
+  {
+    "value": "dienoic",
+    "synonyms": [
+      "dienoic"
+    ]
+  },
+  {
+    "value": "octadecadienoic",
+    "synonyms": [
+      "octadecadienoic"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "6"
+    ]
+  },
+  {
+    "value": "polyunsaturated",
+    "synonyms": [
+      "polyunsaturated"
+    ]
+  },
+  {
+    "value": "poly",
+    "synonyms": [
+      "poly"
+    ]
+  },
+  {
+    "value": "f20d2n6",
+    "synonyms": [
+      "f20d2n6"
+    ]
+  },
+  {
+    "value": "eicosadienoic",
+    "synonyms": [
+      "eicosadienoic"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "2"
+    ]
+  },
+  {
+    "value": "eicosa",
+    "synonyms": [
+      "eicosa"
+    ]
+  },
+  {
+    "value": "icosa",
+    "synonyms": [
+      "icosa"
+    ]
+  },
+  {
+    "value": "f22d2n6",
+    "synonyms": [
+      "f22d2n6"
+    ]
+  },
+  {
+    "value": "docosadienoic",
+    "synonyms": [
+      "docosadienoic"
+    ]
+  },
+  {
+    "value": "docosa",
+    "synonyms": [
+      "docosa"
+    ]
+  },
+  {
+    "value": "f18d3n3",
+    "synonyms": [
+      "f18d3n3"
+    ]
+  },
+  {
+    "value": "linolenic",
+    "synonyms": [
+      "linolenic"
+    ]
+  },
+  {
+    "value": "3n3",
+    "synonyms": [
+      "3n3"
+    ]
+  },
+  {
+    "value": "ala",
+    "synonyms": [
+      "ala"
+    ]
+  },
+  {
+    "value": "lna",
+    "synonyms": [
+      "lna"
+    ]
+  },
+  {
+    "value": "octadecatrienoic",
+    "synonyms": [
+      "octadecatrienoic"
+    ]
+  },
+  {
+    "value": "trienoic",
+    "synonyms": [
+      "trienoic"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "3"
+    ]
+  },
+  {
+    "value": "f20d3n6",
+    "synonyms": [
+      "f20d3n6"
+    ]
+  },
+  {
+    "value": "eicosatrienoic",
+    "synonyms": [
+      "eicosatrienoic"
+    ]
+  },
+  {
+    "value": "3n6",
+    "synonyms": [
+      "3n6"
+    ]
+  },
+  {
+    "value": "f20d4n6",
+    "synonyms": [
+      "f20d4n6"
+    ]
+  },
+  {
+    "value": "arachidonic",
+    "synonyms": [
+      "arachidonic"
+    ]
+  },
+  {
+    "value": "4n6",
+    "synonyms": [
+      "4n6"
+    ]
+  },
+  {
+    "value": "aa",
+    "synonyms": [
+      "aa"
+    ]
+  },
+  {
+    "value": "ara",
+    "synonyms": [
+      "ara"
+    ]
+  },
+  {
+    "value": "eicosatetraenoic",
+    "synonyms": [
+      "eicosatetraenoic"
+    ]
+  },
+  {
+    "value": "tetraenoic",
+    "synonyms": [
+      "tetraenoic"
+    ]
+  },
+  {
+    "value": "arachidonate",
+    "synonyms": [
+      "arachidonate"
+    ]
+  },
+  {
+    "value": "f20d5n3",
+    "synonyms": [
+      "f20d5n3"
+    ]
+  },
+  {
+    "value": "eicosapentaenoic",
+    "synonyms": [
+      "eicosapentaenoic"
+    ]
+  },
+  {
+    "value": "5n3",
+    "synonyms": [
+      "5n3"
+    ]
+  },
+  {
+    "value": "epa",
+    "synonyms": [
+      "epa"
+    ]
+  },
+  {
+    "value": "icosapentaenoic",
+    "synonyms": [
+      "icosapentaenoic"
+    ]
+  },
+  {
+    "value": "timnodonic",
+    "synonyms": [
+      "timnodonic"
+    ]
+  },
+  {
+    "value": "pentaenoic",
+    "synonyms": [
+      "pentaenoic"
+    ]
+  },
+  {
+    "value": "f22d5n3",
+    "synonyms": [
+      "f22d5n3"
+    ]
+  },
+  {
+    "value": "docosapentaenoic",
+    "synonyms": [
+      "docosapentaenoic"
+    ]
+  },
+  {
+    "value": "dpa",
+    "synonyms": [
+      "dpa"
+    ]
+  },
+  {
+    "value": "f22d6n3",
+    "synonyms": [
+      "f22d6n3"
+    ]
+  },
+  {
+    "value": "docosahexaenoic",
+    "synonyms": [
+      "docosahexaenoic"
+    ]
+  },
+  {
+    "value": "6n3",
+    "synonyms": [
+      "6n3"
+    ]
+  },
+  {
+    "value": "dha",
+    "synonyms": [
+      "dha"
+    ]
+  },
+  {
+    "value": "hexaenoic",
+    "synonyms": [
+      "hexaenoic"
+    ]
+  },
+  {
+    "value": "cervonic",
+    "synonyms": [
+      "cervonic"
+    ]
+  },
+  {
+    "value": "doconexent",
+    "synonyms": [
+      "doconexent"
+    ]
+  },
+  {
+    "value": "fasat",
+    "synonyms": [
+      "fasat"
+    ]
+  },
+  {
+    "value": "acids",
+    "synonyms": [
+      "acids"
+    ]
+  },
+  {
+    "value": "tsfa",
+    "synonyms": [
+      "tsfa"
+    ]
+  },
+  {
+    "value": "fams",
+    "synonyms": [
+      "fams"
+    ]
+  },
+  {
+    "value": "tmufa",
+    "synonyms": [
+      "tmufa"
+    ]
+  },
+  {
+    "value": "fapu",
+    "synonyms": [
+      "fapu"
+    ]
+  },
+  {
+    "value": "tpufa",
+    "synonyms": [
+      "tpufa"
+    ]
+  },
+  {
+    "value": "cholc",
+    "synonyms": [
+      "cholc"
+    ]
+  },
+  {
+    "value": "cholesterol",
+    "synonyms": [
+      "cholesterol"
+    ]
+  },
+  {
+    "value": "cholesterin",
+    "synonyms": [
+      "cholesterin"
+    ]
+  },
+  {
+    "value": "cholesteryl",
+    "synonyms": [
+      "cholesteryl"
+    ]
+  },
+  {
+    "value": "alcohol",
+    "synonyms": [
+      "alcohol"
+    ]
+  },
+  {
+    "value": "zoosterol",
+    "synonyms": [
+      "zoosterol"
+    ]
+  },
+  {
+    "value": "animal",
+    "synonyms": [
+      "animal"
+    ]
+  },
+  {
+    "value": "sterol",
+    "synonyms": [
+      "sterol"
+    ]
+  },
+  {
+    "value": "his",
+    "synonyms": [
+      "his"
+    ]
+  },
+  {
+    "value": "histidine",
+    "synonyms": [
+      "histidine"
+    ]
+  },
+  {
+    "value": "amino",
+    "synonyms": [
+      "amino"
+    ]
+  },
+  {
+    "value": "ile",
+    "synonyms": [
+      "ile"
+    ]
+  },
+  {
+    "value": "isoleucine",
+    "synonyms": [
+      "isoleucine"
+    ]
+  },
+  {
+    "value": "i",
+    "synonyms": [
+      "i"
+    ]
+  },
+  {
+    "value": "leu",
+    "synonyms": [
+      "leu"
+    ]
+  },
+  {
+    "value": "leucine",
+    "synonyms": [
+      "leucine"
+    ]
+  },
+  {
+    "value": "l",
+    "synonyms": [
+      "l"
+    ]
+  },
+  {
+    "value": "lys",
+    "synonyms": [
+      "lys"
+    ]
+  },
+  {
+    "value": "lysine",
+    "synonyms": [
+      "lysine"
+    ]
+  },
+  {
+    "value": "met",
+    "synonyms": [
+      "met"
+    ]
+  },
+  {
+    "value": "methionine",
+    "synonyms": [
+      "methionine"
+    ]
+  },
+  {
+    "value": "cys",
+    "synonyms": [
+      "cys"
+    ]
+  },
+  {
+    "value": "cysteine",
+    "synonyms": [
+      "cysteine"
+    ]
+  },
+  {
+    "value": "phe",
+    "synonyms": [
+      "phe"
+    ]
+  },
+  {
+    "value": "phenylalanine",
+    "synonyms": [
+      "phenylalanine"
+    ]
+  },
+  {
+    "value": "f",
+    "synonyms": [
+      "f"
+    ]
+  },
+  {
+    "value": "thr",
+    "synonyms": [
+      "thr"
+    ]
+  },
+  {
+    "value": "threonine",
+    "synonyms": [
+      "threonine"
+    ]
+  },
+  {
+    "value": "t",
+    "synonyms": [
+      "t"
+    ]
+  },
+  {
+    "value": "trp",
+    "synonyms": [
+      "trp"
+    ]
+  },
+  {
+    "value": "tryptophan",
+    "synonyms": [
+      "tryptophan"
+    ]
+  },
+  {
+    "value": "w",
+    "synonyms": [
+      "w"
+    ]
+  },
+  {
+    "value": "val",
+    "synonyms": [
+      "val"
+    ]
+  },
+  {
+    "value": "valine",
+    "synonyms": [
+      "valine"
+    ]
+  },
+  {
+    "value": "v",
+    "synonyms": [
+      "v"
+    ]
+  },
+  {
+    "value": "alanine",
+    "synonyms": [
+      "alanine"
+    ]
+  },
+  {
+    "value": "arg",
+    "synonyms": [
+      "arg"
+    ]
+  },
+  {
+    "value": "arginine",
+    "synonyms": [
+      "arginine"
+    ]
+  },
+  {
+    "value": "asp",
+    "synonyms": [
+      "asp"
+    ]
+  },
+  {
+    "value": "aspartic",
+    "synonyms": [
+      "aspartic"
+    ]
+  },
+  {
+    "value": "glu",
+    "synonyms": [
+      "glu"
+    ]
+  },
+  {
+    "value": "gly",
+    "synonyms": [
+      "gly"
+    ]
+  },
+  {
+    "value": "glycine",
+    "synonyms": [
+      "glycine"
+    ]
+  },
+  {
+    "value": "pro",
+    "synonyms": [
+      "pro"
+    ]
+  },
+  {
+    "value": "proline",
+    "synonyms": [
+      "proline"
+    ]
+  },
+  {
+    "value": "ser",
+    "synonyms": [
+      "ser"
+    ]
+  },
+  {
+    "value": "serine",
+    "synonyms": [
+      "serine"
+    ]
+  },
+  {
+    "value": "s",
+    "synonyms": [
+      "s"
+    ]
+  },
+  {
+    "value": "tyr",
+    "synonyms": [
+      "tyr"
+    ]
+  },
+  {
+    "value": "tyrosine",
+    "synonyms": [
+      "tyrosine"
+    ]
+  },
+  {
+    "value": "y",
+    "synonyms": [
+      "y"
+    ]
+  },
+  {
+    "value": "oxalt",
+    "synonyms": [
+      "oxalt"
+    ]
+  },
+  {
+    "value": "oxalate",
+    "synonyms": [
+      "oxalate"
+    ]
+  },
+  {
+    "value": "ox",
+    "synonyms": [
+      "ox"
+    ]
+  },
+  {
+    "value": "ethanedioate",
+    "synonyms": [
+      "ethanedioate"
+    ]
+  },
+  {
+    "value": "oxalic",
+    "synonyms": [
+      "oxalic"
+    ]
+  },
+  {
+    "value": "organic",
+    "synonyms": [
+      "organic"
+    ]
+  },
+  {
+    "value": "oxals",
+    "synonyms": [
+      "oxals"
+    ]
+  },
+  {
+    "value": "oxali",
+    "synonyms": [
+      "oxali"
+    ]
+  },
+  {
+    "value": "caconac",
+    "synonyms": [
+      "caconac"
+    ]
+  },
+  {
+    "value": "cis",
+    "synonyms": [
+      "cis"
+    ]
+  },
+  {
+    "value": "aconitic",
+    "synonyms": [
+      "aconitic"
+    ]
+  },
+  {
+    "value": "achilleic",
+    "synonyms": [
+      "achilleic"
+    ]
+  },
+  {
+    "value": "equisetic",
+    "synonyms": [
+      "equisetic"
+    ]
+  },
+  {
+    "value": "citridinic",
+    "synonyms": [
+      "citridinic"
+    ]
+  },
+  {
+    "value": "pyrocitric",
+    "synonyms": [
+      "pyrocitric"
+    ]
+  },
+  {
+    "value": "citac",
+    "synonyms": [
+      "citac"
+    ]
+  },
+  {
+    "value": "citric",
+    "synonyms": [
+      "citric"
+    ]
+  },
+  {
+    "value": "hydroxypropane",
+    "synonyms": [
+      "hydroxypropane"
+    ]
+  },
+  {
+    "value": "tricarboxylic",
+    "synonyms": [
+      "tricarboxylic"
+    ]
+  },
+  {
+    "value": "fumac",
+    "synonyms": [
+      "fumac"
+    ]
+  },
+  {
+    "value": "fumaric",
+    "synonyms": [
+      "fumaric"
+    ]
+  },
+  {
+    "value": "butenedioic",
+    "synonyms": [
+      "butenedioic"
+    ]
+  },
+  {
+    "value": "but",
+    "synonyms": [
+      "but"
+    ]
+  },
+  {
+    "value": "enedioic",
+    "synonyms": [
+      "enedioic"
+    ]
+  },
+  {
+    "value": "ethylenedicarboxylic",
+    "synonyms": [
+      "ethylenedicarboxylic"
+    ]
+  },
+  {
+    "value": "allomaleic",
+    "synonyms": [
+      "allomaleic"
+    ]
+  },
+  {
+    "value": "boletic",
+    "synonyms": [
+      "boletic"
+    ]
+  },
+  {
+    "value": "donitic",
+    "synonyms": [
+      "donitic"
+    ]
+  },
+  {
+    "value": "lichenic",
+    "synonyms": [
+      "lichenic"
+    ]
+  },
+  {
+    "value": "malac",
+    "synonyms": [
+      "malac"
+    ]
+  },
+  {
+    "value": "malic",
+    "synonyms": [
+      "malic"
+    ]
+  },
+  {
+    "value": "hydroxybutanedioic",
+    "synonyms": [
+      "hydroxybutanedioic"
+    ]
+  },
+  {
+    "value": "hydroxysuccinic",
+    "synonyms": [
+      "hydroxysuccinic"
+    ]
+  },
+  {
+    "value": "quinac",
+    "synonyms": [
+      "quinac"
+    ]
+  },
+  {
+    "value": "quinic",
+    "synonyms": [
+      "quinic"
+    ]
+  },
+  {
+    "value": "tetrahydroxycyclohexanecarboxylic",
+    "synonyms": [
+      "tetrahydroxycyclohexanecarboxylic"
+    ]
+  },
+  {
+    "value": "tetrahydroxy",
+    "synonyms": [
+      "tetrahydroxy"
+    ]
+  },
+  {
+    "value": "cyclohexanecarboxylic",
+    "synonyms": [
+      "cyclohexanecarboxylic"
+    ]
+  },
+  {
+    "value": "cyclitol",
+    "synonyms": [
+      "cyclitol"
+    ]
+  },
+  {
+    "value": "cyclic",
+    "synonyms": [
+      "cyclic"
+    ]
+  },
+  {
+    "value": "polyol",
+    "synonyms": [
+      "polyol"
+    ]
+  },
+  {
+    "value": "sucac",
+    "synonyms": [
+      "sucac"
+    ]
+  },
+  {
+    "value": "succinic",
+    "synonyms": [
+      "succinic"
+    ]
+  },
+  {
+    "value": "butandioic",
+    "synonyms": [
+      "butandioic"
+    ]
+  },
+  {
+    "value": "dicarboxylic",
+    "synonyms": [
+      "dicarboxylic"
+    ]
+  },
+  {
+    "value": "tarac",
+    "synonyms": [
+      "tarac"
+    ]
+  },
+  {
+    "value": "tartaric",
+    "synonyms": [
+      "tartaric"
+    ]
+  },
+  {
+    "value": "dihydroxybutanedioic",
+    "synonyms": [
+      "dihydroxybutanedioic"
+    ]
+  },
+  {
+    "value": "dihydroxysuccinic",
+    "synonyms": [
+      "dihydroxysuccinic"
+    ]
+  },
+  {
+    "value": "threaric",
+    "synonyms": [
+      "threaric"
+    ]
+  },
+  {
+    "value": "racemic",
+    "synonyms": [
+      "racemic"
+    ]
+  },
+  {
+    "value": "uvic",
+    "synonyms": [
+      "uvic"
+    ]
+  },
+  {
+    "value": "paratartaric",
+    "synonyms": [
+      "paratartaric"
+    ]
+  },
+  {
+    "value": "dhbenzac34",
+    "synonyms": [
+      "dhbenzac34"
+    ]
+  },
+  {
+    "value": "3,4",
+    "synonyms": [
+      "3,4"
+    ]
+  },
+  {
+    "value": "dihydroxy",
+    "synonyms": [
+      "dihydroxy"
+    ]
+  },
+  {
+    "value": "benzoic",
+    "synonyms": [
+      "benzoic"
+    ]
+  },
+  {
+    "value": "dihydroxybenzoic",
+    "synonyms": [
+      "dihydroxybenzoic"
+    ]
+  },
+  {
+    "value": "polyphenol",
+    "synonyms": [
+      "polyphenol"
+    ]
+  },
+  {
+    "value": "phenolic",
+    "synonyms": [
+      "phenolic"
+    ]
+  },
+  {
+    "value": "phyto",
+    "synonyms": [
+      "phyto"
+    ]
+  },
+  {
+    "value": "hbenzal3",
+    "synonyms": [
+      "hbenzal3"
+    ]
+  },
+  {
+    "value": "hydroxy",
+    "synonyms": [
+      "hydroxy"
+    ]
+  },
+  {
+    "value": "benzaldehyde",
+    "synonyms": [
+      "benzaldehyde"
+    ]
+  },
+  {
+    "value": "hydroxybenzaldehyde",
+    "synonyms": [
+      "hydroxybenzaldehyde"
+    ]
+  },
+  {
+    "value": "aldehyde",
+    "synonyms": [
+      "aldehyde"
+    ]
+  },
+  {
+    "value": "pcathac",
+    "synonyms": [
+      "pcathac"
+    ]
+  },
+  {
+    "value": "protocatechuic",
+    "synonyms": [
+      "protocatechuic"
+    ]
+  },
+  {
+    "value": "pca",
+    "synonyms": [
+      "pca"
+    ]
+  },
+  {
+    "value": "protocatechuate",
+    "synonyms": [
+      "protocatechuate"
+    ]
+  },
+  {
+    "value": "light",
+    "synonyms": [
+      "light"
+    ]
+  },
+  {
+    "value": "vanlac",
+    "synonyms": [
+      "vanlac"
+    ]
+  },
+  {
+    "value": "vanillic",
+    "synonyms": [
+      "vanillic"
+    ]
+  },
+  {
+    "value": "vanillin",
+    "synonyms": [
+      "vanillin"
+    ]
+  },
+  {
+    "value": "methoxybenzoic",
+    "synonyms": [
+      "methoxybenzoic"
+    ]
+  },
+  {
+    "value": "anisic",
+    "synonyms": [
+      "anisic"
+    ]
+  },
+  {
+    "value": "vanillate",
+    "synonyms": [
+      "vanillate"
+    ]
+  },
+  {
+    "value": "aromatic",
+    "synonyms": [
+      "aromatic"
+    ]
+  },
+  {
+    "value": "gallac",
+    "synonyms": [
+      "gallac"
+    ]
+  },
+  {
+    "value": "gallic",
+    "synonyms": [
+      "gallic"
+    ]
+  },
+  {
+    "value": "trihydroxybenzoic",
+    "synonyms": [
+      "trihydroxybenzoic"
+    ]
+  },
+  {
+    "value": "trihydroxy",
+    "synonyms": [
+      "trihydroxy"
+    ]
+  },
+  {
+    "value": "pale",
+    "synonyms": [
+      "pale"
+    ]
+  },
+  {
+    "value": "fawn",
+    "synonyms": [
+      "fawn"
+    ]
+  },
+  {
+    "value": "cinmac",
+    "synonyms": [
+      "cinmac"
+    ]
+  },
+  {
+    "value": "cinnamic",
+    "synonyms": [
+      "cinnamic"
+    ]
+  },
+  {
+    "value": "phenylprop",
+    "synonyms": [
+      "phenylprop"
+    ]
+  },
+  {
+    "value": "phenylacrylic",
+    "synonyms": [
+      "phenylacrylic"
+    ]
+  },
+  {
+    "value": "cinnamylic",
+    "synonyms": [
+      "cinnamylic"
+    ]
+  },
+  {
+    "value": "benzenepropenoic",
+    "synonyms": [
+      "benzenepropenoic"
+    ]
+  },
+  {
+    "value": "hydroxycinnamic",
+    "synonyms": [
+      "hydroxycinnamic"
+    ]
+  },
+  {
+    "value": "monoclinic",
+    "synonyms": [
+      "monoclinic"
+    ]
+  },
+  {
+    "value": "coumaco",
+    "synonyms": [
+      "coumaco"
+    ]
+  },
+  {
+    "value": "o",
+    "synonyms": [
+      "o"
+    ]
+  },
+  {
+    "value": "coumaric",
+    "synonyms": [
+      "coumaric"
+    ]
+  },
+  {
+    "value": "ortho",
+    "synonyms": [
+      "ortho"
+    ]
+  },
+  {
+    "value": "hydroxyphenyl",
+    "synonyms": [
+      "hydroxyphenyl"
+    ]
+  },
+  {
+    "value": "prop",
+    "synonyms": [
+      "prop"
+    ]
+  },
+  {
+    "value": "propenoic",
+    "synonyms": [
+      "propenoic"
+    ]
+  },
+  {
+    "value": "coumacp",
+    "synonyms": [
+      "coumacp"
+    ]
+  },
+  {
+    "value": "para",
+    "synonyms": [
+      "para"
+    ]
+  },
+  {
+    "value": "acrylic",
+    "synonyms": [
+      "acrylic"
+    ]
+  },
+  {
+    "value": "caffac",
+    "synonyms": [
+      "caffac"
+    ]
+  },
+  {
+    "value": "caffeic",
+    "synonyms": [
+      "caffeic"
+    ]
+  },
+  {
+    "value": "dihydroxyphenyl",
+    "synonyms": [
+      "dihydroxyphenyl"
+    ]
+  },
+  {
+    "value": "caffeate",
+    "synonyms": [
+      "caffeate"
+    ]
+  },
+  {
+    "value": "cinnamate",
+    "synonyms": [
+      "cinnamate"
+    ]
+  },
+  {
+    "value": "dihydroxybenzeneacrylic",
+    "synonyms": [
+      "dihydroxybenzeneacrylic"
+    ]
+  },
+  {
+    "value": "chlrac",
+    "synonyms": [
+      "chlrac"
+    ]
+  },
+  {
+    "value": "chlorogenic",
+    "synonyms": [
+      "chlorogenic"
+    ]
+  },
+  {
+    "value": "cqa",
+    "synonyms": [
+      "cqa"
+    ]
+  },
+  {
+    "value": "dihydroxycinnamoyl",
+    "synonyms": [
+      "dihydroxycinnamoyl"
+    ]
+  },
+  {
+    "value": "quinate",
+    "synonyms": [
+      "quinate"
+    ]
+  },
+  {
+    "value": "caffeoylquinate",
+    "synonyms": [
+      "caffeoylquinate"
+    ]
+  },
+  {
+    "value": "caffeoylquinic",
+    "synonyms": [
+      "caffeoylquinic"
+    ]
+  },
+  {
+    "value": "chlorogenate",
+    "synonyms": [
+      "chlorogenate"
+    ]
+  },
+  {
+    "value": "heriguard",
+    "synonyms": [
+      "heriguard"
+    ]
+  },
+  {
+    "value": "ester",
+    "synonyms": [
+      "ester"
+    ]
+  },
+  {
+    "value": "ferac",
+    "synonyms": [
+      "ferac"
+    ]
+  },
+  {
+    "value": "ferulic",
+    "synonyms": [
+      "ferulic"
+    ]
+  },
+  {
+    "value": "methoxyphenyl",
+    "synonyms": [
+      "methoxyphenyl"
+    ]
+  },
+  {
+    "value": "methoxy",
+    "synonyms": [
+      "methoxy"
+    ]
+  },
+  {
+    "value": "methoxycinnamic",
+    "synonyms": [
+      "methoxycinnamic"
+    ]
+  },
+  {
+    "value": "ferulate",
+    "synonyms": [
+      "ferulate"
+    ]
+  },
+  {
+    "value": "coniferic",
+    "synonyms": [
+      "coniferic"
+    ]
+  },
+  {
+    "value": "apigen",
+    "synonyms": [
+      "apigen"
+    ]
+  },
+  {
+    "value": "apigenin",
+    "synonyms": [
+      "apigenin"
+    ]
+  },
+  {
+    "value": "flavone",
+    "synonyms": [
+      "flavone"
+    ]
+  },
+  {
+    "value": "flavonoid",
+    "synonyms": [
+      "flavonoid"
+    ]
+  },
+  {
+    "value": "polyhydroxyphenol",
+    "synonyms": [
+      "polyhydroxyphenol"
+    ]
+  },
+  {
+    "value": "hydroxyl",
+    "synonyms": [
+      "hydroxyl"
+    ]
+  },
+  {
+    "value": "trihydroxyflavone",
+    "synonyms": [
+      "trihydroxyflavone"
+    ]
+  },
+  {
+    "value": "apigenine",
+    "synonyms": [
+      "apigenine"
+    ]
+  },
+  {
+    "value": "chamomile",
+    "synonyms": [
+      "chamomile"
+    ]
+  },
+  {
+    "value": "apigenol",
+    "synonyms": [
+      "apigenol"
+    ]
+  },
+  {
+    "value": "spigenin",
+    "synonyms": [
+      "spigenin"
+    ]
+  },
+  {
+    "value": "versulin",
+    "synonyms": [
+      "versulin"
+    ]
+  },
+  {
+    "value": "aglycone",
+    "synonyms": [
+      "aglycone"
+    ]
+  },
+  {
+    "value": "glycoside",
+    "synonyms": [
+      "glycoside"
+    ]
+  },
+  {
+    "value": "apigen6cgls",
+    "synonyms": [
+      "apigen6cgls"
+    ]
+  },
+  {
+    "value": "gluoside",
+    "synonyms": [
+      "gluoside"
+    ]
+  },
+  {
+    "value": "isovitexin",
+    "synonyms": [
+      "isovitexin"
+    ]
+  },
+  {
+    "value": "homovitexin",
+    "synonyms": [
+      "homovitexin"
+    ]
+  },
+  {
+    "value": "saponaretin",
+    "synonyms": [
+      "saponaretin"
+    ]
+  },
+  {
+    "value": "apigen7onshps",
+    "synonyms": [
+      "apigen7onshps"
+    ]
+  },
+  {
+    "value": "neohesperidoside",
+    "synonyms": [
+      "neohesperidoside"
+    ]
+  },
+  {
+    "value": "rhoifolin",
+    "synonyms": [
+      "rhoifolin"
+    ]
+  },
+  {
+    "value": "luteol",
+    "synonyms": [
+      "luteol"
+    ]
+  },
+  {
+    "value": "luteolin",
+    "synonyms": [
+      "luteolin"
+    ]
+  },
+  {
+    "value": "luteolol",
+    "synonyms": [
+      "luteolol"
+    ]
+  },
+  {
+    "value": "digitoflavone",
+    "synonyms": [
+      "digitoflavone"
+    ]
+  },
+  {
+    "value": "flacitran",
+    "synonyms": [
+      "flacitran"
+    ]
+  },
+  {
+    "value": "luteoline",
+    "synonyms": [
+      "luteoline"
+    ]
+  },
+  {
+    "value": "kaemf",
+    "synonyms": [
+      "kaemf"
+    ]
+  },
+  {
+    "value": "kaempferol",
+    "synonyms": [
+      "kaempferol"
+    ]
+  },
+  {
+    "value": "flavonol",
+    "synonyms": [
+      "flavonol"
+    ]
+  },
+  {
+    "value": "kaempherol",
+    "synonyms": [
+      "kaempherol"
+    ]
+  },
+  {
+    "value": "robigenin",
+    "synonyms": [
+      "robigenin"
+    ]
+  },
+  {
+    "value": "pelargidenolon",
+    "synonyms": [
+      "pelargidenolon"
+    ]
+  },
+  {
+    "value": "rhamnolutein",
+    "synonyms": [
+      "rhamnolutein"
+    ]
+  },
+  {
+    "value": "rhamnolutin",
+    "synonyms": [
+      "rhamnolutin"
+    ]
+  },
+  {
+    "value": "populnetin",
+    "synonyms": [
+      "populnetin"
+    ]
+  },
+  {
+    "value": "trifolitin",
+    "synonyms": [
+      "trifolitin"
+    ]
+  },
+  {
+    "value": "kempferol",
+    "synonyms": [
+      "kempferol"
+    ]
+  },
+  {
+    "value": "swartziol",
+    "synonyms": [
+      "swartziol"
+    ]
+  },
+  {
+    "value": "querce",
+    "synonyms": [
+      "querce"
+    ]
+  },
+  {
+    "value": "quercetin",
+    "synonyms": [
+      "quercetin"
+    ]
+  },
+  {
+    "value": "bitter",
+    "synonyms": [
+      "bitter"
+    ]
+  },
+  {
+    "value": "flavor",
+    "synonyms": [
+      "flavor"
+    ]
+  },
+  {
+    "value": "sophoretin",
+    "synonyms": [
+      "sophoretin"
+    ]
+  },
+  {
+    "value": "meletin",
+    "synonyms": [
+      "meletin"
+    ]
+  },
+  {
+    "value": "quercetine",
+    "synonyms": [
+      "quercetine"
+    ]
+  },
+  {
+    "value": "xanthaurine",
+    "synonyms": [
+      "xanthaurine"
+    ]
+  },
+  {
+    "value": "quercetol",
+    "synonyms": [
+      "quercetol"
+    ]
+  },
+  {
+    "value": "quercitin",
+    "synonyms": [
+      "quercitin"
+    ]
+  },
+  {
+    "value": "quertine",
+    "synonyms": [
+      "quertine"
+    ]
+  },
+  {
+    "value": "flavin",
+    "synonyms": [
+      "flavin"
+    ]
+  },
+  {
+    "value": "querce3bdgls",
+    "synonyms": [
+      "querce3bdgls"
+    ]
+  },
+  {
+    "value": "glucoside",
+    "synonyms": [
+      "glucoside"
+    ]
+  },
+  {
+    "value": "isoquercetin",
+    "synonyms": [
+      "isoquercetin"
+    ]
+  },
+  {
+    "value": "isoquercitrin",
+    "synonyms": [
+      "isoquercitrin"
+    ]
+  },
+  {
+    "value": "isoquercitroside",
+    "synonyms": [
+      "isoquercitroside"
+    ]
+  },
+  {
+    "value": "isoquercitin",
+    "synonyms": [
+      "isoquercitin"
+    ]
+  },
+  {
+    "value": "trifoliin",
+    "synonyms": [
+      "trifoliin"
+    ]
+  },
+  {
+    "value": "isotrifolin",
+    "synonyms": [
+      "isotrifolin"
+    ]
+  },
+  {
+    "value": "isohyperoside",
+    "synonyms": [
+      "isohyperoside"
+    ]
+  },
+  {
+    "value": "isotrifoliin",
+    "synonyms": [
+      "isotrifoliin"
+    ]
+  },
+  {
+    "value": "glucopyranoside",
+    "synonyms": [
+      "glucopyranoside"
+    ]
+  },
+  {
+    "value": "querce3ortns",
+    "synonyms": [
+      "querce3ortns"
+    ]
+  },
+  {
+    "value": "rutinoside",
+    "synonyms": [
+      "rutinoside"
+    ]
+  },
+  {
+    "value": "rutin",
+    "synonyms": [
+      "rutin"
+    ]
+  },
+  {
+    "value": "rutoside",
+    "synonyms": [
+      "rutoside"
+    ]
+  },
+  {
+    "value": "sophorin",
+    "synonyms": [
+      "sophorin"
+    ]
+  },
+  {
+    "value": "phytomelin",
+    "synonyms": [
+      "phytomelin"
+    ]
+  },
+  {
+    "value": "birutan",
+    "synonyms": [
+      "birutan"
+    ]
+  },
+  {
+    "value": "eldrin",
+    "synonyms": [
+      "eldrin"
+    ]
+  },
+  {
+    "value": "globularicitrin",
+    "synonyms": [
+      "globularicitrin"
+    ]
+  },
+  {
+    "value": "violaquercitrin",
+    "synonyms": [
+      "violaquercitrin"
+    ]
+  },
+  {
+    "value": "querce3bgls",
+    "synonyms": [
+      "querce3bgls"
+    ]
+  },
+  {
+    "value": "galactoside",
+    "synonyms": [
+      "galactoside"
+    ]
+  },
+  {
+    "value": "hyperoside",
+    "synonyms": [
+      "hyperoside"
+    ]
+  },
+  {
+    "value": "hyperozide",
+    "synonyms": [
+      "hyperozide"
+    ]
+  },
+  {
+    "value": "hyperasid",
+    "synonyms": [
+      "hyperasid"
+    ]
+  },
+  {
+    "value": "hyperosid",
+    "synonyms": [
+      "hyperosid"
+    ]
+  },
+  {
+    "value": "hyperin",
+    "synonyms": [
+      "hyperin"
+    ]
+  },
+  {
+    "value": "isormt",
+    "synonyms": [
+      "isormt"
+    ]
+  },
+  {
+    "value": "isorhamnetin",
+    "synonyms": [
+      "isorhamnetin"
+    ]
+  },
+  {
+    "value": "methylquercetin",
+    "synonyms": [
+      "methylquercetin"
+    ]
+  },
+  {
+    "value": "isorhamnetol",
+    "synonyms": [
+      "isorhamnetol"
+    ]
+  },
+  {
+    "value": "isorhamentin",
+    "synonyms": [
+      "isorhamentin"
+    ]
+  },
+  {
+    "value": "isorhamnetine",
+    "synonyms": [
+      "isorhamnetine"
+    ]
+  },
+  {
+    "value": "rhamnetin",
+    "synonyms": [
+      "rhamnetin"
+    ]
+  },
+  {
+    "value": "methoxyquercetin",
+    "synonyms": [
+      "methoxyquercetin"
+    ]
+  },
+  {
+    "value": "myrct",
+    "synonyms": [
+      "myrct"
+    ]
+  },
+  {
+    "value": "myricetin",
+    "synonyms": [
+      "myricetin"
+    ]
+  },
+  {
+    "value": "cannabiscetin",
+    "synonyms": [
+      "cannabiscetin"
+    ]
+  },
+  {
+    "value": "myricetol",
+    "synonyms": [
+      "myricetol"
+    ]
+  },
+  {
+    "value": "myricitin",
+    "synonyms": [
+      "myricitin"
+    ]
+  },
+  {
+    "value": "rsvrtol",
+    "synonyms": [
+      "rsvrtol"
+    ]
+  },
+  {
+    "value": "resvertrol",
+    "synonyms": [
+      "resvertrol"
+    ]
+  },
+  {
+    "value": "stilbenoid",
+    "synonyms": [
+      "stilbenoid"
+    ]
+  },
+  {
+    "value": "phenylpropanoid",
+    "synonyms": [
+      "phenylpropanoid"
+    ]
+  },
+  {
+    "value": "trihydroxystilbene",
+    "synonyms": [
+      "trihydroxystilbene"
+    ]
+  },
+  {
+    "value": "stilbenetriol",
+    "synonyms": [
+      "stilbenetriol"
+    ]
+  },
+  {
+    "value": "phytoalexin",
+    "synonyms": [
+      "phytoalexin"
+    ]
+  },
+  {
+    "value": "hespt",
+    "synonyms": [
+      "hespt"
+    ]
+  },
+  {
+    "value": "hesperetin",
+    "synonyms": [
+      "hesperetin"
+    ]
+  },
+  {
+    "value": "eriodictyol",
+    "synonyms": [
+      "eriodictyol"
+    ]
+  },
+  {
+    "value": "flavanone",
+    "synonyms": [
+      "flavanone"
+    ]
+  },
+  {
+    "value": "flavanoid",
+    "synonyms": [
+      "flavanoid"
+    ]
+  },
+  {
+    "value": "narng",
+    "synonyms": [
+      "narng"
+    ]
+  },
+  {
+    "value": "naringenin",
+    "synonyms": [
+      "naringenin"
+    ]
+  },
+  {
+    "value": "naringetol",
+    "synonyms": [
+      "naringetol"
+    ]
+  },
+  {
+    "value": "salipurol",
+    "synonyms": [
+      "salipurol"
+    ]
+  },
+  {
+    "value": "salipurpol",
+    "synonyms": [
+      "salipurpol"
+    ]
+  },
+  {
+    "value": "trihydroxyflavanone",
+    "synonyms": [
+      "trihydroxyflavanone"
+    ]
+  },
+  {
+    "value": "hespd",
+    "synonyms": [
+      "hespd"
+    ]
+  },
+  {
+    "value": "hesperdin",
+    "synonyms": [
+      "hesperdin"
+    ]
+  },
+  {
+    "value": "flavan",
+    "synonyms": [
+      "flavan"
+    ]
+  },
+  {
+    "value": "daidzn",
+    "synonyms": [
+      "daidzn"
+    ]
+  },
+  {
+    "value": "daidzein",
+    "synonyms": [
+      "daidzein"
+    ]
+  },
+  {
+    "value": "formononetin",
+    "synonyms": [
+      "formononetin"
+    ]
+  },
+  {
+    "value": "isoflavone",
+    "synonyms": [
+      "isoflavone"
+    ]
+  },
+  {
+    "value": "phytoestrogens",
+    "synonyms": [
+      "phytoestrogens"
+    ]
+  },
+  {
+    "value": "isoflavonoid",
+    "synonyms": [
+      "isoflavonoid"
+    ]
+  },
+  {
+    "value": "prism",
+    "synonyms": [
+      "prism"
+    ]
+  },
+  {
+    "value": "dihydroxyisoflavone",
+    "synonyms": [
+      "dihydroxyisoflavone"
+    ]
+  },
+  {
+    "value": "daidzeol",
+    "synonyms": [
+      "daidzeol"
+    ]
+  },
+  {
+    "value": "isoaurostatin",
+    "synonyms": [
+      "isoaurostatin"
+    ]
+  },
+  {
+    "value": "gnstein",
+    "synonyms": [
+      "gnstein"
+    ]
+  },
+  {
+    "value": "genistein",
+    "synonyms": [
+      "genistein"
+    ]
+  },
+  {
+    "value": "biochanin",
+    "synonyms": [
+      "biochanin"
+    ]
+  },
+  {
+    "value": "angiogenesis",
+    "synonyms": [
+      "angiogenesis"
+    ]
+  },
+  {
+    "value": "inhibitor",
+    "synonyms": [
+      "inhibitor"
+    ]
+  },
+  {
+    "value": "epicatec",
+    "synonyms": [
+      "epicatec"
+    ]
+  },
+  {
+    "value": "epicatechin",
+    "synonyms": [
+      "epicatechin"
+    ]
+  },
+  {
+    "value": "flavanol",
+    "synonyms": [
+      "flavanol"
+    ]
+  },
+  {
+    "value": "catechin",
+    "synonyms": [
+      "catechin"
+    ]
+  },
+  {
+    "value": "epicategc",
+    "synonyms": [
+      "epicategc"
+    ]
+  },
+  {
+    "value": "epigallo",
+    "synonyms": [
+      "epigallo"
+    ]
+  },
+  {
+    "value": "epicatgc3gal",
+    "synonyms": [
+      "epicatgc3gal"
+    ]
+  },
+  {
+    "value": "gallate",
+    "synonyms": [
+      "gallate"
+    ]
+  },
+  {
+    "value": "egcg",
+    "synonyms": [
+      "egcg"
+    ]
+  },
+  {
+    "value": "catec",
+    "synonyms": [
+      "catec"
+    ]
+  },
+  {
+    "value": "+",
+    "synonyms": [
+      "+"
+    ]
+  },
+  {
+    "value": "cianidanol",
+    "synonyms": [
+      "cianidanol"
+    ]
+  },
+  {
+    "value": "cyanidanol",
+    "synonyms": [
+      "cyanidanol"
+    ]
+  },
+  {
+    "value": "catechinic",
+    "synonyms": [
+      "catechinic"
+    ]
+  },
+  {
+    "value": "catechuic",
+    "synonyms": [
+      "catechuic"
+    ]
+  },
+  {
+    "value": "cianidol",
+    "synonyms": [
+      "cianidol"
+    ]
+  },
+  {
+    "value": "dexcyanidanol",
+    "synonyms": [
+      "dexcyanidanol"
+    ]
+  },
+  {
+    "value": "flavanpentol",
+    "synonyms": [
+      "flavanpentol"
+    ]
+  },
+  {
+    "value": "galcatecgal",
+    "synonyms": [
+      "galcatecgal"
+    ]
+  },
+  {
+    "value": "gallocatechin",
+    "synonyms": [
+      "gallocatechin"
+    ]
+  },
+  {
+    "value": "gcg",
+    "synonyms": [
+      "gcg"
+    ]
+  },
+  {
+    "value": "galcatec",
+    "synonyms": [
+      "galcatec"
+    ]
+  },
+  {
+    "value": "gc",
+    "synonyms": [
+      "gc"
+    ]
+  },
+  {
+    "value": "gallocatechol",
+    "synonyms": [
+      "gallocatechol"
+    ]
+  },
+  {
+    "value": "syrgac",
+    "synonyms": [
+      "syrgac"
+    ]
+  },
+  {
+    "value": "syringic",
+    "synonyms": [
+      "syringic"
+    ]
+  },
+  {
+    "value": "sinpac",
+    "synonyms": [
+      "sinpac"
+    ]
+  },
+  {
+    "value": "sinapinic",
+    "synonyms": [
+      "sinapinic"
+    ]
+  },
+  {
+    "value": "sinapic",
+    "synonyms": [
+      "sinapic"
+    ]
+  },
+  {
+    "value": "dimethoxycinnamic",
+    "synonyms": [
+      "dimethoxycinnamic"
+    ]
+  },
+  {
+    "value": "ellgac",
+    "synonyms": [
+      "ellgac"
+    ]
+  },
+  {
+    "value": "ellagic",
+    "synonyms": [
+      "ellagic"
+    ]
+  },
+  {
+    "value": "dilactone",
+    "synonyms": [
+      "dilactone"
+    ]
+  },
+  {
+    "value": "hexahydroxydiphenic",
+    "synonyms": [
+      "hexahydroxydiphenic"
+    ]
+  },
+  {
+    "value": "antiproliferative",
+    "synonyms": [
+      "antiproliferative"
+    ]
+  },
+  {
+    "value": "polyph",
+    "synonyms": [
+      "polyph"
+    ]
+  },
+  {
+    "value": "polyphenols",
+    "synonyms": [
+      "polyphenols"
+    ]
+  },
+  {
+    "value": "rafs",
+    "synonyms": [
+      "rafs"
+    ]
+  },
+  {
+    "value": "raffinose",
+    "synonyms": [
+      "raffinose"
+    ]
+  },
+  {
+    "value": "rafinosa",
+    "synonyms": [
+      "rafinosa"
+    ]
+  },
+  {
+    "value": "gossypose",
+    "synonyms": [
+      "gossypose"
+    ]
+  },
+  {
+    "value": "melitose",
+    "synonyms": [
+      "melitose"
+    ]
+  },
+  {
+    "value": "melitriose",
+    "synonyms": [
+      "melitriose"
+    ]
+  },
+  {
+    "value": "galactosylsucrose",
+    "synonyms": [
+      "galactosylsucrose"
+    ]
+  },
+  {
+    "value": "fructofuranosyl",
+    "synonyms": [
+      "fructofuranosyl"
+    ]
+  },
+  {
+    "value": "galactopyranosyl",
+    "synonyms": [
+      "galactopyranosyl"
+    ]
+  },
+  {
+    "value": "trisaccharide",
+    "synonyms": [
+      "trisaccharide"
+    ]
+  },
+  {
+    "value": "oligosaccharide",
+    "synonyms": [
+      "oligosaccharide"
+    ]
+  },
+  {
+    "value": "stas",
+    "synonyms": [
+      "stas"
+    ]
+  },
+  {
+    "value": "stachyose",
+    "synonyms": [
+      "stachyose"
+    ]
+  },
+  {
+    "value": "tetrasaccharide",
+    "synonyms": [
+      "tetrasaccharide"
+    ]
+  },
+  {
+    "value": "vers",
+    "synonyms": [
+      "vers"
+    ]
+  },
+  {
+    "value": "verbascose",
+    "synonyms": [
+      "verbascose"
+    ]
+  },
+  {
+    "value": "pentasaccharide",
+    "synonyms": [
+      "pentasaccharide"
+    ]
+  },
+  {
+    "value": "ajgs",
+    "synonyms": [
+      "ajgs"
+    ]
+  },
+  {
+    "value": "ajugose",
+    "synonyms": [
+      "ajugose"
+    ]
+  },
+  {
+    "value": "hexasaccharide",
+    "synonyms": [
+      "hexasaccharide"
+    ]
+  },
+  {
+    "value": "camt",
+    "synonyms": [
+      "camt"
+    ]
+  },
+  {
+    "value": "campesterol",
+    "synonyms": [
+      "campesterol"
+    ]
+  },
+  {
+    "value": "phytosterol",
+    "synonyms": [
+      "phytosterol"
+    ]
+  },
+  {
+    "value": "plant",
+    "synonyms": [
+      "plant"
+    ]
+  },
+  {
+    "value": "phytosteroid",
+    "synonyms": [
+      "phytosteroid"
+    ]
+  },
+  {
+    "value": "steroid",
+    "synonyms": [
+      "steroid"
+    ]
+  },
+  {
+    "value": "campestanol",
+    "synonyms": [
+      "campestanol"
+    ]
+  },
+  {
+    "value": "stgstr",
+    "synonyms": [
+      "stgstr"
+    ]
+  },
+  {
+    "value": "stigmasterol",
+    "synonyms": [
+      "stigmasterol"
+    ]
+  },
+  {
+    "value": "wulzen",
+    "synonyms": [
+      "wulzen"
+    ]
+  },
+  {
+    "value": "anti",
+    "synonyms": [
+      "anti"
+    ]
+  },
+  {
+    "value": "stiffness",
+    "synonyms": [
+      "stiffness"
+    ]
+  },
+  {
+    "value": "factor",
+    "synonyms": [
+      "factor"
+    ]
+  },
+  {
+    "value": "stostrb",
+    "synonyms": [
+      "stostrb"
+    ]
+  },
+  {
+    "value": "sitosterol",
+    "synonyms": [
+      "sitosterol"
+    ]
+  },
+  {
+    "value": "soild",
+    "synonyms": [
+      "soild"
+    ]
+  },
+  {
+    "value": "phytac",
+    "synonyms": [
+      "phytac"
+    ]
+  },
+  {
+    "value": "phytate",
+    "synonyms": [
+      "phytate"
+    ]
+  },
+  {
+    "value": "ip6",
+    "synonyms": [
+      "ip6"
+    ]
+  },
+  {
+    "value": "phytic",
+    "synonyms": [
+      "phytic"
+    ]
+  },
+  {
+    "value": "inositol",
+    "synonyms": [
+      "inositol"
+    ]
+  },
+  {
+    "value": "hexakisphosphate",
+    "synonyms": [
+      "hexakisphosphate"
+    ]
+  },
+  {
+    "value": "polyphosphate",
+    "synonyms": [
+      "polyphosphate"
+    ]
+  },
+  {
+    "value": "cyclohexane",
+    "synonyms": [
+      "cyclohexane"
+    ]
+  },
+  {
+    "value": "hexayl",
+    "synonyms": [
+      "hexayl"
+    ]
+  },
+  {
+    "value": "hexakis",
+    "synonyms": [
+      "hexakis"
+    ]
+  },
+  {
+    "value": "dihydrogen",
+    "synonyms": [
+      "dihydrogen"
+    ]
+  },
+  {
+    "value": "phosphate",
+    "synonyms": [
+      "phosphate"
+    ]
+  },
+  {
+    "value": "salt",
+    "synonyms": [
+      "salt"
+    ]
+  },
+  {
+    "value": "sapon",
+    "synonyms": [
+      "sapon"
+    ]
+  },
+  {
+    "value": "saponin",
+    "synonyms": [
+      "saponin"
+    ]
+  },
+  {
+    "value": "triterpene",
+    "synonyms": [
+      "triterpene"
+    ]
+  },
+  {
+    "value": "triterpenoid",
+    "synonyms": [
+      "triterpenoid"
+    ]
+  },
+  {
+    "value": "amphipathic",
+    "synonyms": [
+      "amphipathic"
+    ]
+  },
+  {
+    "value": "lipophilic",
+    "synonyms": [
+      "lipophilic"
+    ]
+  },
+  {
+    "value": "hydrophilic",
+    "synonyms": [
+      "hydrophilic"
+    ]
+  },
+  {
+    "value": "foaming",
+    "synonyms": [
+      "foaming"
+    ]
+  },
+  {
+    "value": "vitb",
+    "synonyms": [
+      "vitb"
+    ]
+  },
+  {
+    "value": "vitd",
+    "synonyms": [
+      "vitd"
+    ]
+  },
+  {
+    "value": "vitk",
+    "synonyms": [
+      "vitk"
+    ]
+  },
+  {
+    "value": "tocph",
+    "synonyms": [
+      "tocph"
+    ]
+  },
+  {
+    "value": "tocopherols",
+    "synonyms": [
+      "tocopherols"
+    ]
+  },
+  {
+    "value": "toctr",
+    "synonyms": [
+      "toctr"
+    ]
+  },
+  {
+    "value": "tocotrienols",
+    "synonyms": [
+      "tocotrienols"
+    ]
+  },
+  {
+    "value": "amiace",
+    "synonyms": [
+      "amiace"
+    ]
+  },
+  {
+    "value": "amiacce",
+    "synonyms": [
+      "amiacce"
+    ]
+  },
+  {
+    "value": "conditionally",
+    "synonyms": [
+      "conditionally"
+    ]
+  },
+  {
+    "value": "amiacne",
+    "synonyms": [
+      "amiacne"
+    ]
+  },
+  {
+    "value": "non",
+    "synonyms": [
+      "non"
+    ]
+  },
+  {
+    "value": "amiac",
+    "synonyms": [
+      "amiac"
+    ]
+  },
+  {
+    "value": "orgac",
+    "synonyms": [
+      "orgac"
+    ]
+  },
+  {
+    "value": "fauns",
+    "synonyms": [
+      "fauns"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good"
+    ]
+  },
+  {
+    "value": "healthy",
+    "synonyms": [
+      "healthy"
+    ]
+  },
+  {
+    "value": "faess",
+    "synonyms": [
+      "faess"
+    ]
+  },
+  {
+    "value": "facn3",
+    "synonyms": [
+      "facn3"
+    ]
+  },
+  {
+    "value": "ω",
+    "synonyms": [
+      "ω"
+    ]
+  },
+  {
+    "value": "facn6",
+    "synonyms": [
+      "facn6"
+    ]
+  },
+  {
+    "value": "facn9",
+    "synonyms": [
+      "facn9"
+    ]
+  },
+  {
+    "value": "famscis",
+    "synonyms": [
+      "famscis"
+    ]
+  },
+  {
+    "value": "fatrn",
+    "synonyms": [
+      "fatrn"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad"
+    ]
+  },
+  {
+    "value": "unhealthy",
+    "synonyms": [
+      "unhealthy"
+    ]
+  },
+  {
+    "value": "harmful",
+    "synonyms": [
+      "harmful"
+    ]
+  },
+  {
+    "value": "detrimental",
+    "synonyms": [
+      "detrimental"
+    ]
+  },
+  {
+    "value": "damaging",
+    "synonyms": [
+      "damaging"
+    ]
+  },
+  {
+    "value": "olsac",
+    "synonyms": [
+      "olsac"
+    ]
+  },
+  {
+    "value": "oligosaccharides",
+    "synonyms": [
+      "oligosaccharides"
+    ]
+  },
+  {
+    "value": "polymer",
+    "synonyms": [
+      "polymer"
+    ]
+  },
+  {
+    "value": "complex",
+    "synonyms": [
+      "complex"
+    ]
+  },
+  {
+    "value": "phystr",
+    "synonyms": [
+      "phystr"
+    ]
+  },
+  {
+    "value": "phytosterols",
+    "synonyms": [
+      "phytosterols"
+    ]
+  },
+  {
+    "value": "stanol",
+    "synonyms": [
+      "stanol"
+    ]
+  },
+  {
+    "value": "mnrleq",
+    "synonyms": [
+      "mnrleq"
+    ]
+  },
+  {
+    "value": "minerals",
+    "synonyms": [
+      "minerals"
+    ]
+  },
+  {
+    "value": "mnrlet",
+    "synonyms": [
+      "mnrlet"
+    ]
+  },
+  {
+    "value": "mnrlpet",
+    "synonyms": [
+      "mnrlpet"
+    ]
+  },
+  {
+    "value": "possibly",
+    "synonyms": [
+      "possibly"
+    ]
+  },
+  {
+    "value": "mnrlnet",
+    "synonyms": [
+      "mnrlnet"
+    ]
+  },
+  {
+    "value": "mnrltx",
+    "synonyms": [
+      "mnrltx"
+    ]
+  },
+  {
+    "value": "carot",
+    "synonyms": [
+      "carot"
+    ]
+  },
+  {
+    "value": "carotenes",
+    "synonyms": [
+      "carotenes"
+    ]
+  },
+  {
+    "value": "carotin",
+    "synonyms": [
+      "carotin"
+    ]
+  },
+  {
+    "value": "photosythetic",
+    "synonyms": [
+      "photosythetic"
+    ]
+  },
+  {
+    "value": "xantp",
+    "synonyms": [
+      "xantp"
+    ]
+  },
+  {
+    "value": "xanthophylls",
+    "synonyms": [
+      "xanthophylls"
+    ]
+  },
+  {
+    "value": "phylloxanthin",
+    "synonyms": [
+      "phylloxanthin"
+    ]
+  },
+  {
+    "value": "cartbeq",
+    "synonyms": [
+      "cartbeq"
+    ]
+  },
+  {
+    "value": "equivalents",
+    "synonyms": [
+      "equivalents"
+    ]
+  },
+  {
+    "value": "previtamin",
+    "synonyms": [
+      "previtamin"
+    ]
+  },
+  {
+    "value": "vita",
+    "synonyms": [
+      "vita"
+    ]
+  },
+  {
+    "value": "vit",
+    "synonyms": [
+      "vit"
+    ]
+  },
+  {
+    "value": "vitamins",
+    "synonyms": [
+      "vitamins"
+    ]
+  }
+]

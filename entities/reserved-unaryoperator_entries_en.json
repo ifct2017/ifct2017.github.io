@@ -1,0 +1,107 @@
+[
+  {
+    "value": "NOT",
+    "synonyms": [
+      "boolean not",
+      "bool not",
+      "not"
+    ]
+  },
+  {
+    "value": "IS NULL",
+    "synonyms": [
+      "is null"
+    ]
+  },
+  {
+    "value": "IS NOT NULL",
+    "synonyms": [
+      "is not null"
+    ]
+  },
+  {
+    "value": "IS TRUE",
+    "synonyms": [
+      "is true"
+    ]
+  },
+  {
+    "value": "IS NOT TRUE",
+    "synonyms": [
+      "is not true"
+    ]
+  },
+  {
+    "value": "IS FALSE",
+    "synonyms": [
+      "false is"
+    ]
+  },
+  {
+    "value": "IS NOT FALSE",
+    "synonyms": [
+      "false is not"
+    ]
+  },
+  {
+    "value": "IS UNKNOWN",
+    "synonyms": [
+      "is unknown"
+    ]
+  },
+  {
+    "value": "IS NOT UNKNOWN",
+    "synonyms": [
+      "is not unknown"
+    ]
+  },
+  {
+    "value": "|/",
+    "synonyms": [
+      "root square",
+      "root",
+      "cube root"
+    ]
+  },
+  {
+    "value": "!",
+    "synonyms": [
+      "factorial"
+    ]
+  },
+  {
+    "value": "@",
+    "synonyms": [
+      "absolute valu",
+      "absolute",
+      "abs"
+    ]
+  },
+  {
+    "value": "~",
+    "synonyms": [
+      "bitwise not",
+      "bit not"
+    ]
+  },
+  {
+    "value": "ESCAPE",
+    "synonyms": [
+      "escape"
+    ]
+  },
+  {
+    "value": "!!",
+    "synonyms": [
+      "negate"
+    ]
+  },
+  {
+    "value": "EXISTS",
+    "synonyms": [
+      "empty not",
+      "not nothing",
+      "exists"
+    ]
+  }
+]
