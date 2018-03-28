@@ -13,7 +13,7 @@ var lines = name.split(os.EOL), z = '';
 for(var line of lines) {
   var wrds = line.split('","');
   if(wrds.length<2) continue;
-  var name = wrds[0].substring(1), key = wrds[1].substring(0, wrds[1].length-1);
+  var name = wrds[0].substring(1), key = wrds[1].substring(0, wrds[1].length);
   z += `"${name}",${map.get(key)}${os.EOL}`;
 }
 fs.writeFileSync('out.txt', z);
