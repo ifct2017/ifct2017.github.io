@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2cf00605-e97a-42fb-9121-d00aa0447090",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " supporter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522266837
+  },
+  {
+    "id": "0a832bfc-cb96-4f69-8675-b4acacbdafe1",
+    "data": [
+      {
+        "text": "which organization supports ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522266837
+  },
+  {
+    "id": "cb6ff36a-238c-413e-8eed-3dbe278a054c",
+    "data": [
+      {
+        "text": "who provides ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " international support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522266837
+  },
+  {
+    "id": "09e6e18f-aa97-4cf7-a21f-22b0b8e8935f",
+    "data": [
+      {
+        "text": "who are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " supported by",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522266837
+  }
+]

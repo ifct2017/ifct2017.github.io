@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Available carbohydrate is the sum of total free sugars and total starch. Free sugars are individual monosaccharides (galactose, glucose and fructose) and disaccharides (sucrose, lactose and maltose). The values for available carbohydrate have generally been obtained from the sum of individually analyzed values for these components and will differ with figures for carbohydrate ‘by difference’. Available carbohydrates are those which is digested and absorbed, and are glucogenic in human corresponding to the term ‘glycaemic carbohydrates’."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522269319,
   "fallbackIntent": false,
   "events": []
 }

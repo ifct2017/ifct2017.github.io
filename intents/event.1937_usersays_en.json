@@ -1,0 +1,72 @@
+[
+  {
+    "id": "f049bef1-a0f9-4c70-a817-27deab89eae3",
+    "data": [
+      {
+        "text": "1937 event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268443
+  },
+  {
+    "id": "0aaab847-7672-4fdf-992e-7ded2e79a80e",
+    "data": [
+      {
+        "text": "1937 what occurred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268443
+  },
+  {
+    "id": "0a04a14a-416c-4297-af38-4415ed17ebfc",
+    "data": [
+      {
+        "text": "what happened in 1937",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268443
+  },
+  {
+    "id": "208cce43-cd50-46fb-b80c-f331aebef904",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me what happened in 1937",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268443
+  },
+  {
+    "id": "876d60c5-43c0-4e97-afda-69a08c8f811e",
+    "data": [
+      {
+        "text": "what events happened in 1937",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268443
+  }
+]

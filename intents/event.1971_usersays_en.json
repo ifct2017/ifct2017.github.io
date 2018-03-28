@@ -1,0 +1,72 @@
+[
+  {
+    "id": "584e3586-3aad-4d29-a1de-4da350912ff5",
+    "data": [
+      {
+        "text": "1971 event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268859
+  },
+  {
+    "id": "58de57f1-0088-4102-935a-d9fa78d41226",
+    "data": [
+      {
+        "text": "1971 what occurred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268859
+  },
+  {
+    "id": "c6535684-56a8-427c-a7c8-51a23f74f0d8",
+    "data": [
+      {
+        "text": "what happened in 1971",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268859
+  },
+  {
+    "id": "6a7fe430-1cb7-471a-9a46-ce2e99b5b11b",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me what happened in 1971",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268859
+  },
+  {
+    "id": "540efb49-62d8-4210-87f6-003597732fa5",
+    "data": [
+      {
+        "text": "what events happened in 1971",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268859
+  }
+]

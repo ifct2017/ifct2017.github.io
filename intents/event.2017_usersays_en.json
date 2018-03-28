@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a615925a-f432-48bf-b9a2-5a5c78e3dbcb",
+    "data": [
+      {
+        "text": "2017 event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269054
+  },
+  {
+    "id": "c9019bf7-2f9d-4c9f-b89f-64ec7e1f55be",
+    "data": [
+      {
+        "text": "2017 what occurred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269054
+  },
+  {
+    "id": "f3615fe3-24f0-4955-9466-71e11daf589d",
+    "data": [
+      {
+        "text": "what happened in 2017",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269054
+  },
+  {
+    "id": "7bf4581d-0c97-46da-a485-6f9e33a55162",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me what happened in 2017",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269054
+  },
+  {
+    "id": "81eb43ad-101e-42ce-834a-412d47c23d66",
+    "data": [
+      {
+        "text": "what events happened in 2017",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269054
+  }
+]

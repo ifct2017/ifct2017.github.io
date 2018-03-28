@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fatty acid profile is obtained as the percentage of fatty acid methyl esters determined by gas liquid chromatographic (GLC) analysis. Fatty acids are expressed as the actual quantity of fatty acid in mg per 100g of edible potion of food calculated using Sheppard conversion factor as detailed in Weihrauch et al. (1977). Detailed information on individual fatty acids of each food including values for total saturated, monounsaturated and polyunsaturated fatty acids are reported."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157376,
+  "lastUpdate": 1522269540,
   "fallbackIntent": false,
   "events": []
 }

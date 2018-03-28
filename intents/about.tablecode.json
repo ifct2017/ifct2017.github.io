@@ -7,8 +7,22 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "05aa5848-e68d-422a-bf60-d8a103976a01",
+          "dataType": "@table-code",
+          "name": "table-code",
+          "value": "$table-code",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its table code is $table-code."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +30,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522267141,
   "fallbackIntent": false,
   "events": []
 }

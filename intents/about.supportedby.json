@@ -7,8 +7,22 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "f10b5028-8711-4e6e-99b7-efedc25bc12d",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "International support is necessary and the International Network of Food Data Systems (INFOODS) at the Food and Agriculture Organization of the United Nations (FAO), Rome continues to provide assistance in terms of standards development and capacity building to strengthen national food composition activities across the world. Generating high quality food composition data is an expensive proposition but essential for elevating the nutrition scenario of the country. Therefore, sustained funding from the government through policy environment is required to sustain this cardinal activity."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +30,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522266837,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "0ecfff76-29b6-4780-a54d-3892a117f35e",
+    "data": [
+      {
+        "text": "1963 event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268708
+  },
+  {
+    "id": "e287546e-c57c-4181-9395-32b29e357ff1",
+    "data": [
+      {
+        "text": "1963 what occurred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268708
+  },
+  {
+    "id": "4aad0b2d-bf9e-4a9d-b882-48cd8d0a894d",
+    "data": [
+      {
+        "text": "what happened in 1963",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268708
+  },
+  {
+    "id": "3459f62a-e68b-4df5-a090-417c8248be52",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me what happened in 1963",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268708
+  },
+  {
+    "id": "206fb1eb-f6d9-4223-8e3a-da9c06d3206c",
+    "data": [
+      {
+        "text": "what events happened in 1963",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268708
+  }
+]

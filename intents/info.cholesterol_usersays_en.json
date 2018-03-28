@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fb139312-213c-4339-8505-634918f68a3a",
+    "data": [
+      {
+        "text": "show details about cholesterol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269424
+  },
+  {
+    "id": "b01fcb94-f16c-463c-950a-ce10105c77df",
+    "data": [
+      {
+        "text": "what is cholesterol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269424
+  },
+  {
+    "id": "d370d1ea-436e-421e-9613-148c117616d1",
+    "data": [
+      {
+        "text": "i want to know about cholesterol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269424
+  },
+  {
+    "id": "fe7fca55-9fc2-4347-9c88-7e6ef7976524",
+    "data": [
+      {
+        "text": "tell me about cholesterol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522269424
+  }
+]

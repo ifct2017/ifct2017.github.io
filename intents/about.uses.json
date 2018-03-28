@@ -7,8 +7,22 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
-      "messages": [],
+      "parameters": [
+        {
+          "id": "cd94cc1c-3120-43df-92aa-5fc7719767a4",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Compositional values of foods are useful in manifold ways; in nutritional surveillance, consumer nutrition appraisal, nutrition labeling, etiology of disease prevalence, setting school menu standards-meal planning, issue of dietary guidelines- recommendations and even to estimate intake of toxic and non-nutritive components as well as to assess environmental impact of foods. Thus, compilation of food composition data is an important activity the utility of which spans across various sectors and disciplines."
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +30,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522157373,
+  "lastUpdate": 1522267440,
   "fallbackIntent": false,
   "events": []
 }

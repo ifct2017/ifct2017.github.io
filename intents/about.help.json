@@ -8,7 +8,13 @@
       "resetContexts": false,
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can learn more about about how to use Indian Food Composition Tables 2017 by visiting the website:\nhttps://ifct2017.github.io/help\n\nHere are some addtional links for your reference:\n- NIN, Hyderabad: http://www.ninindia.org/\n- Food composition data: http://ifct2017.com/\n- Nutrition education: http://vikaspedia.in/health/nutrition\n- Count what you eat: http://218.248.6.43:8080/CountWhatYouEat/Home.do"
+        }
+      ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
@@ -16,7 +22,7 @@
   "priority": 0,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522242340,
+  "lastUpdate": 1522270078,
   "fallbackIntent": false,
   "events": []
 }

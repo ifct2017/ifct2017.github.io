@@ -1,0 +1,72 @@
+[
+  {
+    "id": "914525ef-2f3c-4eb7-8e1c-5e35135feeca",
+    "data": [
+      {
+        "text": "1989 event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268957
+  },
+  {
+    "id": "d82da212-86c0-4e88-873c-617558492b84",
+    "data": [
+      {
+        "text": "1989 what occurred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268957
+  },
+  {
+    "id": "f8159609-25d6-49bf-8ae8-6bca70e95ce4",
+    "data": [
+      {
+        "text": "what happened in 1989",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268957
+  },
+  {
+    "id": "587eaee3-b967-4135-908c-a7882f7238e6",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": " tell me what happened in 1989",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268957
+  },
+  {
+    "id": "51da8be7-b82f-4f2e-9679-4663f96ab68d",
+    "data": [
+      {
+        "text": "what events happened in 1989",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522268957
+  }
+]
