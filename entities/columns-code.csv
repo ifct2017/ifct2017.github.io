@@ -1,5 +1,6 @@
 "code","code","food code","id","tag","legend"
 "name","name","food name","title","label"
+"scie","scientific name","binomial name","genus name","bitanical name"
 "regn","regn","no. of regions","number of regions","regions"
 "water","water","moisture","liquid","steam","vapour"
 "protcnt","protcnt","protein"
