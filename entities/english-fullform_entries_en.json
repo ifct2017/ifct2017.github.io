@@ -1,0 +1,24 @@
+[
+  {
+    "value": "present",
+    "synonyms": [
+      "full form",
+      "long form",
+      "expand",
+      "expansion",
+      "define",
+      "definition",
+      "mean",
+      "meaning"
+    ]
+  },
+  {
+    "value": "past",
+    "synonyms": [
+      "expanded",
+      "expanded form",
+      "defined",
+      "meant"
+    ]
+  }
+]

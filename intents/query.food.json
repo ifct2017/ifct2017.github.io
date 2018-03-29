@@ -19,10 +19,19 @@
         },
         {
           "id": "00dad6e8-131c-4ea3-b127-2317c0ec8ad0",
+          "required": false,
           "dataType": "@compositions-tags",
           "name": "compositions-text",
           "value": "$compositions-tags.original",
           "isList": true
+        },
+        {
+          "id": "e9d08715-f6fa-4665-9672-18d659bb1d74",
+          "required": false,
+          "dataType": "@english-show",
+          "name": "english-show",
+          "value": "$english-show",
+          "isList": false
         }
       ],
       "messages": [
@@ -39,7 +48,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": true,
-  "lastUpdate": 1522274823,
+  "lastUpdate": 1522321983,
   "fallbackIntent": false,
   "events": []
 }

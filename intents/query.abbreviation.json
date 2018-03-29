@@ -9,10 +9,34 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "76b1adcc-6a4a-4564-a1e2-b6ca49e6df88",
-          "dataType": "@abbreviations-full",
-          "name": "abbreviations-full",
-          "value": "$abbreviations-full",
+          "id": "b93ee075-6403-42fe-a097-e82a63a79b1c",
+          "required": false,
+          "dataType": "@abbreviations-code",
+          "name": "abbreviations-code",
+          "value": "$abbreviations-code",
+          "isList": false
+        },
+        {
+          "id": "b13700a6-02ec-4aa7-bc77-992eee21cae4",
+          "required": false,
+          "dataType": "@english-fullform",
+          "name": "english-fullform",
+          "value": "$english-fullform",
+          "isList": false
+        },
+        {
+          "id": "71563428-fb24-4e04-9e7d-5d16887778de",
+          "required": false,
+          "dataType": "@english-show",
+          "name": "english-show",
+          "value": "$english-show",
+          "isList": false
+        },
+        {
+          "id": "9c946329-abf5-4627-9909-26490ce36033",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
           "isList": false
         }
       ],
@@ -20,7 +44,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Its full form is $abbreviations-full."
+          "speech": "Does it stand for $abbreviations-code?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,9 +52,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "lastUpdate": 1522273151,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1522321760,
   "fallbackIntent": false,
   "events": []
 }

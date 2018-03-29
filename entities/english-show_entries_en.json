@@ -1,0 +1,52 @@
+[
+  {
+    "value": "present-show",
+    "synonyms": [
+      "show",
+      "manifest",
+      "appear",
+      "exhibit",
+      "reveal",
+      "convey",
+      "communicate",
+      "make known",
+      "indicate",
+      "express",
+      "intimate",
+      "signify",
+      "disclose",
+      "display",
+      "unveil",
+      "present",
+      "introduce",
+      "demonstrate",
+      "denote"
+    ]
+  },
+  {
+    "value": "present-speak",
+    "synonyms": [
+      "speak",
+      "talk",
+      "say",
+      "utter",
+      "state",
+      "declare",
+      "tell",
+      "voice",
+      "pronounce",
+      "articulate",
+      "enunciate",
+      "vocalize",
+      "verbalize",
+      "converse",
+      "chat",
+      "gossip",
+      "lecture",
+      "orate",
+      "mention",
+      "discuss",
+      "introduce"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "131bafa0-67b6-4c40-98a1-5aea54243e46",
+  "name": "query.info",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "34902638-dabc-4308-a040-b2239e36851a",
+          "required": false,
+          "dataType": "@columns-tags",
+          "name": "columns-tags",
+          "value": "$columns-tags",
+          "isList": true
+        },
+        {
+          "id": "89581744-05c0-4581-81f6-e9b6cccbbafb",
+          "required": false,
+          "dataType": "@columns-tags",
+          "name": "columns-text",
+          "value": "$columns-tags.original",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Vitamin K data as phylloquinone in plant foods and menaquinone in animal foods estimated using liquid chromatography are presented in the IFCT."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1522335056,
+  "fallbackIntent": false,
+  "events": []
+}
