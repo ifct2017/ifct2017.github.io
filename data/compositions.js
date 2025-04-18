@@ -80,7 +80,7 @@ function vtableLog(row) {
 function onReady() {
   var qry = queryParse(location.search);
   var code = qry.code||'A001';
-  $.getJSON(SERVER_URL+'/fn/data/compositions?code='+code, function(data) {
+  $.getJSON(SERVER_URL+'/api/data?table=compositions&code='+code, function(data) {
     var rows = rowsWithText(data), row = rows[0]||{};
     $('#composition_caption').attr('style', '');
     $('#picture').attr('src', pictureUrl(row.code));

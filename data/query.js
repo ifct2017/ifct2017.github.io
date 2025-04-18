@@ -257,7 +257,7 @@ function chartDraw(rows, x, ys) {
 // Get query results and update chart & table.
 function processQuery(txt) {
   console.log('processQuery()', txt);
-  ajaxGetJson(SERVER_URL+'/fn/english/'+txt, function(data) {
+  ajaxGetJson(SERVER_URL+'/api/english?text='+encodeURIComponent(txt), function(data) {
     console.log('Slang:', data.slang);
     console.log('SQL:', data.sql);
     var rows = data.rows;
@@ -287,7 +287,7 @@ function processQuery(txt) {
 
 // Save query for suggestions.
 function saveQuery(txt) {
-  ajaxGetJson(SERVER_URL+'/fn/query/save/'+txt, function (data) {
+  ajaxGetJson(SERVER_URL+'/api/query/save?text='+encodeURIComponent(txt), function (data) {
     console.log('Query saved: '+data[0].text+' ['+data[0].score+']');
   });
 };
